@@ -1,0 +1,127 @@
+<DOC>
+<DOCID>ATS.941228.0026</DOCID>
+<DOCNO>ATS.941228.0026</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+941228
+</DT>
+<PT>
+171600
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+c5swi comt ecpi ecps prod
+</DE>
+<AU>
+jn rp
+</AU>
+<KW>
+suisse micro-informatique securite eclairage
+</KW>
+<TI>
+Pour une micro-informatique plus sûre La discipline importe autant que les
+équipements éclairage par Alain Graber, SIM-Informatique.
+</TI>
+<LD>
+Berne, 28 déc (ats) Depuis que la micro-informatique existe, la sécurité des
+données est motif de préoccupation. Les trois risques les plus courants sont
+les virus, le "crash" d'un disque dur et la perte pure et simple des données
+ou de leurs supports. Pour les éviter, la discipline importe autant que les
+équipements.
+</LD>
+<TX>
+Certaines entreprises ont édicté des règles très strictes pour l'utilisation
+de leur parc informatique. Il est vrai que dans le domaine, les "pépins"
+coûtent très cher. De plus, l'utilisation d'un ordinateur exige un minimum de
+discipline de la part de l'utilisateur.
+</TX>
+<ST>
+Virus maîtrisables
+</ST>
+<TX>
+Les virus font partie des risques les plus redoutés. Pour les éviter,
+l'utilisateur ne devrait jamais démarrer son ordinateur avec une disquette de
+provenance inconnue. A cet effet, certains fabricants d'ordinateurs ont prévu
+un dispositif permettant, le cas échéant, de désactiver le lecteur de
+disquettes au moment du démarrage.
+</TX>
+<TX>
+La plupart des utilisateurs emploient régulièrement un ou plusieurs
+programmes antivirus pour contrôler leurs fichiers. Ces logiciels permettent
+de scanner le disque dur - c'est aussi valable pour le ou les disques d'un
+serveur - puis de "désinfecter" le support de données s'il y a lieu.
+</TX>
+<TX>
+Pour éviter tout risque de contamination, il vaut la peine d'effectuer une
+remise à jour régulière des programmes antivirus, afin de disposer des
+derniers systèmes de désinfection. Une bonne stratégie consiste à ne pas
+faire une confiance aveugle à un seul logiciel, mais plutôt d'en avoir deux
+ou trois sous la main, afin de faire des recoupements. L'un sera excellent
+pour "scanner" le disque, tandis qu'un autre sera meilleur pour "désinfecter"
+un disque dur ou une disquette.
+</TX>
+<ST>
+Pire que le virus
+</ST>
+<TX>
+Même s'il est de plus en plus rare, le crash d'un disque dur est une panne
+bien pire que celle provoquée par un virus. Les données sont alors
+pratiquement irrécupérables. Ainsi, contrairement à ce que bien des néophytes
+pensent, le disque dur, même de haute capacité, ne dispense pas l'utilisateur
+d'effectuer des sauvegardes.
+</TX>
+<TX>
+Il importe, de ce fait, de recourir d'abord aux sous-répertoires de
+sauvegarde liés au système. Mais en cas de coup dur, ceux-ci ne permettront
+pas à l'utilisateur de retrouver ses fichiers.  L'utilisateur d'un ordinateur
+a donc tout intérêt à considérer sérieusement l'achat d'un support
+complémentaire lui permettant d'effectuer rapidement, et surtout
+efficacement, les sauvegardes de ses programmes et de ses fichiers.
+</TX>
+<ST>
+Sur bandes magnétiques
+</ST>
+<TX>
+Les sauvegardes effectuées à l'aide d'un "streamer" sont parmi les plus
+sûres. Ce dispositif, d'un encombrement identique à celui d'un lecteur de
+disquettes, utilise des cassettes à bande magnétique. En règle générale, on
+choisit un "streamer" de capacité identique, voire légèrement supérieure, à
+celle d'un disque dur.
+</TX>
+<TX>
+En utilisation professionnelle, l'utilisateur fera une sauvegarde complète de
+son disque dur sur une cassette, qu'il mettra soigneusement à l'abri. Le
+professionnel devrait en outre effectuer une sauvegarde des données modifiées
+avec une cassette pour chaque jour de la semaine, ainsi qu'une cassette pour
+les données de la semaine.
+</TX>
+<ST>
+Gérer aussi le disque dur
+</ST>
+<TX>
+Lors de l'achat d'un nouveau programme, la première chose à faire est de
+copier ce dernier et de ne travailler qu'avec les copies. Il vaut la peine
+d'investir quelques dizaines de francs dans un bon système de rangement pour
+les disquettes, sans quoi, les boîtes de rangement se transforment rapidement
+en poubelles.
+</TX>
+<TX>
+Sur le disque dur aussi, les données doivent être archivées avec soin, et pas
+simplement copiées dans le répertoire racine du disque dur, comme le font
+trop les utilisateurs inexpérimentés. L'usage de mots de passe permettra de
+donner à chaque utilisateur l'accès à une portion seulement de disque dur.
+</TX>
+</DOC>

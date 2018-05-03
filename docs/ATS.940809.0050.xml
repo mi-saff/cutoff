@@ -1,0 +1,154 @@
+<DOC>
+<DOCID>ATS.940809.0050</DOCID>
+<DOCNO>ATS.940809.0050</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940809
+</DT>
+<PT>
+150100
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+ecps fin sozv
+</DE>
+<AU>
+rp jn
+</AU>
+<KW>
+suisse hopitaux informatique besoins
+</KW>
+<TI>
+La nouvelle vague de la high-tech déferle sur les hôpitaux L'informatique au
+service des efforts de compression des coûts.
+</TI>
+<LD>
+Berne, 9 août (sim) Les hôpitaux ont de gros besoins en informatique.
+Ceux-ci ne feront que croître ces prochaines années: contraints aux
+économies, les hôpitaux souhaitent savoir où ils peuvent serrer la vis. Or
+l'ordinateur n'est plus uniquement un outil de gestion. Il devient
+l'auxiliaire du personnel soignant.
+</LD>
+<TX>
+Ce qui paraît aujourd'hui vision utopique sera réalité dans quelques années:
+le médedin tâte le poul de son patient, examine une cicatrice, prescrit deux
+médicaments et ordonne un traitement de physiothérapie. A ses côtés,
+l'infirmière relève l'ordonnance directement sur son bloc-notes électronique
+(NotePad).
+</TX>
+<ST>
+Transmission immédiate
+</ST>
+<TX>
+L'ordinateur personnel transmet l'ordonnance par liaison sans fil,
+directement dans le système informatique de l'hôpital. Le système s'occupe de
+la commande des médicaments, au cas où ceux-ci ne sont pas ou plus
+disponibles dans le service.
+</TX>
+<TX>
+L'ordonnance enregistrée, l'oordinateur agende un rendez-vous avec le physio.
+Une heure plus tard, lorsque l'infirmière confirme sur son bloc-notes la
+réception des médicaments, l'ordinateur les porte en compte sur la facture du
+patient.
+</TX>
+<TX>
+Tout cela n'est encore que musique d'avenir. Mais dans cinq ans, ce pourrait
+bien être la réalité quotidienne des hôpitaux, explique Thomas Schöni, du
+groupe américain AT%T. Ces solutions informatiques globales ne sont pas un
+jeu de spécialistes: elles deviendront bientôt une nécessité pour tous les
+hôpitaux, en Suisse comme à l'étranger.
+</TX>
+<ST>
+Concurrence accrue
+</ST>
+<TX>
+"Nous allons au devant d'une concurrence accrue entre les hôpitaux ", note
+Nils Undritz, secrétaire général de l'association suisse des établissements
+hospitaliers (Veska). Cela implique des bases de calculation claires, une
+gestion optimale. Pour vendre des prestations au meilleur prix, il faut
+savoir très précisément ce qu'elles coûtent, explique-t-il.
+</TX>
+<TX>
+Transparence et gestion des coûts, c'est l'alpha et l'omega de management
+dans l'économie privée. Mais le principe est encore trop rarement appliqué
+dans les hôpitaux suisses. Bien sûr, les données des patients sont gérées
+électroniquement. Mais les prestations des médecins, du personnel soignant et
+l'utilisation des installations thérapeutiques sont rarement saisies sur
+ordinateur et traitées dans le détail.
+</TX>
+<TX>
+Une documentation exacte des prestations et des coûts n'est possible qu'à
+l'aide d'un système informatique intégré, estime Heinz Koller, responsable
+des systèmes informatiques médicaux chez Fides Informatik, à Berne. Cette
+tâche est encore trop méconnue de la plupart des hôpitaux publics. Elle est
+en revanche reconnue depuis des années dans les établissements privés.
+</TX>
+<ST>
+Impératifs de fiabilité
+</ST>
+<TX>
+Pierre Brennwald, directeur administratif de la clinique bâloise Sainte Clara
+fait observer que si l'ordinateur est nécessaire, il ne peut seul établir le
+meilleur budget. Dans ce domaine comme dans ce lui des soins assistés par
+ordinateurs, la fiabilité et la transparence sont en outre de première
+importance.
+</TX>
+<TX>
+Les systèmes ne sont réellement fiable que si les données relevées
+électroniquement le sont immédiatement et complètement. Toutes les données
+concernant un patient et provenant des divers services doivent être en outre
+disponibles centralement. Le plus efficace est de saisir les données là où
+elles naissent.
+</TX>
+<ST>
+Lecteurs de codes
+</ST>
+<TX>
+Dans le système idéal, le personnel soignant ne note plus ses actes sur
+papier, mais directement sur ordinateur. Les données sont alors immédiatement
+à disposition des médecins, de l'administration et des services de soins. Les
+prestations pourront par ailleurs être facturées dans la foulée.
+</TX>
+<TX>
+D'autres systèmes travaillent avec les lecteurs de codes-barres.  Lorsque le
+médecin ausculte un patient, il passe son lecteur sur le code de ce dernier,
+puis sur le code du traitement en cours. Les système de lecture de ces codes
+sont à peine plus gros qu'un stylo.
+</TX>
+<TX>
+A la fin de sa journée de travail, le médecin insère le lecteur dans une
+prise et ce dernier transmet toutes les données récoltées à l'ordinateur
+central. Les informations ainsi récoltées servent de base à la gestion des
+coûts, au contrôle de la qualité des soins et à la gestion globale de
+l'établissement par la direction.
+</TX>
+<ST>
+Déplacement des coûts
+</ST>
+<TX>
+Ce type de système informatique et la saisie décentralisée des données des
+prestations est avantageux. "Nous avons constaté que, sans le traitement
+électronique des données, il n'est souvent possible de saisir que la moitié
+des prestations fournies", relève-on chez Fides Informatik.
+</TX>
+<TX>
+Revers de la médaille toutefois, ce surcroît d'informations est obtenu au
+prix du déplacement d'une partie des coûts de fonctionnement des hôpitaux sur
+le domaine du management. Des expériences faites en Angleterre montrent,
+selon M. Undritz, que les coûts de management augmentent de six à huit
+pour-cent dans les hôpitaux gérés conformément aux lois du marché.
+</TX>
+</DOC>

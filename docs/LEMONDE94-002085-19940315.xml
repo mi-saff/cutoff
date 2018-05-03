@@ -1,0 +1,164 @@
+<DOC>
+<DOCNO>LEMONDE94-002085-19940315</DOCNO>
+<DOCID>LEMONDE94-002085-19940315</DOCID>
+<ACCOUNT>328585</ACCOUNT>
+<GENRE>OPINION</GENRE>
+<CHA1>Il y a un demi-siècle, von Neumann et Morgenstern publiaient aux Etats-Unis leur ouvrage sur la théorie des jeux. Cette nouvelle approche mathématique des comportements, destinée à l'origine à l'analyse économique, a longtemps été exploitée, surtout par la défense, avant d'être redécouverte par les économistes.</CHA1>
+<DATE>19940315</DATE>
+<LMDOC>JGB</LMDOC>
+<SUBJECTS>JEU,SCIENCE ECONOMIQUE,MATHEMATIQUES</SUBJECTS>
+<FAB>11</FAB>
+<NOTE>(1) Théorie des jeux et comportement économique, Princeton, Princeton University Press, 1944. Ce livre n'a jamais encore été traduit en français.(2) Cf. Towards an History of Game Theory, E. Roy Weintraub, ed. Duke, Duke University Press, 1992. (3) Il établit l'existence d'une solution dans les jeux à somme nulle où la stratégie consistant à minimiser sa perte maximum (minimax) équivaut à la stratégie consistant à maximiser son gain minimal (maximim). (4) Cette idée avait déjà inspiré plusieurs travaux au mathématicien français Emile Borel, entre 1924 et 1939.(5) Jean Tirole, The Theory of Industrial Organization, Harvard, MIT Press, 1988 ; David Kreps, Game Theory and Economic Modelling, Oxford, Clarendon Press, 1990.(6) Kenneth Arrow, Social Knowledge and Methodological Individualism, R. T. Ely Lecture, ASSA Meeting Boston, 1994. &gt; (*) Professeur à l'université Paris-Dauphine.&gt; DOC / AVEC UN DESSIN DE COUSIN</NOTE>
+<NAMES>NEUMANN JOHN VON,MORGENSTERN OSKAR</NAMES>
+<PUM1>QUO</PUM1>
+<SEC1>MDE</SEC1>
+<AUTHOR>SCHMIDT CHRISTIAN</AUTHOR>
+<PAGE>296</PAGE>
+<TITLE>OPINIONS&gt; Science économique&gt;  La théorie des jeux, cinquante ans après</TITLE>
+<TEXT>EN janvier 1944, paraissait aux Etats-Unis un livre de plus de 600 pages au titre énigmatique Theory of Game and Economic Behavior (1). 
+Cet ouvrage était le fruit d'une collaboration entre un mathématicien 
+génial, John von Neumann, et un économiste précédé d'une brillante 
+réputation, Oskar Morgenstern. L'un et l'autre issus de 
+l'intelligentsia viennoise de l'entre-deux guerres, s'étaient 
+réfugiés à l'université de Princeton à laquelle se trouvent associés 
+des noms aussi prestigieux que ceux de Nils Borh et surtout d'Albert 
+Einstein. Ce qui ne devait être à l'origine qu'une simple brochure 
+est devenu un volumineux manuscrit rédigé en plein coeur de la 
+seconde guerre mondiale par deux déracinés de culture germanique. 
+Bien des questions sur cette étrange publication sont posées aux 
+historiens du présent (2). Le destin qu'elle a connu au cours de ce 
+demi-siècle est encore peut-être plus étonnant.</TEXT>
+<TEXT>
+  Le projet qui animait les deux auteurs apparaît triplement 
+ambitieux. Ils proposaient un cadre original pour poser un très 
+ancien problème, celui du traitement mathématique des situations où 
+intervient le hasard, et avançaient certaines solutions nouvelles 
+pour le résoudre, indépendamment de la ruse possible des joueurs 
+(démonstration du théorème du minima (3). Ils mettaient en évidence 
+des analogies profondes entre les situations économiques et sociales 
+résultant de l'interaction des agents (concurrence oligopolistique, 
+coalitions entre concurrents, marchandages, négociations) et les jeux 
+de société mêlant le hasard à l'habileté des joueurs (poker, bridge, 
+backgammon) (4) ; d'où le terme générique de " jeu " pour désigner 
+l'objet de la nouvelle théorie. Ils menaient enfin jusqu'à son terme 
+la première recherche accomplie par un mathématicien de très haute 
+volée avec la collaboration d'un économiste.</TEXT>
+<TEXT>
+ Le monde universitaire américain salua la performance 
+intellectuelle. Mais après une période d'activité fébrile de la part 
+de quelques jeunes chercheurs dans plusieurs campus, l'enthousiasme 
+déclina chez les économistes, et le principal domaine d'application 
+de la théorie des jeux devint celui de la défense nationale. Von 
+Neumann lui-même participa personnellement à cette époque au projet 
+Manhattan, à l'origine du développement de la bombe atomique, aux 
+côtés d'Oppenheimer et Fermi. Le début de la guerre froide, 
+l'importance des crédits dégagés par le budget du Pentagone et la 
+création d'un centre de recherche principalement consacré à ces 
+problèmes, la Rand Corporation, expliquent en partie cette évolution. 
+Mais d'autres raisons peuvent être trouvées dans le contenu de 
+l'ouvrage dont on fête aujourd'hui le 50e anniversaire.</TEXT>
+<TEXT>
+ Ententes et coalitions</TEXT>
+<TEXT>
+  L'essentiel des résultats démontrés concernent en effet des jeux à 
+somme nulle, c'est-à-dire des situations où ce que les uns gagnent 
+correspond exactement à ce que les autres perdent. Or si cette 
+hypothèse peut servir d'approximation acceptable lorsqu'il s'agit 
+d'affrontements militaires, elle s'accorde mal aux phénomènes 
+d'échange et de production étudiés par les économistes. Certes, la 
+coopération entre les joueurs est prise en compte à travers leurs 
+ententes et leurs coalitions, mais l'existence de ces coopérations se 
+trouve postulée et le nouveau cadre d'analyse n'est pas conçu pour 
+expliquer leur formation. C'est pourquoi, s'il permet de reformuler 
+beaucoup de problèmes économiques, et en particulier ceux posés par 
+les marchés imparfaits, il n'a pas toujours débouché sur un 
+renouvellement de leur solution. Que l'on songe en particulier à la 
+question classique de l'indétermination du prix dans le cas d'un 
+monopole bilatéral.</TEXT>
+<TEXT>
+  Que s'est-il donc passé à partir du début des années 80 pour que la 
+théorie des jeux, qui restait encore une curiosité réservée aux 
+économistes mathématiciens, ait vu son influence s'étendre 
+progressivement à presque toutes les branches de l'analyse économique 
+(économie industrielle, économie financière, économie internationale, 
+économie du travail et des négociations sociales) ? Il faut certes 
+invoquer l'élévation du niveau mathématique en science économique. 
+Mais cette explication reste un peu courte et trois autres facteurs 
+peuvent être avancés.</TEXT>
+<TEXT>
+  En premier lieu, une nouvelle génération de chercheurs a pris le 
+contre-pied d'une hypothèse centrale adoptée par les pères fondateurs 
+de la théorie des jeux. Au lieu de considérer la faculté de 
+s'entendre et de se coaliser comme acquise (jeux coopératifs), ils 
+sont partis de l'hypothèse inverse et ont choisi d'explorer en 
+priorité les cas où, faute de crédibilité des informations 
+disponibles, cette faculté était rendue impossible (jeux non 
+coopératifs).</TEXT>
+<TEXT>
+ Cette nouvelle approche permet en outre de se libérer aisément de 
+l'hypothèse restrictive des jeux à somme nulle. En procédant ainsi, 
+ils prolongeaient une voie explorée par John Nash dès les années 50 
+et retrouvaient surtout une tradition économique qui remonte au 
+français Augustin Cournot (1838), pour lequel beaucoup de phénomènes 
+économiques peuvent être appréhendés en termes d'affrontements 
+rationnels entre les agents. Des OPA inamicales sur les marchés 
+financiers aux grandes négociations sur le commerce mondial comme 
+celles du GATT, les illustrations actuelles ne manquent pas. 
+Nombreuses sont les situations économiques où l'entente finale entre 
+adversaires/partenaires intervient au terme de manoeuvres et de 
+menaces bien peu coopératives.</TEXT>
+<TEXT>
+  En second lieu, différentes procédures ont été trouvées pour rendre 
+dynamique une formulation initialement statique de ces jeux. Il est 
+rare en effet que les opérateurs engagés dans une partie économique 
+jouent une fois pour toutes et ne se rencontrent plus jamais à 
+l'occasion d'événements plus ou moins similaires. Les théoriciens des 
+jeux se sont donc efforcés de saisir ces situations où les jeux se 
+trouvent répétés. Cette extension a permis, en particulier, de 
+prendre en compte l'analyse des effets de réputation et les signaux 
+que peuvent vouloir se transmettre les opérateurs qui ont un rôle si 
+important dans les relations industrielles, commerciales et 
+financières (5). Que l'on songe, en particulier, aux appels d'offres 
+dans les secteurs dominés par un petit nombre de grands groupes, 
+toujours les mêmes.</TEXT>
+<TEXT>
+ Comportement</TEXT>
+<TEXT>
+ Enfin, la relation, mise en évidence dès l'origine, entre jeux 
+stratégiques et jeux de société a permis très tôt de traiter de 
+manière expérimentale certaines des situations décrites en termes 
+abstraits par la théorie des jeux. Les progrès réalisés par la 
+psychologie expérimentale fournissent aujourd'hui une source 
+d'information que l'on croyait jusque-là peu accessible à 
+l'investigation économique. Ainsi, on a pu expérimenter des jeux très 
+simples, comme celui de l'ultimatum au cours duquel un offreur 
+procède à une annonce initiale du type " à prendre ou à laisser ". La 
+formulation de cette annonce et la réponse qui lui est donnée par 
+ceux auxquels elle s'adresse contribuent à une meilleure connaissance 
+du comportement des agents économiques au cours des transactions en 
+temps réel. Ces quelques illustrations permettent de mesurer la 
+variété des ressources offertes aujourd'hui par la théorie des jeux 
+pour expliquer, simuler et même prévoir un nombre élevé de situations 
+de la vie économique, où les intérêts des acteurs individuels ou 
+collectifs présentent à la fois des oppositions et des solidarités.</TEXT>
+<TEXT>
+ En ce sens, la théorie des jeux est à l'origine d'une petite 
+révolution dans la représentation des phénomènes économiques en 
+plaçant au centre de leur analyse non plus seulement la compatibilité 
+des actions entre les agents (théorie de l'équilibre général), mais 
+les conditions et le fonctionnement de leur interaction stratégique. 
+A dire vrai, il s'agit moins, comme le notait Kenneth Arrow dans un 
+récent colloque, d'une théorie que d'un langage dans lequel ces types 
+de situations se trouvent plus clairement formulés et peuvent, par 
+conséquent, être étudiés avec plus de rigueur (6). </TEXT>
+<TEXT>
+  Mais ce nouveau langage n'est pas exempt de problèmes et de 
+difficultés : comment les opérateurs économiques coordonnent-ils 
+leurs stratégies, peut-on s'entendre sur un désaccord et que 
+présuppose de connaissance commune la mise en oeuvre d'une stratégie 
+rationnelle à l'encontre de ses concurrents ou de ses partenaires ; 
+autant de questions qui restent à élucider par les chercheurs de 
+cette discipline, pour ne rien dire de la définition du moment où 
+commence et où s'achève le jeu étudié.                    
+</TEXT>
+</DOC>

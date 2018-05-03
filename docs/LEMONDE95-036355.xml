@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO>LEMONDE95-036355</DOCNO>
+<DOCID>LEMONDE95-036355</DOCID>
+<ACCOUNT>415282</ACCOUNT>
+<GENRE>ENCADRE</GENRE>
+<DATE>19951004</DATE>
+<LMDOC>BHL</LMDOC>
+<DOS>GEN</DOS>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q031095/1362</FAB>
+<NUM1>951004-2-021-03</NUM1>
+<NAMES>LIPTON RICHARD</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-021-03</REFERENCE1>
+<SEC1>SCI</SEC1>
+<SU21>UN CHERCHEUR AMERICAIN JETTE DES BASES DE L'ORDINATEUR MOLECULAIRE &gt;</SU21>
+<PAGE>1</PAGE>
+<LEAD1>DOSSIER 3/4 DE PAGE CONCERNANT LA DECOUVERTE DE LEONARD ADLEMAN, PRESENTATION DES TRAVAUX DE RICHARD LIPTON APPELES "PROBLEMES DE SATISFAISABILITE" PUBLIES PAR "LA RECHERCHE"</LEAD1>
+<TITLE>Les " satisfactions " de l'ADN</TITLE>
+<TEXT> Richard Lipton, de l'université de Princeton (New Jersey), a emboîté le pas à Leonard Adleman pour tenter de montrer que l'ADN pouvait servir à 
+résoudre une autre classe de problèmes mathématiques appelés " problèmes de 
+satisfaisabilité ". Il s'agit, explique La Recherche de septembre, de " satisfaire " des 
+formules logiques dont les variables ont pour valeur 0 ou 1 (vrai ou faux). Il faut, par 
+exemple, trouver les valeurs de x, y et z telles que la formule " (x OU z) ET (y OU x) " ait 
+pour valeur 1.</TEXT>
+<TEXT>
+  Dans cet exemple, purement académique, Richard Lipton propose de représenter par six 
+séquences d'ADN les valeurs 0 ou 1 de x, y et z. Mélangées, elles se combinent pour 
+former notamment des chaînes xyz qui présentent les huit combinaisons possibles (000, 
+001, 010, 011, 100, 101, 110, 111). Le procédé consiste à sélectionner dans une série de 
+tubes à essai les molécules qui correspondent à la première clause (x OU z) qui veut que x 
+= 1 ou z = 1. On extrait successivement les séquences d'ADN qui satisfont cette clause 
+(001, 011, 100, 101, 110 et 111). On procède ensuite par élimination pour ne retenir, parmi 
+celles-ci, que celles qui satisfont la seconde clause.</TEXT>
+<TEXT>
+  L'intérêt de la méthode moléculaire, c'est que, contrairement aux ordinateurs classiques, 
+le nombre d'opérations, et donc le temps de calcul, ne croît pas exponentiellement avec le 
+nombre de variables envisagées. Mais Lipton prend soin de préciser qu'il reste à vérifier si 
+sa construction, purement théorique, fonctionne réellement.</TEXT>
+</DOC>

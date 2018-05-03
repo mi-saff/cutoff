@@ -1,0 +1,104 @@
+<DOC>
+<DOCNO>LEMONDE95-025661</DOCNO>
+<DOCID>LEMONDE95-025661</DOCID>
+<ACCOUNT>401302</ACCOUNT>
+<GENRE>ILLUSTRATION</GENRE>
+<DATE>19950630</DATE>
+<LMDOC>FLA</LMDOC>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q290695/1605</FAB>
+<NOTE>&gt; Page réalisée par les rédactions du Monde et de la revue scientifique internationale Nature.Doc/ avec une illustration (le monde selon Kelvin)
+</NOTE>
+<NUM1>950630-2-022-34</NUM1>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-022-34</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>MADDOX JOHN</AUTHOR>
+<SIP1> JOHN MADDOX</SIP1>
+<SU21>Nature - le Monde</SU21>
+<SYE1>TEMPERATURE,ATOME</SYE1>
+<PAGE>1</PAGE>
+<TITLE>Des lasers pour viser le zéro absolu</TITLE>
+<TEXT> UN DES ABSOLUS infranchissables de la science est qu'il existe une limite aux températures les plus basses. Cette notion est au coeur de la 
+troisième loi de la thermodynamique, telle qu'elle fut énoncée par Walther Nernst en 1905. 
+La température étant reliée de façon étroite à l'énergie, cela signifie que lorsque toute 
+l'énergie d'un système est dissipée (principe de l'entropie), ce dernier ne peut devenir plus 
+froid. Tout cela est intuitif, comme l'est le fait que la chaleur est de l'énergie et que 
+l'énergie ne se crée pas ex nihilo, comme le stipule la première loi de la 
+thermodynamique.</TEXT>
+<TEXT>
+  Pour ces raisons, il existe une température sous laquelle on ne peut aller, le 0 absolu, que 
+les meilleurs calculs fixent un peu en dessous de 273 degrés Celsius. Une limite que 
+l'homme a commencé à approcher grâce aux travaux que le Néerlandais Heike Kamerlingh 
+Onnes a menés, en 1908, sur la liquéfaction de l'hélium ( 269 degrés Celsius).</TEXT>
+<TEXT>
+# Ces températures records ont naturellement conduit à adopter une nouvelle échelle de 
+température, celle des degrés Kelvin. Ainsi, au lieu d'afficher une température de 4,1 
+degrés au-dessus du 0 absolu pour l'hélium liquide, on préfère parler de 4,1 kelvins ou 4,1 
+K.</TEXT>
+<TEXT>
+  Comment aller plus bas ? Le moyen le plus simple consiste à évaporer rapidement de 
+l'hélium liquide en réduisant la pression. Cette simple opération permet aux atomes 
+d'hélium " vaporisés " d'emporter de l'énergie hors du liquide, ce qui a pour effet de 
+diminuer l'énergie de ceux qui restent. On peut ainsi parvenir à créer un hélium dit 
+superfluide dont la température est de seulement 1 kelvin.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ CAGE MAGNÉTIQUE</TEXT>
+<TEXT>
+Pour aller au-delà, il faut d'autres méthodes. Le refroidissement optique en est une. L'idée 
+consiste à piéger un groupe de quelques centaines de millions d'atomes dans une sorte de 
+nasse formée par des champs magnétiques et à les bombarder en même temps par des 
+rayons lasers d'une longueur d'onde appropriée. Les pièges les plus simples sont magnéto-
+optiques (MOTs). Leur partie magnétique est composée de bobinages placés face à face 
+dans lesquels circulent des courants électriques de directions opposées. Pour peu que les 
+courants soient assez intenses, ils peuvent alors capturer des atomes dont les noyaux se 
+comportent comme de petits aimants.</TEXT>
+<TEXT>
+  Sur cette cage magnétique sont braqués six rayons lasers dont la longueur d'onde doit 
+correspondre à une raie particulière du spectre des atomes que l'on désire refroidir. Cela 
+permet aux atomes d'absorber les photons des faisceaux lasers et d'en réémettre d'autres 
+aussitôt. Mais, dans de telles circonstances, les atomes sont en mouvement constant. 
+Globalement, leur vitesse moyenne est proportionnelle à la racine carrée de la 
+température. Pris individuellement, ils se déplacent en fait plus vite ou plus lentement.</TEXT>
+<TEXT>
+  Cette particularité complique les choses, car la longueur d'onde à laquelle ils absorbent le 
+mieux la lumière laser est alors changée dans un sens ou dans l'autre. C'est en vertu du 
+même phénomène que la hauteur du son d'un klaxon paraît changer pour une personne qui 
+voit passer une voiture depuis le bord d'une route.</TEXT>
+<TEXT>
+  Autre complication : à l'énergie possédée par les photons, il faut ajouter leur moment 
+cinétique. Quand un atome absorbe un photon, il acquiert aussi le moment cinétique de ce 
+photon, ce qui le pousse dans la direction de déplacement de ce dernier. Mais, dans un 
+piège à atomes (MOT), la lumière laser arrive de toutes les directions. Cela a pour effet de 
+" niveler " la vitesse des atomes.</TEXT>
+<TEXT>
+  Reste à les refroidir. Le " truc " consiste à augmenter régulièrement la longueur d'onde 
+de la lumière laser d'une valeur assez faible, correspondant à celle du déplacement des 
+raies spectrales que provoque le mouvement des atomes. Dans ces conditions, ces derniers 
+absorbent en priorité la lumière laser qui vient de la direction vers laquelle ils se déplacent. 
+Leur vitesse est donc réduite proportionnellement au moment des photons qu'ils 
+absorbent.</TEXT>
+<TEXT>
+  Les résultats peuvent être impressionnants. La température la plus basse enregistrée à 
+ce jour à l'aide de cette technique est de 0,2 millionième de degré Kelvin. Dans le numéro 
+du 19 juin de Physical Review Letters, une équipe du laboratoire Kastler-Brossel de 
+l'Ecole normale supérieure de Paris décrit la façon dont elle a pu refroidir 300 millions 
+d'atomes de césium à une température de seulement 5 millionièmes de degré Kelvin toutes 
+les 1,4 seconde.</TEXT>
+<TEXT>
+  Conquête de l'inutile ? Certainement pas car ces techniques devraient aider à améliorer 
+la spectroscopie, la précision des horloges atomiques et l'étude des atomes dans des 
+conditions où seuls les phénomènes quantiques subsistent. Au coeur de ces travaux, il y a 
+bien sûr toutes les questions sur la nature ondulatoire et corpusculaire de l'atome. Bien 
+qu'il soit habituellement plus commode de les décrire comme des particules, lorsque leur 
+vitesse est très faible, la longueur d'onde de ces atomes peut être très grande.</TEXT>
+<TEXT>
+  Celle des atomes de césium obtenue dans le laboratoire de l'ENS est de l'ordre du micron. 
+S'ils forment un groupe compact, la trace de leurs ondulations se recouvrira, si bien qu'il 
+deviendra impossible de les distinguer les uns des autres. En termes quantiques, ils 
+formeront alors une sorte de gros atome, un objet quantique, qui pourrait ouvrir un 
+nouveau champ de la physique.</TEXT>
+</DOC>

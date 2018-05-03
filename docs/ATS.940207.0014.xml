@@ -1,0 +1,158 @@
+<DOC>
+<DOCID>ATS.940207.0014</DOCID>
+<DOCNO>ATS.940207.0014</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940207
+</DT>
+<PT>
+194100
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+c5nor kul ecps comm comt
+</DE>
+<AU>
+
+</AU>
+<KW>
+lillehammer jo ordinateurs
+</KW>
+<TI>
+Jeux Olympiques de Lillehammer: Des milliers d'ordinateurs fourniront les
+résultats.
+</TI>
+<LD>
+Berne, 8 fév (sim) Lorsque quelque 2000 athlètes se mesureront aux Jeux
+olympiques d'hiver, les sportifs de toutes les nations se tourneront vers les
+feux de la rampe, à Lillehammer. Cependant, c'est à Oslo, 185 kilomètres plus
+au sud, que battra le coeur des jeux.  C'est là qu'est installé le gros
+ordinateur IBM ES/9000 chargé de calculer les classements des épreuves, puis
+de les communiquer à Lillehammer par le truchement d'un réseau.
+</LD>
+<TX>
+Cet ordinateur central est relié à deux multipostes AS/400, à 20 systèmes
+Risc RS/6000 et à quelque 3000 ordinateurs personnels.  L'ensemble servira,
+pendant la durée des Jeux, à calculer les résultats et à informer près de
+deux milliards de téléspectateurs du monde entier.
+</TX>
+<TX>
+Les temps officiels, chronométrés par le groupe japonais Seiko, seront
+relayés par des PC installés sur les lieux des concours. De là, ils partiront
+vers l'ordinateur central d'Oslo via le réseau. Le rang obtenu par l'athlète
+sera instantanément calculé et le classement mis à jour retransmis dans le
+réseau d'ordinateurs.
+</TX>
+<TX>
+Le résultat de ce calcul sera déjà de retour dans le PC une demi- seconde
+après que le temps de course du concurrent en soit parti, soit avant même que
+le chronomètre s'éteigne sur les écrans de télévision. Les classements seront
+également publiés sous forme écrite: environ 1900 listes de résultats seront
+imprimées durant les jeux sur une centaine d'imprimantes différentes.
+</TX>
+<ST>
+3000 PC dans le village olympique
+</ST>
+<TX>
+Au village olympique, les 50 000 officiels, accompagnants, athlètes et
+journalistes pourront s'informer en premanence. Ils disposeront pour cela des
+3000 ordinateurs personnels du système «Info'94». Ces derniers pourront les
+renseigner sur les évènements et sur les classements, ainsi que sur la
+biographie des sportifs et sur l'histoire des JO. Ils leur fourniront
+également les prévisions météorologiques et seront utilisables comme boîtes
+aux lettres électroniques.
+</TX>
+<TX>
+Etant donné que la plupart de ces utilisateurs n'ont aucune pratique de
+l'informatique, la manipulation du système a été rendue aussi simple que
+possible. Ainsi, les PC sont équipés d'écrans tactiles: il suffira à un
+utilisateur de désigner du bout du doigt le sujet qui l'intéresse pour que
+l'ordinateur lui présente l'information désirée.
+</TX>
+<TX>
+Les 7000 journalistes, et notamment les commentateurs de radio et de
+télévision travaillant en direct, disposeront en outre d'un système
+spécialisé, le CIS (Commentator Information System). Un écran tactile leur
+donnera, dans la langue de leur choix et en fonction de leur pays d'origine,
+des informations instantanées sur les performances de leurs compatriotes
+engagés dans toutes les compétitions du moment.
+</TX>
+<ST>
+Des installations conçues par ordinateur
+</ST>
+<TX>
+Les ordinateurs sont déjà entrés en jeu pour aider à la réalisation des
+installations sportives. Les tremplins de saut à ski, par exemple, ont été
+ont été dessinés et étudiés sur des terminaux graphiques. Toutes les
+conditions météorologiques possibles ont été simulées, si bien que les
+meilleurs emplacements pour les juges de saut et pour les caméras de
+télévision étaient déjà déterminés longtemps avant le premier tour de moteur
+des engins de chantier.
+</TX>
+<TX>
+Pendant le déroulement des jeux, d'autres problèmes logistiques seront
+également pris en charge par ordinateur. Ainsi, pratiquement tout le trafic
+automobile privé sera banni des rues de Lillehammer.  Tous les sportifs, les
+visiteurs, les fonctionnaires et même les habitants de la ville devront
+prendre des billets et réserver leurs moyens de déplacement à l'avance. Cette
+organisation des transports est gérée par un ordinateur multiposte IBM
+AS/400.
+</TX>
+<TX>
+Le système de gestion aide également à transmettre des informations, à
+localiser les personnes et à les alarmer au moyen de pageurs (récepteurs de
+radio-messagerie affichant un message écrit sur un petit écran). Des
+améliorations ont ainsi été apportées aux programmes utilisés à Albertville,
+lesquels étaient déjà issus de développements antérieurs. IBM est en effet
+partenaire des Jeux Olympiques depuis 1960 et a déjà fourni les
+infrastructures informatiques d'Albertville et de Barcelone.
+</TX>
+<TX>
+Selon le constructeur, la version «Lillehammer» du système d'information et
+de calcul des résultats a exigé une somme de travail d'environ 60
+années-hommes. Pour la première fois cette année, les applications mises en
+oeuvres sont réparties sur plusieurs ordinateurs interconnectés en réseau.
+Avec succès: le gros centre de calcul centralisé de Barcelone faisait
+attendre ses résultats plus de trois secondes, alors que le réseau fait le
+même travail en une demi- seconde.
+</TX>
+<ST>
+Capital: la sécurité
+</ST>
+<TX>
+La sécurité de l'informatique olympique est un thème majeur.  L'énormité des
+mesures prises est proportionnelle à la catastrophe qu'engendrerait une
+indisponibilité des ordinateurs. Au cas où le système principal d'Oslo
+tomberait en panne, deux machines identiques installées à des endroits
+différents seront en permanence prêtes à prendre le relais sans interruption
+des traitements.
+</TX>
+<TX>
+Les liaisons entre Oslo et le village olympique sont également doublées. Les
+deux lignes téléphoniques louées passent chacune d'un côté différent du lac
+Mjosa. Mais si, malgré cela, toutes deux devaient défaillir ensemble, il
+serait encore possible de se rabattre sur une ligne RNIS numérique.
+</TX>
+<TX>
+Malgré cela, une information publiée par le quotidien d'Oslo «Dagebladet» a
+récemment fait se dresser les oreilles. Le journal annonçait en effet que des
+virus auraient contaminé le système informatique et qu'ils devraient
+s'activer le jour de l'ouverture des jeux. Mais, rassurent les responsables
+d'IBM, ces virus n'auraient été détectés que dans le système de planification
+et seraient déjà éliminés. Le système de calcul des résultats, beaucoup plus
+délicat, n'a par contre pas été touché.
+</TX>
+</DOC>

@@ -1,0 +1,91 @@
+<DOC>
+<DOCNO>LEMONDE95-035557</DOCNO>
+<DOCID>LEMONDE95-035557</DOCID>
+<ACCOUNT>414288</ACCOUNT>
+<DATE>19950928</DATE>
+<LMDOC>EVB</LMDOC>
+<DOS>GEN</DOS>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q270995/1812</FAB>
+<NUM1>950928-2-023-39</NUM1>
+<NAMES>GLATZMAIER GARY,ROBERTS PAUL</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-023-39</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>VINCENT CATHERINE</AUTHOR>
+<SIP1>CATHERINE VINCENT</SIP1>
+<SOT1>Pour la première fois, une équipe américainea effectué une simulation des événements magnétiques dans le noyau terrestre</SOT1>
+<SU11>AUJOURD'HUI - SCIENCES</SU11>
+<PAGE>1</PAGE>
+<LEAD1>SELON UNE ANNONCE PARUE LE JEUDI 21 SEPTEMBRE 1995 DANS "NATURE".</LEAD1>
+<TITLE>Voyage informatiqueau centre de la Terre</TITLE>
+<TEXT> IL S'AGIT d'un des super-ordinateurs les plus puissants du monde (un Cray C-9O), et il lui aura fallu un an de calculs pour parvenir à ses fins. Mais le 
+résultat est là et montre que le coeur de notre planète est désormais accessible à la 
+modélisation.</TEXT>
+<TEXT>
+   Annoncés dans la revue Nature du 21 septembre, les travaux des chercheurs américains 
+Gary Glatzmaier (spécialiste du calcul numérique au laboratoire de Los Alamos, Nouveau- 
+Mexique) et Paul Roberts (théoricien du champ magnétique terrestre à l'université de 
+Californie, Los Angeles) constituent la simulation la plus précise jamais élaborée des 
+événements qui se produisent au centre de la Terre, dans ce tourbillon de métaux en fusion 
+qui en constitue le noyau liquide. Un outil qui pourrait notamment contribuer à élucider un 
+mystère auquel se heurtent toujours les géophysiciens : les origines des inversions du 
+champ magnétique terrestre.</TEXT>
+<TEXT>
+   Au nord, l'Arctique, au sud, l'Antarctique : ainsi vont, une fois pour toutes, les pôles 
+géographiques de notre globe. Mais il est une polarité autrement incertaine, celle du 
+champ magnétique. La Terre fonctionne en effet comme une dynamo géante, sa rotation 
+induisant une puissante activité électromagnétique dans la partie liquide de son noyau. Or, 
+le pôle Nord magnétique, vers lequel pointent nos boussoles, délaisse à intervalles 
+irréguliers le pôle géographique pour filer vers le sud. La dernière de ces inversions 
+remonte à 700 000 ans, et la prochaine avis aux oiseaux migrateurs pourrait se produire 
+environ dans 1 200 ans.</TEXT>
+<TEXT>
+   La découverte formelle du phénomène remonte au début du siècle et revient aux 
+physiciens français David et Brunhes. En étudiant des coulées de lave d'âge quaternaire 
+dans la chaîne auvergnate des Puys, ils découvrent que l'aimantation naturelle de certaines 
+argiles s'oppose à la direction du champ magnétique actuel. Une observation vérifiée 
+depuis sur diverses laves et roches sédimentaires, qui permettent d'affirmer que de telles 
+inversions magnétiques se sont produites maintes fois au cours des temps géologiques.</TEXT>
+<TEXT>
+   Pourquoi ? Comment ? Si les modèles mathématiques actuels intègrent l'effet de dynamo 
+créé au sein de notre globe, ils échouent en revanche à expliquer cette alternance de 
+polarité du champ magnétique. A cette limite s'ajoute la rareté des témoignages, fournis 
+par des roches fossilisées dont les particules de magnétite se sont orientées selon les 
+lignes du champ terrestre au moment de son inversion. En effet, pour passer du nord au 
+sud, il ne faut tout au plus au champ magnétique que quelques milliers d'années. Un éclair à 
+l'échelle de l'histoire de la Terre.</TEXT>
+<TEXT>
+   Si rares soient-ils, ces vestiges géologiques n'en ont pas moins permis, ces dernières 
+années, d'échafauder quelques théories. Selon certains chercheurs, les inversions 
+magnétiques suivraient ainsi des trajectoires préférentielles, qui coïncideraient avec les 
+zones " froides " du manteau profond de la Terre. Une hypothèse parmi d'autres, que le 
+puissant modèle de simulation mis au point par les chercheurs américains pourrait 
+permettre de confirmer ou d'infirmer. A condition, bien sûr, de lui fournir une nourriture 
+appropriée, autrement dit d'introduire dans l'ordinateur les multiples caractéristiques 
+physicochimiques mises en jeu dans le noyau terrestre.</TEXT>
+<TEXT>
+  </TEXT>
+<TEXT>
+  Pour passer du nord au sud, il ne faut tout au plus au champ magnétique que quelques 
+milliers d'années</TEXT>
+<TEXT>
+  </TEXT>
+<TEXT>
+   Or, ces dernières peuvent varier de manière aléatoire, parfois sur de très petites 
+distances. Des difficultés dont les chercheurs américains se sont apparemment affranchis, 
+puisqu'ils sont parvenus à transcrire sous forme numérique 40 000 ans de cette vie 
+tumultueuse. Ils ont notamment réussi à reproduire une inversion du pôle magnétique et 
+affirment," du fait de la cohérence de [leur] simulation ", pouvoir fournir " une explication 
+plausible des champs géomagnétiques ".</TEXT>
+<TEXT>
+   " Le programme numérique mis au point par Glatzmaier et Roberts est 
+inconstestablement en avance sur ce qui se fait dans d'autres laboratoires ", confirme 
+Dominique Jault, chercheur au laboratoire de géomagnétisme de l'Institut de physique du 
+globe (IPG) de Paris. " Mais il lui reste maintenant à faire ses preuves. " Les paramètres 
+géophysiques définis pour cette première simulation ne représentent en effet qu'une infime 
+fraction de la réalité, et leur traitement a demandé des mois de calcul. C'est dire qu'il reste 
+du chemin à parcourir avant que l'ordinateur nous éclaire véritablement sur les entrailles 
+de la Terre.</TEXT>
+</DOC>

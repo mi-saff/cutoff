@@ -1,0 +1,88 @@
+<DOC>
+<DOCID>ATS.941229.0085</DOCID>
+<DOCNO>ATS.941229.0085</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+941229
+</DT>
+<PT>
+052100
+</PT>
+<SC>
+bsf011 bsf
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<RC>
+su
+</RC>
+<OC>
+suf
+</OC>
+<DE>
+comm
+</DE>
+<AU>
+pi wi
+</AU>
+<KW>
+suisse ats centenaire technique encadre
+</KW>
+<TI>
+Centenaire de l'ATS Du télégraphe à la transmission par satellite encadré.
+</TI>
+<LD>
+Berne, 29 déc (ats) L'histoire de l'Agence télégraphique suisse (ATS) est
+aussi celle des techniques de communication modernes. Les premières années,
+elle utilisait le télégraphe - comme le rappelle son nom - et, pour les
+nouvelles urgentes, le téléphone. Aujourd'hui, l'informatique est reine et le
+satellite lui sert de relais.
+</LD>
+<TX>
+Après la Première Guerre mondiale, le téléphone est le moyen de transmission
+le plus performant. En 1925 est introduite la télégraphie sans fil, et peu
+après les récepteurs Hell. Ceux-ci transcrivent en lettres sur des bandes de
+papier les signaux transmis sans fil. Ces appareils ont été installés à l'ATS
+dans les années 30 pour la réception des agences de presse étrangères et ont
+subsisté jusqu'après la Deuxième Guerre mondiale.
+</TX>
+<TX>
+Les rédactions-clientes ont longtemps été desservies par plis postaux,
+exception faite des nouvelles urgentes dictées par téléphone. Mais dès avant
+la guerre 39-45, le téléscripteur a commencé à se généraliser. Il
+fonctionnait sur la base du réseau télex à 5 canaux et 50 bit/s, sans
+distinction minuscules/majuscules.
+</TX>
+<TX>
+Au début des années 70, un système de télécomposition a été introduit en
+Suisse alémanique, de même que les premiers terminaux de rédaction à écran.
+Avec la télécomposition, il était possible de transmettre à une vitesse de 85
+bit/s une bande perforée à 6 trous qui permettait d'actionner directement les
+machines à composer d'imprimerie équipées d'un décodeur. Par manque d'intérêt
+chez les éditeurs, trop peu nombreux à l'adopter, ce système engendrera un
+déficit de l'ordre de 1,3 million.
+</TX>
+<TX>
+En 1979, l'ATS se met entièrement aux systèmes informatisés. La réception, le
+traitement et la distribution des nouvelles sont dès lors exclusivement gérés
+par ordinateur. Avec la nouvelle norme à 7 canaux, la vitesse de diffusion
+atteint 300 bit/s. La transmission sélective et le raccordement on-line des
+systèmes rédactionnels des clients sont aussi introduits à cette époque.
+</TX>
+<TX>
+En 1994, pour des raisons de coûts notamment, l'ATS abandonne la transmission
+par réseau terrestre au profit du satellite. Par la même occasion, elle passe
+à la norme à 8 canaux et à une vitesse de 1200 bit/s. A côté de ce réseau de
+distribution, il est aussi possible d'appeler les services de l'agence. Pour
+ce faire, elle utilise les techniques les plus modernes comme le
+téléphone/modem, Telepac, Swiss Net et, depuis peu, dans le réseau PRONTO, la
+technique dite Frame- Relay avec TCP/IP, qui autorise des vitesses de
+transmission jusqu'à 2 Mbits/s.
+</TX>
+</DOC>

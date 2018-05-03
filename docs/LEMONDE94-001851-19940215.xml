@@ -1,0 +1,144 @@
+<DOC>
+<DOCNO>LEMONDE94-001851-19940215</DOCNO>
+<DOCID>LEMONDE94-001851-19940215</DOCID>
+<ACCOUNT>324485</ACCOUNT>
+<DATE>19940215</DATE>
+<LMDOC>JGB</LMDOC>
+<SUBJECTS>INFORMATIQUE,FICHIER DE PERSONNE,ETRANGER,DOUANE,POLICE,FRONTIERE</SUBJECTS>
+<FAB>02141811</FAB>
+<NAMES>SEMA GROUP,CEE</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-010-35</REFERENCE1>
+<SEC1>SOC</SEC1>
+<AUTHOR>VINCENT CATHERINE</AUTHOR>
+<PAGE>232</PAGE>
+<TITLE>SCHENGEN&gt; L'échec des frontières électroniques&gt; Un invraisemblable caf ouillage informatique serait à l'origine du report de l'accord sur la libre circulation en Europe</TITLE>
+<TEXT>Incroyable, mais probablement vrai : le report sine die, annoncé le 25 janvier, de l'accord de Schengen sur la libre circulation des 
+citoyens en Europe (le Monde du jeudi 27 janvier) trouverait sa 
+source dans un invraisemblable cafouillage informatique. Pièce 
+maîtresse indispensable à l'application de cet accord, le Système 
+d'information Schengen (SIS), ce réseau informatique de l'Europe des 
+polices, pour lequel les pays signataires ont dépensé, en trois ans, 
+plus de 30 millions de francs, n'en est encore qu'à ses 
+balbutiements. Comment en est-on arrivé à un tel constat d'échec, 
+d'autant plus grave que la réalisation de ce projet implique un 
+ensemble de technologies, certes élaborées, mais aujourd'hui devenues 
+relativement classiques ? </TEXT>
+<TEXT>
+  Pour constituer un dispositif de sécurité efficace, ce système 
+informatisé _ dont la France assume la responsabilité technique _ 
+doit remplacer les frontières réelles internes à l'Europe par des 
+frontières électroniques. Cela suppose en premier lieu la création 
+d'un fichier central, rassemblant et connectant entre elles 
+l'ensemble des données informatiques des polices des Douze, tant sur 
+les étrangers déclarés " indésirables " que sur les personnes 
+recherchées et les objets volés (billets, papiers d'identité, 
+véhicules). Soit, au total, quelques dizaines de millions de données, 
+susceptibles d'être accessibles à tout policier européen en quelques 
+minutes. Pour concrétiser un projet de cet ordre, deux types de choix 
+sont déterminants : celui du protocole de communication _ en 
+l'occurrence, le langage commun que parleront les ordinateurs du 
+système central (C-SIS) et des systèmes nationaux (N-SIS) _, et celui 
+des logiciels nécessaires à la transmission des messages. L'ensemble 
+doit par ailleurs répondre aux besoins exacts des utilisateurs, tant 
+en ce qui concerne la vitesse de transmission des données qu'en 
+termes de fiabilité et de sécurité.</TEXT>
+<TEXT>
+  Selon le rapport rendu public, le 25 janvier, par la mission 
+d'information du Sénat chargée d'examiner la mise en place de la 
+convention d'application de l'accord de Schengen, c'est à ces deux 
+niveaux qu'ont émergé les principaux écueils responsables de l'échec 
+du SIS. En ce qui concerne le choix de la norme X-400 (protocole de 
+communication international recommandé par la Commission européenne), 
+le rapport note que " les politiques ont imposé un mauvais choix aux 
+techniciens ", en privilégiant, au nom du protectionnisme européen, 
+un produit de type asynchrone " fonctionnant comme une messagerie et 
+orienté vers la transmission de fichiers de textes, donc plus lent " 
+qu'un produit de type synchrone.</TEXT>
+<TEXT>
+  Au-delà de ce critère de rapidité, il semble surtout que le choix 
+de la norme X-400, confirmé par le groupe central de négociations le 
+17 avril 1991, ait ouvert la porte à une série de complications 
+techniques difficilement surmontables. Un danger qu'avait lui-même 
+souligné, début 1991, le Groupe de travail permanent (GTP) du SIS, 
+composé à la fois d'informaticiens et des futurs utilisateurs 
+(polices, gendarmeries, douanes), soulignant alors que cette décision 
+entraînerait un retard dans la réalisation du projet, des 
+performances globales inférieures et la nécessité d'effectuer des 
+tests de conformité et d'interopérabilité complexes.</TEXT>
+<TEXT>
+  Revirement sous la pression de l'Allemagne </TEXT>
+<TEXT>
+  " Dans la mesure où le SIS a pour fonction de générer de petits 
+messages, le choix d'une messagerie légère et rapide n'était pas en 
+soi une erreur, précise un spécialiste français des réseaux. En 
+revanche, les applications de ce protocole, issu des Télécom en 1984 
+et perfectionné en 1988, ne sont encore maîtrisées que par un petit 
+nombre de personnes. La bonne marche de l'ensemble dépendait donc 
+étroitement du système central et des logiciels mis en place 
+au-dessus de cette norme _ lesquels devaient, de surcroît, tenir 
+compte des spécificités informatiques propres à chaque pays. "</TEXT>
+<TEXT>
+  La norme X-400 une fois choisie, tout reposait donc sur la 
+réalisation de ses applications (logiciels portables et système 
+central). Or, après avoir été un premier temps attribué à Arthur 
+Andersen (filiale française d'une société américaine), avec la 
+participation de Bull pour la fourniture du matériel, le marché 
+revint finalement à un consortium européen composé de Sema Group 
+(deuxième société de services informatiques française), de Bull et du 
+groupe allemand Siemens. Un revirement opéré sous la pression de 
+l'Allemagne, entre octobre et décembre 1991, et destiné à soutenir 
+l'industrie informatique européenne, qui n'explique cependant pas la 
+" carte blanche " qui semble avoir été donnée par la suite à Sema 
+Group, malgré les inconvénients techniques évidents que présentait 
+d'emblée son projet.</TEXT>
+<TEXT>
+  Dès octobre 1991, en effet, le comité d'orientation du SIS 
+soulignait que " le projet de Sema Group présentait des inconvénients 
+par rapport à celui d'Arthur Andersen, au niveau du planning, de la 
+conception de l'application et du prix ". Le 18 décembre de la même 
+année, les ministres et secrétaires d'Etat Schengen, réunis à Rome, 
+recommandent pourtant " au ministre français de l'intérieur 
+d'attribuer le marché de la réalisation du C-SIS au groupement Sema " 
+après des " améliorations significatives ". Le contrat est finalement 
+conclu le 24 juillet 1992, après, note le rapport du Sénat, " 
+plusieurs mois de négociations difficiles " entre le maître d'ouvrage 
+(la direction des transmissions et de l'informatique du ministère de 
+l'intérieur) et le consortium européen.</TEXT>
+<TEXT>
+  Les " améliorations significatives " demandées étaient-elles trop 
+lourdes pour être techniquement réalisables dans les délais, alors 
+fixés au 1 janvier 1993 ? Pourquoi les responsables politiques 
+n'ont-ils pas tenu compte de l'avis du GTP, qui, dès novembre 1991, 
+avait informé le groupe central des négociations qu'il était " 
+totalement exclu que la mise en fonctionnement du SIS puisse 
+intervenir au 1 mars 1993 " ? Comment expliquer que le plan des tests 
+techniques n'ait pu être engagé que fin décembre 1993 ? </TEXT>
+<TEXT>
+  Il apparaît que l'échec du SIS résulte avant tout d'une 
+invraisemblable dilution des responsabilités. Placé sous l'autorité 
+d'un comité d'orientation, le Groupe de travail permanent chargé de 
+la réalisation du SIS devait en effet, dans chaque Etat, superviser 
+une équipe de projet chargée de réaliser son propre système national 
+_ tout en étant, lui-même, sous le contrôle du groupe central de 
+négociations chargé de préparer les décisions gouvernementales. Soit 
+trois échelons successifs de fonctionnaires, dont les avis devaient 
+être pris à l'unanimité avant de parvenir à la décision finale.</TEXT>
+<TEXT>
+  Quelles qu'aient été les motivations des différents pays 
+signataires dans cet imbroglio informatique, l'échec du SIS semble 
+donc moins imputable à la technique qu'à " une organisation où les 
+décisions résultent d'une succession de compromis dont le caractère 
+diplomatique est incompatible avec des choix techniques ou 
+industriels ", souligne le rapport du Sénat.</TEXT>
+<TEXT>
+  " Il a manqué, en résumé, un maître d'oeuvre unique, libre de ses 
+choix techniques et capable de les imposer à ses partenaires ", 
+conclut-il. Un constat qui rappelle étrangement celui que durent 
+faire, il y a plus de vingt ans, les membres de l'Organisation 
+européenne de développement des lanceurs (ELDO), dont les 
+incohérences, l'absence de structure administrative et d'un maître 
+d'oeuvre unique, aboutirent à l'échec des lanceurs Europa, 
+précurseurs sans gloire de la fusée européenne Ariane.&lt;
+</TEXT>
+</DOC>

@@ -1,0 +1,117 @@
+<DOC>
+<DOCNO>LEMONDE94-000903-19940607</DOCNO>
+<DOCID>LEMONDE94-000903-19940607</DOCID>
+<ACCOUNT>339918</ACCOUNT>
+<DATE>19940607</DATE>
+<LMDOC>FLA</LMDOC>
+<SUBJECTS>MARCHE A TERME,MARCHE BOURSIER,INSTRUMENT FINANCIER,VOCABULAIRE</SUBJECTS>
+<FAB>23</FAB>
+<PUM1>QUO</PUM1>
+<SEC1>MDE</SEC1>
+<AUTHOR>RENARD FRANCOIS</AUTHOR>
+<PAGE>164</PAGE>
+<TITLE>PERSPECTIVES&gt; LES MARCHES DERIVES EN ACCUSATION&gt; Lexique</TITLE>
+<TEXT>ARBITRAGE. _ Opération consistant à acheter et à vendre un instrument financier au même moment pour tirer parti des différences de prix 
+entre deux marchés, des écarts de prix constatés entre deux échéances 
+d'un même produit dérivé, ou encore entre deux produits dérivés 
+différents mais considérés comme équivalents: emprunts d'Etat 
+français (OAT) et allemand (Bund). </TEXT>
+<TEXT>
+ CAP. _ Contrat qui protège son détenteur contre une hausse des taux 
+d'intérêt sur un encours (en général un emprunt), en fait une 
+garantie de taux plafond, moyennant le paiement d'une prime.</TEXT>
+<TEXT>
+ CONTRATS à TERME ("FUTURES"). _ Engagement contractuel, pris sur un 
+marché organisé, d'acheter ou de prendre livraison à une date 
+ultérieure (dans le futur) et à un prix convenu d'un instrument 
+financier ou d'un produit quelconque: actions, obligations, devises, 
+matières premières, métaux précieux.</TEXT>
+<TEXT>
+  Les "futures" se distinguent des marchés au comptant, ou 
+"physiques", avec livraison immédiate. Les marchés sur lesquels 
+s'échangent des contrats à terme peuvent être traditionnels _ les 
+prix, la quantité et l'échéance variant d'une affaire à l'autre _, ou 
+standardisés. La plupart de ces contrats ne donnent pas lieu à une 
+livraison effective mais se dénouent par la création d'un contrat 
+inverse.</TEXT>
+<TEXT>
+ DELTA. _ Mesure de la variation des prix de l'option (voir ci-après) 
+après une variation unitaire de l'actif de base. Si le "delta" d'une 
+option est 0,5, une hausse de 100 sur le prix de l'actif de base (une 
+monnaie, par exemple) va provoquer une hausse de 50 sur le prix de 
+l'option.</TEXT>
+<TEXT>
+ EFFET DE LEVIER ("LEVERAGE"). _ Possibilité de prendre position à la 
+hausse ou à la baisse, à l'achat ou à la vente, jusqu'à une certaine 
+date d'échéance en ne versant immédiatement qu'une somme nettement 
+inférieure (quelques pour cent) à la valeur de cet actif. Gains ou 
+pertes peuvent, ainsi, être multipliés par 5, 10 ou 20, d'où un 
+immense attrait spéculatif et, par conséquent, une exposition accrue 
+aux risques des marchés.</TEXT>
+<TEXT>
+ FLOOR. _ Contrat qui protège son détenteur contre une baisse des 
+taux d'intérêt sur un encours (en général un prêt), en fait une 
+garantie de taux _ plancher, moyennant le paiement d'une prime.</TEXT>
+<TEXT>
+ LONG ou COURT. _ Attitude et position d'opérateurs qui consiste à 
+acheter à terme un bien dans l'espoir de le revendre plus cher 
+(long), ou à vendre à terme un bien qu'on ne possède pas dans 
+l'espoir de le racheter à un cours inférieur (court ou "short") </TEXT>
+<TEXT>
+ MARGE. _ Montant de la garantie ("Deposit") consignée par l'acheteur 
+ou le vendeur, d'un contrat à terme ou de produits dérivés, 
+correspondant à la variation maximale autorisée des cours des 
+contrats et des produits durant une séance de transactions. Lorsque 
+cette marge est entamée, voire entièrement "consommée", les autorités 
+des marchés incitent, très fermement, sous peine de liquidation 
+autoritaire des engagements et contrats, les opérateurs à 
+reconstituer cette marge pour combler les pertes encourues sur les 
+positions "ouvertes", c'est _ à _ dire en spéculation, à la baisse, 
+pour les acheteurs, et à la hausse pour les vendeurs.</TEXT>
+<TEXT>
+ OPTION. _ Droit d'acheter ou de vendre une quantité déterminée d'un 
+actif (monnaie, produit de taux d'intérêt, etc) à un prix fixé 
+d'avance. Ce droit ne pouvant être exercé que pendant une durée 
+limitée. Pour bénéficier d'un tel droit, l'acheteur verse, dès la 
+conclusion du contrat une prime au vendeur. En spéculation, l'option 
+d'achat (call) constitue un pari sur la hausse de l'actif sous _ 
+jacent et l'option de vente (put) un pari sur la baisse de cet 
+actif.</TEXT>
+<TEXT>
+ SOUS-JACENT. _ Se dit de l'actif ou de l'indice qui sert de base 
+pour fixer les variations de la valeur des produits dérivés: un 
+"sous-jacent" peut être un cours de devises, un taux d'intérêt ou, 
+effectivement, des indices représentatifs de la valeur moyenne de ces 
+cours ou taux.</TEXT>
+<TEXT>
+ STELLAGE ("STRADDLE"). _ Combinaison d'une option d'achat (call) et 
+d'une option de vente (put) sur le même actif de base, avec la même 
+échéance et le même prix d'exercice.</TEXT>
+<TEXT>
+  "SWAP" ou CONTRAT D'ÉCHANGE. _ Contrat qui permet de se prémunir 
+contre les évolutions défavorables de l'actif sous-jacent. Les 
+"swaps" de taux d'intérêt et de devises sont les plus courants. 
+Ainsi, deux sociétés peuvent choisir d'échanger le coût d'une dette à 
+taux fixe contre celui d'une dette à taux variable. Dans un "swap" de 
+devises, les deux parties se livrent mutuellement, lors de la 
+conclusion du contrat d'échange, des montants en capital libellés en 
+deux monnaies différentes, et se les remboursent ultérieurement à des 
+conditions convenues qui portent aussi bien sur la charge d'intérêt 
+que sur l'amortissement ou les remboursements du principal.</TEXT>
+<TEXT>
+  TUNNEL. _ Stratégie d'options réduisant la prime payée grâce à la 
+combinaison soit de l'achat d'un "floor" et la vente d'un "CAP"; soit 
+de l'achat d'un "CAP" et de la vente d'un "floor", ce qui 
+effectivement réduit le risque qui évolue dans un "tunnel", avec un 
+plancher et un plafond.</TEXT>
+<TEXT>
+ WARRANT (BON DE SOUSCRIPTION). _ C'est une option d'achat (call) à 
+long terme, attachée par exemple, à une opération de souscription de 
+titre, action ou obligation.</TEXT>
+<TEXT>
+ ZÉRO COUPON SWAP. _ Swap (contrat d'échange de taux d'intérêt) selon 
+lequel les flux à taux variables sont normaux, mais les paiements des 
+flux à taux fixes sont capitalisés et font l'objet d'un paiement 
+unique à l'échéance.&lt;
+</TEXT>
+</DOC>

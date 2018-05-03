@@ -1,0 +1,119 @@
+<DOC>
+<DOCNO>LEMONDE95-002023</DOCNO>
+<DOCID>LEMONDE95-002023</DOCID>
+<ACCOUNT>368918</ACCOUNT>
+<CHA1>1</CHA1>
+<DATE>19950119</DATE>
+<LMDOC>MID</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q180195/1120</FAB>
+<SUBJECTS>NOUVEAU MEDIA,CHERCHEUR,CREATION D'ENTREPRISE,DESCRIPTION,HISTORIQUE,RESEAU INTERACTIF,ASSOCIATION,TECHNOLOGIE AVANCEE,VIDEOTEX</SUBJECTS>
+<NOM1>EUNET</NOM1>
+<NUM1>950119-29</NUM1>
+<NAMES>DEVILLERS YVES,UITEMA CHRISTIAN,INRIA</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-029-31</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>KAHN ANNIE</AUTHOR>
+<SIP1> ANNIE KAHN</SIP1>
+<SOT1>Le parcours d'une équipe de l'Institut national de recherche en informatique  et automatique illustre la genèse de l'implantation en France du réseau planétaire</SOT1>
+<SYF1>RESEAU INTERACTIF</SYF1>
+<PAGE>1</PAGE>
+<TITLE>Les pionniers français d'Internet  créent leur entreprise</TITLE>
+<TEXT>  ENTRE NOËL et le Jour de l'an, en cette période où il devient extrêmement difficile de trouver le moindre interlocuteur dans une entreprise, Yves 
+Devillers, responsable de recherche à l'Inria (Institut national de recherche en 
+informatique et automatique), était au contraire en pleine activité. La trève des confiseurs 
+devait lui permettre de déménager ses derniers dossiers de son laboratoire de 
+Rocquencourt, à l'ouest de la capitale, pour les bureaux parisiens d'Eunet France. Une 
+société, créée en mai dernier, qui, avec 600 clients, dont un tiers de particuliers, peut, à 
+peine sortie des limbes, se vanter d'être déjà le premier opérateur français sur Internet. 
+Car ce réseau, ressemble par bien des aspects à notre Télétel national, mais s'en 
+différencie aussi sur de nombreux points. En particulier, il est necessaire de passer par un 
+" opérateur ", pour s'y connecter.</TEXT>
+<TEXT>
+ Tout comme Télétel, Internet permet à chacun d'échanger des messages, de passer des 
+commandes à un marchand de pizzas, ou de se documenter sur un nombre immense de 
+#sujets. Mais, à la différence de Télétel, Internet n'est pas un réseau auquel il est possible 
+de se brancher directement (comme cela est le cas pour Télétel avec un Minitel), mais bien 
+plutôt un réseau de réseaux. On y accède via le réseau d'un " opérateur ", lui-même relié 
+aux 40 000 autres réseaux de la galaxie Internet, répartis dans 84 pays.</TEXT>
+<TEXT>
+ En outre, alors qu'un simple Minitel suffit pour se connecter sur Télétel, l'usage d'un 
+micro-ordinateur est nécessaire pour utiliser pleinement les ressources d'Internet. Et 
+l'établissement du raccordement est encore loin d'être évident, d'où une deuxième raison 
+d'utiliser les services d'un opérateur.</TEXT>
+<TEXT>
+  Eunet France, est maintenant l'un d'entre eux. Il est membre du réseau européen Eunet 
+qui utilise les infrastructures des télécommunications nationales dans les différents pays 
+européens, mais dispose de ses propres liaisons câblées transatlantiques pour 
+communiquer avec les réseaux du Nouveau Monde.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ EN GESTATION DEPUIS DIX ANS</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ Dès sa constitution en société anonyme, Eunet France est l'opérateur ayant le plus grand 
+nombre de clients connectés. Car cette entreprise ne naît pas ex-nihilo. Elle était en 
+gestation à l'Inria depuis plus de dix ans.</TEXT>
+<TEXT>
+ Tout commence en 1982. Yves Devillers quitte l'université Paris-VIII où il enseigne la 
+téléinformatique, pour rejoindre une équipe de recherche de l'Inria spécialisée dans l'étude 
+des composants électroniques. Rien à voir, à priori, avec sa spécialité d'origine. Si ce n'est 
+que les chercheurs ont absolument besoin de communiquer avec leurs collègues européens 
+et américains. Yves Devillers sera donc leur homme réseau. Or, en cette même année 
+1982, des utilisateurs européens du système d'exploitation Unix, utilisant une même 
+procédure de communication répondant au nom barbare de TCP/IP (Transmission Control 
+Protocol/Internet Protocol), créent un réseau, Eunet, centralisé à Amsterdam. En France, 
+leur interlocuteur est un professeur du CNAM (Conservatoire national des arts et 
+métiers), Humberto Lucas. Il crée Fnet, la branche française de l'organisation. Yves 
+Devillers est son interlocuteur à l'Inria.</TEXT>
+<TEXT>
+ Dans un premier temps, Eunet est essentiellement une messagerie. Ses adhérents 
+#européens peuvent échanger des informations avec des réseaux américains relativement 
+inorganisés, les Uunet, créés par un laboratoire de séismologie souhaitant être informé de 
+toutes les explosions sous-terraines dans le monde, dans le cadre du traité de non-
+prolifération des armes atomiques. D'autres laboratoires, trop petits pour avoir accès au 
+prestigieux Arpanet, financé par le ministère de la défense des Etats-Unis, ne tardent pas à 
+le rejoindre. Petit à petit, ces réseaux prennent de l'ampleur de part et d'autre de 
+l'Atlantique.</TEXT>
+<TEXT>
+ En 1988, la National Science Foundation (l'organisme chargé du financement de la 
+recherche publique aux Etats-Unis) met en place un sucesseur à Arpanet. Beaucoup plus 
+puissant, il est à même de raccorder des laboratoires en bien plus grand nombre. Ce sera la 
+colonne vertébrale de ce qui deviendra Internet.</TEXT>
+<TEXT>
+ Un autre chercheur de l'Inria, Christian Uitema (aujourd'hui président de l'IAB, Internet 
+Architecture Board, association chargée d'établir des standards de communication sur 
+Internet au niveau mondial), basé à Sophia-Antipolis, y raccorde son centre de recherche 
+grâce à une ligne de télécommunication spécialisée. Elle sera rapidement utilisée par des 
+chercheurs de tous horizons. Une autre ligne spécialisée devient vite nécessaire pour 
+assurer le flux transatlantique engendré par les laboratoires privées. Elle relie Paris à 
+Washington via Amsterdam. Car en Europe comme aux Etats-Unis, les différents réseaux 
+s'ouvrent à toutes sortes d'applications, y compris à des utilisations commerciales.</TEXT>
+<TEXT>
+ En France, l'afflux des demandes nécessite en 1992 la création d'une association Fnet, 
+pour répondre aux questions des entreprises et des particuliers qui désirent se connecter. 
+Christian Devillers. aidé d'une équipe de huit personnes, en est l'opérateur technique. Il 
+assure en effet depuis 1985 le rôle de correspondant français d'Eunet, le CNAM ayant à 
+cette date décidé de passer la main.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ TRANSFERT DE TECHNOLOGIES</TEXT>
+<TEXT>
+</TEXT>
+<TEXT>
+ Mais sa tâche s'éloigne de plus en plus de celle d'un animateur d'une équipe de recherche. 
+Il s'agit d'attribuer les numéros d'accès au réseau, de gérer le paiement des redevances, 
+d'assurer tout le soutien et le développement techniques. En mai dernier, l'association 
+décide de céder à la société Eunet France, créée à cette occasion, la gestion commerciale 
+et technique de ses adhérents. L'association est le principal actionnaire de cette nouvelle 
+société présidée par Humberto Lucas.</TEXT>
+<TEXT>
+ Une activité, qui a vu le jour dans un laboratoire public, l'Inria, est ainsi à l'origine d'une 
+entreprise privée dont une partie des profits contribuera en retour à financer des travaux 
+de développement et de formation menés au sein d'une association d'usagers. Une belle 
+boucle pour assurer aujourd'hui, et à l'avenir, le transfert de technologies.</TEXT>
+</DOC>

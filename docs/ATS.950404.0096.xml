@@ -1,0 +1,123 @@
+<DOC>
+<DOCID>ATS.950404.0096</DOCID>
+<DOCNO>ATS.950404.0096</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+950404
+</DT>
+<PT>
+133300
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+ecpi ecps kul
+</DE>
+<AU>
+ee ct jn
+</AU>
+<KW>
+informatique image synthese sim eclairage
+</KW>
+<TI>
+Les images de synthèse enfin possibles sur PC Les domaines d'application ne
+cessent de s'étendre éclairage par Alain Graber, SIM Informatique.
+</TI>
+<LD>
+Berne, 4 avril (sim) La création d'images de synthèse a été longtemps
+l'apanage de stations de travail informatiques puissantes, aux prix
+inabordables. Aujourd'hui, toutes les bourses ou presque y ont accès, grâce à
+la puissance que les nouveaux processeurs confèrent au PC.
+</LD>
+<TX>
+"Jurassic Park" ou "Terminator" obligent, le commun des mortels associe
+souvent l'image de synthèse au monde ludique du cinéma et des jeux vidéo.
+Mais bien avant le cinéma, les militaires ont utilisé ces images pour simuler
+des combats et entraîner les pilotes de chasse et autres conducteurs de
+chars.
+</TX>
+<TX>
+De même, les scientifiques se sont très tôt emparés des puissants outils
+informatiques mis à leur disposition pour visualiser de nouvelles molécules
+ou pour simuler les galaxies de notre univers.  Les architectes et les
+ingénieurs ont vu dans l'image virtuelle le moyen idéal de placer leurs
+projets dans leur cadre "naturel" avant de les réaliser. Ce, tout en leur
+donnant cette touche de réalisme qui permet de juger d'emblée des avantages
+et inconvénients d'une solution.
+</TX>
+<ST>
+Testé sur ordinateur
+</ST>
+<TX>
+Les industries automobile et aéronautique utilisent l'image de synthèse pour
+simuler leurs modèles de demain. La simulation n'a ici pas qu'un but
+esthétique. Elle permet aussi de visualiser un phénomène dans le temps. Les
+ingénieurs testent ainsi leurs nouveaux produits dans les pires conditions,
+sans se salir les mains, tout en calculant avec une grande précision l'impact
+de ce traitement de choc sur les principaux paramètres de l'objet.
+</TX>
+<TX>
+Cet exploit n'est toutefois plus réservé aux seuls gros ordinateurs. Images
+et simulations sont aussi exploitables désormais avec un PC de type 486 DX 33
+Mhz muni de 8 Mega-octets de mémoire vive. Comme les logiciels utilisés sont
+gourmands en mémoire, il convient de disposer d'au moins 200 Mo d'espace
+disque. Pour les logiciels lourds, l'utilisateur aura intérêt à s'équiper
+d'un ordinateur à processeur DX2 66 Mhz, voire Pentium tournant à 90 ou 100
+Mhz.
+</TX>
+<TX>
+Cette puissance est nécessaire lorsque l'image est complexe. En mode "Ray
+Tracing" - lorsqu'une illumination globale de l'image et des effets d'ombre,
+de réflexion et de réfraction sont exigés -, l'ordinateur "mouline" au
+maximum. Générer une telle image à l'écran peut demander plusieurs minutes à
+un PC de type Pentium. Ce laps de temps peut dépasser 10 minutes sur un PC de
+type DX2 66 Mhz.  Autrement dit, l'utilisateur professionnel aura intérêt à
+s'équiper d'un matériel puissant pour atteindre un certain rendement.
+</TX>
+<TX>
+Les logiciels d'images virtuelles permettent d'imprimer à l'image quantité de
+textures différentes. Intégrer un mur de briques sur la surface d'une sphère
+ou "peindre" la carrosserie d'une voiture avec une texture de bois font
+partie des opérations de routine. De là à développer chez certains un goût
+pour l'art surréaliste, il n'y a qu'un pas.
+</TX>
+<ST>
+Applications étendues
+</ST>
+<TX>
+Les domaines d'application pour des images virtuelles sont de plus en plus
+nombreux. Dans la publicité, les grandes agences s'intéressent de très près
+au phénomène de l'image virtuelle. Ce domaine intéresse aussi la médecine.
+Par exemple, les médecins peuvent visualiser une prothèse de col du fémur en
+surexposition d'une radiographie. Ils peuvent ainsi préparer au mieux leurs
+interventions. Il en va de même pour l'interprétation des images produites
+par un scanner.
+</TX>
+<TX>
+Dernier avatar de ce développement, les loisirs tendent eux aussi vers la
+"nouvelle perfection" du virtuel. Les jeux vidéos de la dernière génération
+vont puiser leurs solutions techniques et leur inspiration dans les
+applications professionnelles. L'espace cybernétique est dans le collimateur
+des entreprises de jeux vidéo, qui quotidiennement recherchent de nouveaux
+talents pour exploiter un marché aux profits virtuellement gigantesques.
+</TX>
+<TX>
+Note aux rédactions: Vous recevez un SIM informatique un mardi sur deux. Ces
+textes sont produit avec le soutien d'IBM (Suisse). L'indépendance
+rédactionnelle de l'ATS dans le choix et le traitement des sujets est
+garantie.  Merci, en cas de publication, d'utiliser la signature (sim) ou
+(sim /ats), et non (ats).
+</TX>
+</DOC>

@@ -1,0 +1,130 @@
+<DOC>
+<DOCNO>LEMONDE95-003291</DOCNO>
+<DOCID>LEMONDE95-003291</DOCID>
+<ACCOUNT>370684</ACCOUNT>
+<GENRE>OPINION</GENRE>
+<DATE>19950127</DATE>
+<LMDOC>MID</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q260195/1900</FAB>
+<SUBJECTS>COMMUNICATION,NOUVEAU MEDIA,ECOUTES TELEPHONIQUES,SYSTEME DE SECURITE,LOI</SUBJECTS>
+<NOTE>Stéphane Bortzmeyer est ingénieur responsable des réseaux informatiques au CNAM</NOTE>
+<NUM1>950127-14</NUM1>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-014-31</REFERENCE1>
+<SEC1>HOR</SEC1>
+<AUTHOR>BORTZMEYER STEPHANE</AUTHOR>
+<SIP1>PAR STEPHANE BORTZMEYER</SIP1>
+<PAGE>1</PAGE>
+<TITLE>Pour la libéralisation  du chiffrement en France</TITLE>
+<TEXT> LA communication entre citoyens, aujourd'hui, se fait de plus en plus par le truchement de réseaux complexes que l'individu ne peut totalement contrôler. 
+Qu'il s'agisse du téléphone, de la télécopie, ou de plus en plus des réseaux informatiques 
+comme Internet, on ne peut pas avoir confiance dans ce qui se passe sur le réseau. On ne 
+peut pas être sûr que les messages ne seront pas écoutés, on n'a aucune garantie qu'ils 
+arriveront non déformés, on n'a pas de preuve de l'identité de l'expéditeur.</TEXT>
+<TEXT>
+  Les techniques modernes remettent en cause bien des certitudes : la manipulation d'un 
+message, même vocal, l'écoute " en grand " par des ordinateurs et non par des personnes, 
+en nombre forcément limité, donnent aux malhonnêtes ou à ceux qui abusent de leur 
+pouvoir des armes redoutables.</TEXT>
+<TEXT>
+  Bien sûr, il existe des lois : les écoutes téléphoniques sont réglementées. Elles ne peuvent 
+être effectuées que dans des conditions bien précises, et à seule fin de lutter contre le 
+crime. En l'absence de toute jurisprudence, on peut penser que ces lois s'appliquent 
+également aux réseaux informatiques.</TEXT>
+<TEXT>
+  Mais la mise en examen de plusieurs membres de la fameuse " cellule de l'Elysée " en 
+décembre 1994, en raison d'écoutes téléphoniques, illustre la faiblesse de la protection 
+assurée par la loi. Face aux outils modernes et aux moyens qu'ils offrent (et qu'ils offriront 
+de plus en plus) à ceux qui veulent violer la loi et les droits du citoyen, il est nécessaire de 
+permettre à ce dernier d'utiliser la technique pour se protéger. Je considère en effet qu'un 
+citoyen a droit à sa vie privée et qu'il peut souhaiter dissimuler le contenu de ses messages 
+sans avoir de compte à rendre.</TEXT>
+<TEXT>
+ Il n'existe aucun moyen de garantir une sécurité complète sur un réseau, qu'il soit 
+téléphonique ou informatique. Les messages peuvent être écoutés par des gouvernements 
+peu scrupuleux, par un employé indélicat, par n'importe qui s'il se branche sur l'un des 
+endroits vulnérables du réseau. La complexité de plus en plus grande des réseaux, leur 
+internationalisation, peut-être demain leur privatisation, rendra de plus en plus difficile 
+toute protection basée sur la confiance dans la compagnie qui gère le réseau.</TEXT>
+<TEXT>
+  Non seulement cette vulnérabilité est une menace pour les droits du citoyen (parmi 
+lesquels figurent le droit à la vie privée), mais c'est aussi une gêne pour la vie économique. 
+De plus en plus d'entreprises vont utiliser ces réseaux de communication, et la sécurité des 
+messages, par exemple pour les paiements électroniques, est une question sérieuse.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ Les techniques permettant</TEXT>
+<TEXT>
+  de chiffrer</TEXT>
+<TEXT>
+  un message restent interdites aux simples citoyens</TEXT>
+<TEXT>
+  Il existe une solution technique à ce problème de la confidentialité, (ainsi d'ailleurs qu'à 
+ceux du contrôle de l'intégrité des messages échangés et de l'authentification de 
+l'expéditeur). Elle est basée sur les techniques de cryptographie.</TEXT>
+<TEXT>
+  La cryptographie est l'ensemble des moyens permettant de chiffrer, de rendre 
+incompréhensible un message. Une fois cette opération effectuée, le message peut 
+emprunter n'importe quel type de réseau, public ou privé, français ou étranger sans risque. 
+Sur le trajet, une grande oreille peu scrupuleuse pourra lire le message ; elle ne pourra pas 
+le déchiffrer.</TEXT>
+<TEXT>
+  Les techniques de chiffrement ont connu de grands développements depuis vingt ans. La 
+cryptographie dite " à clé publique " permet d'envoyer un message de façon fiable à 
+quelqu'un sans avoir eu à échanger une clé secrète précédemment. La " signature 
+#électronique " et le " résumé de message " rendent possible l'authentification du message 
+et garantissent qu'il n'a pas été modifié en cours de route. Enfin, des logiciels mettant en 
+oeuvre ces techniques de façon efficace sont maintenant disponibles, parfois gratuitement, 
+comme le programme PGP (Pretty Good Privacy), devenu la norme de fait en matière de 
+chiffrement, qui permet ainsi à tous de communiquer de façon sûre.</TEXT>
+<TEXT>
+ Alors, quel est le problème puisque la technique résout tout ? C'est que l'utilisation des 
+techniques cryptographiques en France reste interdite, ou plus précisément réservée aux 
+militaires, aux policiers et, dans une certaine mesure, aux banquiers. Le simple citoyen, 
+l'association, l'université ou la petite entreprise en sont exclus.</TEXT>
+<TEXT>
+  Ces techniques sont interdites par la loi 90-1170 du 29 décembre 1990, qui soumet 
+l'utilisation de toute technique de chiffrement en France à une autorisation. Ces 
+autorisations sont délivrées par le Service central pour la sécurité des systèmes 
+d'information (SCSSI), qui dépend directement du premier ministre (pendant la guerre 
+froide, il dépendait de l'armée). Les critères d'autorisation ou de refus du SCSSI sont 
+secrets. Cet organisme ne publie pas de rapport d'activité.</TEXT>
+<TEXT>
+  Il semble (on en est réduit aux déductions puisque le SCSSI ne publie pas ses principes de 
+choix) que la politique d'autorisation soit la suivante : l'organisation qui demande doit 
+fournir la preuve que le système de chiffrement qu'elle utilise est suffisamment peu fiable 
+pour qu'un écoutant disposant de moyens importants puisse " casser " son code, le 
+déchiffrer. Les logiciels trop efficaces, c'est-à-dire trop difficiles à casser, comme PGP, 
+sont de fait interdits. En tout état de cause, seule l'organisation dont les besoins de sécurité 
+sont jugés dignes d'intérêt par le SCSSI peut espérer obtenir une autorisation.</TEXT>
+<TEXT>
+  Pourquoi cette loi et cette pratique ? L'argument le plus souvent donné est que les 
+écoutes (" interceptions ") sont nécessaires à la lutte contre le crime. Si chacun pouvait 
+chiffrer ses transmissions, un outil d'enquête efficace deviendrait difficilement utilisable.</TEXT>
+<TEXT>
+  Cette argumentation n'est pas satisfaisante pour plusieurs raisons. D'abord, elle pose 
+comme postulat que les écoutes ne seront utilisées que par les autorités légales et 
+uniquement dans un but de lutte contre le crime. En fait, les exemples ne manquent pas 
+d'écoutes effectuées dans de tout autre but, ou d'écoutes réalisées par des gens qui n'y 
+étaient pas autorisés mais qui exploitaient ces failles dans les réseaux mentionnés au 
+début. Si un réseau n'est pas rendu sûr grâce au chiffrement, tout le monde peut y 
+intercepter des messages, aussi bien le policier légalement chargé d'une enquête que le... 
+disons... l'écoutant illégal.</TEXT>
+<TEXT>
+  En outre, l'interdiction du chiffrement profite aux criminels puisqu'ils peuvent écouter 
+tranquillement les messages circulant sur les réseaux. Mais, surtout, cette argumentation 
+suppose que la lutte contre le crime justifie tout. Or tous les progrès des droits du citoyen 
+peuvent potentiellement profiter au criminel. Cela n'a pas empêché ces progrès de se 
+réaliser depuis deux siècles.</TEXT>
+<TEXT>
+  Notons enfin que des pays voisins, aux systèmes économiques et sociaux proches, 
+autorisent déjà le chiffrement, ne maintenant de restrictions qu'à l'exportation : Allemagne 
+et Grande-Bretagne, par exemple. Or la criminalité n'y est pas plus élevée qu'en 
+France.</TEXT>
+<TEXT>
+  Il est donc nécessaire de corriger cet archaïsme qui consiste à traiter la cryptographie 
+comme une arme ultra-secrète dans un pays en guerre. Le développement de l'utilisation 
+des réseaux ne peut pas se faire sans les techniques de la cryptographie.</TEXT>
+</DOC>

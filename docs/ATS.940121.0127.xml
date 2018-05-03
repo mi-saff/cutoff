@@ -1,0 +1,73 @@
+<DOC>
+<DOCID>ATS.940121.0127</DOCID>
+<DOCNO>ATS.940121.0127</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940121
+</DT>
+<PT>
+081600
+</PT>
+<SC>
+bsf025 bsf
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<RC>
+ec
+</RC>
+<OC>
+ecf
+</OC>
+<DE>
+prod ecpb
+</DE>
+<AU>
+gc al
+</AU>
+<KW>
+banque telephon securite separe
+</KW>
+<TI>
+Banque par téléphone: le problème de la sécurité fiche séparée.
+</TI>
+<LD>
+Berne, 21 jan (ats) La banque par téléphone pose évidemment des problèmes de
+sécurité. Il faut s'assurer qu'un tiers ne puisse pas obtenir des
+informations ni effectuer des opérations sur un compte.  Diverses solutions
+sont techniquement possibles.
+</LD>
+<TX>
+Le CS-Firstphone du Crédit Suisse (CS) opère avec un système particulier,
+basé sur un numéro de membre à 6 chiffres et un mot de passe choisi par le
+client, comportant de 7 à 10 chiffres. Lors de l'appel, le numéro de membre
+est introduit dans le système de sécurité.
+</TX>
+<TX>
+Le client est ensuite prié de donner deux lettres de son mot de passe, dans
+l'ordre généré par l'ordinateur de façon aléatoire. Le système procède
+ensuite à l'identification. Le mot de passe intégral n'est ainsi connu de
+personne dans la banque.
+</TX>
+<TX>
+De plus, l'enregistrement permet de reconstituer toutes les opérations. En
+sept mois et demi, le CS n'a rencontré aucun problème dans le domaine de la
+sécurité, déclare Hans Ueli Keller, chef du retail banking pour la Suisse.
+</TX>
+<TX>
+En Allemagne, la Citibank, qui a introduit son système de banque par
+téléphone en 1989 déjà, n'annonce aucun abus ni aucun dommage pour les
+clients après plusieurs millions d'appels.
+</TX>
+<TX>
+Pour le système de répondeur automatique de la Caisse d'épargne et de crédit
+de Lausanne, la sécurité est garantie grâce à un code confidentiel. Le client
+qui téléphone doit fournir son numéro de compte, puis son code.
+</TX>
+</DOC>

@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO>LEMONDE95-015425</DOCNO>
+<DOCID>LEMONDE95-015425</DOCID>
+<ACCOUNT>387659</ACCOUNT>
+<CHA1>1</CHA1>
+<DATE>19950420</DATE>
+<LMDOC>EVB</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q190495/1557</FAB>
+<SUBJECTS>TECHNOLOGIE AVANCEE,TELEPHONE,INFORMATIQUE,COLLOQUE,DESCRIPTION,CHIFFRE,TELECOMMUNICATION</SUBJECTS>
+<NOTE>DOC : avec un dessin de TARASKOFF.</NOTE>
+<NUM1>950420-27</NUM1>
+<NAMES>FRANCE TELECOM,INTEL,MATRA COMMUNICATION,ALCATEL</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-027-32</REFERENCE1>
+<SEC1>AUJ</SEC1>
+<AUTHOR>ALBERGANTI MICHEL</AUTHOR>
+<SIP1>MICHEL ALBERGANTI</SIP1>
+<SOT1>Informatique et télécommunications s'associent pour transmettre simultanément voix, visages et sons, facilitant ainsi le travail en réseau des utilisateurs</SOT1>
+<SU11>AUJOURD'HUI - SCIENCES</SU11>
+<PAGE>1</PAGE>
+<TITLE>La visioconférence sur ordinateur abolit les distances</TITLE>
+<TEXT> L'ORDINATEUR a déjà remplacé la machine à écrire, la planche à dessin, la calculatrice, l'agenda et le télécopieur. Reste le téléphone. Mais ses 
+jours sur les bureaux semblent comptés. L'arrivée des systèmes de visioconférence sur PC 
+pourrait non seulement l'intégrer, mais également donner aux télécommunications une 
+puissance capable de concurrencer les déplacements professionnels.</TEXT>
+<TEXT>
+  La visioconférence sur PC s'adresse à ceux qui ont besoin d'échanger rapidement des 
+informations à la fois sonores, visuelles et informatiques. Elle met en communication deux 
+ordinateurs. Une caméra capte l'image de l'utilisateur, qui est transmise par le réseau 
+téléphonique numérique jusqu'à l'autre ordinateur, qui l'affiche sur son écran. Et 
+inversement. Il en est de même pour le son, capté par un micro et reçu sur des écouteurs, 
+un casque ou des haut-parleurs. Les fichiers informatiques sur lesquels travaillent les deux 
+correspondants suivent la même voie.</TEXT>
+<TEXT>
+ Dans ce cas, la communication dépasse la simple visualisation pour atteindre ce qu'il est 
+convenu d'appeller le " travail coopératif ". Le document qui se trouve sur l'un des 
+ordinateurs est " projeté" sur l'autre. Le correspondant travaille alors sur ce fichier 
+informatique de la même façon que s'il était présent sur son propre ordinateur. 
+#Alternativement, les deux interlocateurs prennent la main pour, par exemple, corriger les 
+termes d'un contrat. Ce partage de document en temps réel fonctionne même si le logiciel 
+qui a servi à créer le document initial n'est présent que sur l'un des deux ordinateurs. En 
+fin de travail, celui qui ne possède pas le logiciel en question enregistre néanmoins une " 
+image " du document, qu'il pourra imprimer. Pour les dialogues plus informels qui 
+nécessitent un croquis à main levé et quelques indications écrites, la fonction " tableau 
+blanc " offre une zone sur laquelle les deux interlocuteurs s'expriment simultanément. Un 
+cercle dessiné d'un côté apparaît aussitôt de l'autre.</TEXT>
+<TEXT>
+# QUINZE IMAGES PAR SECONDE </TEXT>
+<TEXT>
+  Un tel résultat ne réclame pas une puissance informatique très élevée. Un ordinateur doté 
+d'un processeur Intel 486 à 33 MHz est suffisant. La véritable contrainte concerne la ligne 
+téléphonique, étant donné la très importante quantité d'informations qu'impose une 
+communication par images vidéo. La visioconférence impose une liaison numérique 
+#différente des lignes classiques (réseau téléphonique commuté), qui sont analogiques. Le 
+recours au réseau Numéris de France Télécom, conforme à la norme RNIS (réseau 
+numérique à intégration de services), est un minimum acceptable. Mais le nombre actuel 
+d'utilisateurs de ce réseau reste faible.</TEXT>
+<TEXT>
+  Avec 128 kbits/s, Numéris a un débit nettement supérieur à celui des lignes classiques, 
+d'autant que ces dernières ne peuvent transmettre que des données préalablement " 
+modulées " par un modem dont les débits sont limités à 9,6 kbits/s, ou 14,4 kbits/s pour les 
+plus récents. Des débits tout à fait insuffisants : même transmise par Numéris, l'image du 
+correspondant dans la fenêtre de l'écran reste saccadée. La transmission vidéo, en temps 
+réel et dans les deux sens, ne dépasse pas les 15 images par seconde dans le meilleur des 
+cas, et avec une définition quatre fois inférieure à celle de la télévision.</TEXT>
+<TEXT>
+  Ces obstacles n'empêchent pas Thierry Zilberberg, directeur du marketing des produits et 
+services professionnels chez France Télécom, de croire à un développement rapide du 
+réseau Numéris. " Nous sommes en retard sur l'Allemagne, qui dispose de deux fois plus 
+de raccordements RNIS, mais nous avons connu une croissance de 60 % en 1994 ", note-t-
+il. Pour lui, le télétravail, l'accès aux réseaux du type Internet et le travail coopératif vont 
+développer l'utilisation des lignes numériques.</TEXT>
+<TEXT>
+  France Télécom prévoit la vente de 10 000 raccordements Numéris pour des applications 
+de visioconférence en 1995. Et le double pour l'an prochain. Pour accélérer le mouvement, 
+l'opérateur offre un chèque cadeau pour accompagner les 3 000 premiers achats. D'une 
+valeur de 4 800 francs HT, il correspond à 16 heures de communication Numéris en 
+période rouge et longue distance.</TEXT>
+<TEXT>
+  
+ " BRANCHER ET VOIR " </TEXT>
+<TEXT>
+  Cette semaine, EGT, filiale de France Télécom, commence à livrer les ProShare Video 
+System 200 produits par l'américain Intel, premier fabricant mondial de microprocesseurs. 
+Vendu 14 000 francs HT (non compris le prix des ordinateurs), il comprend deux cartes 
+électroniques (compression vidéo, RNIS et audio 16 bits), une caméra, un écouteur et un 
+logiciel. Ce système sera concurrencé par celui que Matra Communication lancera à la fin 
+du mois de mai. Baptisé Plug and See, il coûtera environ 20 000 francs HT.</TEXT>
+<TEXT>
+  Matra justifie le prix de vente de Plug and See par une puissance de traitement 
+supérieure de ses cartes. Tandis qu'Intel s'appuierait sur le processeur de l'ordinateur. 
+SAT, quant à elle, vend son système Meet Me depuis le mois d'avril au prix de 19 990 
+francs. Une offre qui est " la seule qui fonctionne sur les ordinateurs Macintosh d'Apple ", 
+selon Véronique Beaumont, responsable export des produits RNIS chez SAT. La version 
+PC est prévue pour le mois de juin. Enfin, Alcatel commercialise, pour un prix de base de 
+20 000 francs HT, les systèmes 3253 et 3255 du numéro un américain de la visioconférence 
+sur PC, PictureTel, qui a livré 10 000 systèmes en un an.</TEXT>
+<TEXT>
+  Certaines entreprises ont déjà testé le système ProShare. " Cet outil va diviser par deux 
+le temps de face-à-face physique entre nos formateurs et nos clients ", estime Hubert 
+Grandjean, PDG d'E&amp;B, une société de 30 personnes spécialisée dans la formation en 
+bureautique. Michel Rousseau, patron de l'entreprise d'import-export Ajemab, déclare ne 
+plus pouvoir se passer de la visioconférence. " Mon acheteur se trouve à Limoges et nous 
+nous branchons une ou deux fois par semaine pour que je choisisse les modèles de 
+chaussures ou de bijoux fantaisie qui m'intéressent ", raconte-t-il. Malgré la faible qualité 
+de l'image, Michel Rousseau dit ne s'être " jamais trompé " sur la marchandise. Un gain 
+de temps précieux . " Lorsque je recevais les échantillons par la poste, je perdais une 
+dizaine de jours, soit une perte de 10 000 exemplaires de chaussures bateau lorque la 
+demande est forte, comme en ce moment... "</TEXT>
+</DOC>

@@ -1,0 +1,111 @@
+<DOC>
+<DOCID>ATS.941213.0047</DOCID>
+<DOCNO>ATS.941213.0047</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+941213
+</DT>
+<PT>
+170900
+</PT>
+<SC>
+bsf134 bsf
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<RC>
+ec
+</RC>
+<OC>
+dpa
+</OC>
+<DE>
+c1 ecpi comt
+</DE>
+<AU>
+fss al
+</AU>
+<KW>
+usa ibm intel pentium eclairage
+</KW>
+<TI>
+Le défaut du Pentium inquiète des millions d'utilisateurs Les bourses et les
+investisseurs réagissent au gel des ventes d'IBM éclairage par Christoph
+Dernbach, DPA.
+</TI>
+<LD>
+Hambourg, 13 déc (ats/dpa) La décision d'IBM de geler lundi ses livraisons
+d'ordinateurs équipés de microprocesseurs Pentium inquiète les utilisateurs.
+Quelque cinq millions de PC équipés de cette puce fabriquée par Intel ont
+déjà été vendus dans le monde sous différentes marques.
+</LD>
+<TX>
+Les experts se disputent sur la question de savoir si cette super puce commet
+réellement une erreur tous les 24 jours d'utilisation, comme l'affirme le
+service de recherche IBM ou si la décision de "Big Blue" est un coup de
+marketing. Le fait que la version actuelle de Pentium présente un défaut
+n'est cependant pas contesté.
+</TX>
+<ST>
+Les "bugs" des "chips"
+</ST>
+<TX>
+Les premières versions des puces ("chips") qui ont précédé le Pentium - les
+80386 et 80486 d'Intel - comportaient également des défauts ("bugs"). Le
+professeur américain de mathématiques Thomas R. Nicely a été le premier à
+mettre en évidence les défaillances du Pentium. Il a découvert que, par
+exemple, le résultat de la division de 1 par 824633702441 est faux à partir
+de la neuvième décimale, lorsque cette opération est réalisée par un
+microprocesseur Pentium.
+</TX>
+<TX>
+Apparemment, cette faute survient toujours quand les nombres convertis par
+l'ordinateur en langage binaire (soit en 0 et en 1) comportent des
+successions importantes de 1. Le fabricant Intel a tenté de rassurer sa
+clientèle en affirmant que l'erreur n'apparaissait qu'une fois sur neuf
+milliards, autrement dit tous les 27 000 ans.
+</TX>
+<ST>
+5000 opérations par seconde
+</ST>
+<TX>
+Les chercheurs d'IBM affirment en revanche que la "bulle" du Pentium est
+sérieuse: avec un tableur ordinaire, une faute apparait tous les 100 millions
+d'opérations. Cependant, les tableurs effectuent jusqu'à 5000 opérations de
+ce type par seconde.
+</TX>
+<TX>
+Si 100 000 utilisateurs utilisent un tableur durant 15 minutes par jour sur
+des PC-Pentium, on recensera déjà quelque 4000 fautes à la fin de la journée.
+Autrement dit, chaque utilisateur doit s'attendre à une faute tous les 24
+jours - et non tous les 27 000 ans.
+</TX>
+<ST>
+Arrière-pensées
+</ST>
+<TX>
+Les réserves d'IBM à l'égard du Pentium ne sont pas dépourvues
+d'arrière-pensées, même si la fréquence d'erreur calculée par ses chercheurs
+est jugée réaliste par d'autres experts. En effet, IBM n'est pas seulement
+client d'Intel mais aussi concurrent. Afin de se libérer de la tutelle de
+Microsoft, le concepteur de Windows, et d'Intel, IBM a développé le
+microprocesseur Power-PC en collaboration avec Motorola et Apple Computer.
+</TX>
+<TX>
+Alors qu'Apple vend déjà son PowerMacintosh basé sur la nouvelle puce, IBM
+n'a intégré cette dernière que dans des ordinateurs plus puissants nommés
+stations de travail. Le premier PC IBM utilisant le microprocesseur PowerPC
+et le système d'exploitation IBM OS/2 ne sortira que l'été prochain.
+</TX>
+<TX>
+A Wall Street, le débacle du Pentium a laissé des traces. La décision de "Big
+Blue" à la veille des achats de Noël a fait perdre 2,37 dollars à l'action
+Intel qui a cloturé à 60,37 dollars lundi.
+</TX>
+</DOC>

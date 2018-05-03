@@ -1,0 +1,102 @@
+<DOC>
+<DOCID>ATS.940216.0073</DOCID>
+<DOCNO>ATS.940216.0073</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940216
+</DT>
+<PT>
+162600
+</PT>
+<SC>
+bsf139 bsf
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<RC>
+su
+</RC>
+<OC>
+lsf
+</OC>
+<DE>
+for vd c1
+</DE>
+<AU>
+cm uc
+</AU>
+<KW>
+lausanne epfl robots commande
+</KW>
+<TI>
+Collaboration EPFL - NASA Des robots commandés par les mondes virtuels.
+</TI>
+<LD>
+Lausanne, 16 fév (ats) Un robot de l'Ecole polytechnique fédérale de Lausanne
+(EPFL) a été "téléopéré" mercredi à partir de l'Agence spatiale américaine
+(NASA). La démonstration a été faite à l'Institut de microtechnique de
+l'EPFL. Elle ouvre de vastes perspectives à la commande à distance de robots
+dans des milieux difficiles.
+</LD>
+<TX>
+Donner des ordres à un robot pour qu'il exécute une tâche déterminée en un
+lieu précis n'est pas chose aisée. Une équipe de chercheurs de l'institut
+lausannois a développé une nouvelle méthode pour télécommander un robot; elle
+fait appel à la "réalité virtuelle" et à un dispositif de "vision
+artificielle".
+</TX>
+<TX>
+Une souris informatique à trois dimensions permet de manipuler le robot aussi
+facilement que le ferait la main de l'utilisateur. Le robot est ainsi
+"téléopérable" à distance. Le système mis au point par l'EPFL intéresse la
+NASA et une collaboration est née pour consommer ce mariage de la robotique
+et du virtuel.
+</TX>
+<TX>
+L'idée de base est qu'il est possible de définir un monde informatique
+virtuel dans lequel l'opérateur peut décider de manière instinctive des
+opérations à faire exécuter par le robot. Les ordres sont ensuite communiqués
+au monde réel. La gestion des systèmes robotisés est sur le point de faire un
+bond considérable dans une programmation complexe et jusqu'ici souvent
+fastidieuse.
+</TX>
+<ST>
+Applications pratiques
+</ST>
+<TX>
+Avantage pratique, tout robot manipulé par un environnement virtuel peut être
+téléopéré à distance avec une grande exactitude. Le fait que le système
+informatique qui contient le monde virtuel soit à cinq mètres ou à 3000 km du
+robot n'a pas d'importance. Régulièrement déjà, un robot lausannois est
+téléopéré depuis un laboratoire de la NASA, en Californie, qui utilise les
+outils mis au point par l'EPFL.
+</TX>
+<TX>
+Les corrections sont automatiques. La réalité virtuelle supprime les
+contraintes de l'emplacement et de la taille. On peut ainsi commander des
+robots qui travaillent en milieu hostile - par exemple pour des opérations de
+déminage, sous l'eau ou dans un environnement contaminé -, indépendamment de
+la distance de la station de contrôle.
+</TX>
+<TX>
+Les applications potentielles d'un tel système sont immenses, disent les
+chercheurs de l'EPFL: commander des robots dans l'espace depuis la terre ou,
+à l'autre extrême, manipuler des micro-robots.  C'est une technique où la
+Suisse est bien placée face à la concurrence internationale.
+</TX>
+<TX>
+Cet intérêt n'a pas échappé au Fonds national suisse de la recherche
+scientifique, qui apporte son soutien financier par son programme prioritaire
+en informatique. Celui-ci a été doté de 32 millions de francs pour 34 projets
+de recherche suisses en 1992-1995.
+</TX>
+<ST>
+photo key disponible.
+</ST>
+</DOC>

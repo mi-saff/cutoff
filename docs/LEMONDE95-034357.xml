@@ -1,0 +1,93 @@
+<DOC>
+<DOCNO>LEMONDE95-034357</DOCNO>
+<DOCID>LEMONDE95-034357</DOCID>
+<ACCOUNT>412775</ACCOUNT>
+<DATE>19950919</DATE>
+<LMDOC>FLA</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>INB/38951003</FAB>
+<SUBJECTS>CENTRALE ELECTRO NUCLEAIRE,INFORMATIQUE,ROBOTIQUE,DEPARTEMENT ARDENNES</SUBJECTS>
+<NUM1>950919-2-R02-33</NUM1>
+<NAMES>CHOOZ</NAMES>
+<PUM1>QUO</PUM1>
+<SEC1>INI</SEC1>
+<AUTHOR>VAN EECKHOUT LAETITIA</AUTHOR>
+<SIP1>LAETITIA VAN EECKHOUT</SIP1>
+<SOT1>Un système de contrôle-commande informatisé équipe la centrale de Chooz (Ardennes)</SOT1>
+<SU21>SCIENCES ET TECHNOLOGIES</SU21>
+<PAGE>1</PAGE>
+<TITLE>Boom informatique dans le nucléaire</TITLE>
+<TEXT> "PHYSIQUEMENT, c'est vraiment un changement ! " Pour Roland Dur, opérateur depuis quinze ans chez EDF, la conduite assistée par ordinateur 
+constitue une avancée, principalement en termes de " confort ". Première à être pilotée par 
+un système de contrôle-commande entièrement informatisé, la centrale nucléaire de Chooz 
+(Ardennes) est dotée d'une salle de commande sans ressemblance avec celle de ses soeurs 
+aînées.</TEXT>
+<TEXT>
+  Exit les panneaux couverts de signaux et voyants divers. Les écrans d'ordinateurs ont 
+investi la place. Aux poussoirs et boutons " classiques " ont succédé des claviers de 
+dialogue et une boule roulante (track-ball). Sur les écrans de son poste de travail, 
+l'opérateur dispose d'une représentation graphique de l'installation et a accès à l'ensemble 
+des informations nécessaires à sa conduite et à son suivi. Il n'a plus besoin de se déplacer 
+d'un pupitre à l'autre pour actionner telle ou telle commande. Il lui suffit de sélectionner, 
+sur le schéma, le matériel (pompes, vannes...), puis de désigner sur le menu correspondant 
+qui apparaît à l'écran la case de commande qu'il souhaite sélectionner avant de la " valider 
+".</TEXT>
+<TEXT>
+  " Auparavant, il fallait balayer du regard tous les tableaux, et dès qu'il se produisait 
+quelque chose, nous devions nous lever. Il nous arrivait d'être debout neuf heures d'affilée. 
+Désormais, nous travaillons assis, apprécie Roland Dur. Nous n'avons plus à nous 
+déplacer d'un bout à l'autre de la salle pour aller chercher l'information. Nous l'avons 
+devant nous, à portée de main. Et à hauteur des yeux. " Etat normal, incident, accident, 
+quelle que soit la situation, l'opérateur n'a plus à quitter son siège. Lorsqu'un événement 
+se produit, il n'y a plus à aller chercher la fiche cartonnée nécessaire, pour connaître la 
+procédure à suivre. Celle-ci s'affiche automatiquement sur écran, sous forme 
+d'organigramme. Et simultanément sur le même écran, apparaissent les organes de 
+#commande sur lesquels elle doit être appliquée : l'opérateur peut ainsi manoeuvrer 
+directement.</TEXT>
+<TEXT>
+  Fini le stress lorsque les panneaux se transforment en " arbre de Noël ", pour reprendre 
+le jargon du métier. Dans une salle conventionnelle, en effet, tout défaut déclenche 
+systématiquement une alarme visuelle, quelle que soit sa place dans l'enchaînement des 
+faits. Sans compter que différents matériels peuvent être reliés à une seule et même 
+alarme. A charge pour les opérateurs de trouver celui à l'origine de l'événement. A Chooz, 
+le système hiérarchise les défauts, pour ne présenter à l'opérateur que les alarmes qui 
+doivent être traitées, avec les procédures et actions correctives adaptées.</TEXT>
+<TEXT>
+  " C'est vraiment dans les phases incidentelles ou accidentelles que l'on réalise 
+l'importance de cette aide, relève Roland Dur. La salle reste calme. On gagne du temps 
+dans la gestion des informations, repérant très rapidement ce qui ne fonctionne pas. Et, 
+exigeant une grande rigueur, l'informatique minimise nos risques d'erreur : nous faisons 
+une chose après l'autre. Dans une salle conventionnelle, quand on est sous le stress, on 
+peut se tromper de lignes à la lecture d'une procédure. "</TEXT>
+<TEXT>
+  Assisté dans son diagnostic, l'opérateur reste cependant maître de la conduite de 
+l'installation. " Il s'agit d'une conduite assistée par ordinateur mais pas d'une 
+automatisation qui se substituerait intégralement à l'homme. C'est là, affirme Alain Callen, 
+directeur délégué de Chooz, un choix fondamental qui a été fait, pour garder l'éveil de 
+l'opérateur. " Celui-ci se voit " proposer " une procédure, mais il peut décider d'une autre 
+action si une anomalie existe. L'ordinateur lui demandera à deux reprises de confirmer son 
+choix. Il reste ainsi maître des ordres de données.</TEXT>
+<TEXT>
+  " Les opérateurs ont une succession d'informations qui défilent sur leurs écrans. Mais il 
+n'en faut pas moins qu'ils maîtrisent ce qui se passe techniquement, physiquement, 
+derrière, sur l'installation ", souligne Christian Seisen, représentant syndical CGT, qui fut 
+cinq ans contrôleur sur le site de Chooz. Sans nier le " saut incontestable " réalisé avec ce 
+nouveau système de contrôle-commande, il n'en met pas moins en garde contre le risque 
+que les opérateurs, obnubilés par le pilotage des données informatiques, ne perdent le sens 
+physique de leur métier.</TEXT>
+<TEXT>
+  " C'est plus convivial, plus sécurisant. Mais c'est l'outil qui change, non le métier, assure 
+Roland Dur. Si tout va bien, tant mieux, mais à tout moment, il peut se passer quelque 
+chose. Et là, il s'agit d'être d'autant plus maître de l'installation. " Et celui-ci de reconnaître 
+toutefois : " Quand on prend l'habitude de voir l'information venir à soi, aller à nouveau la 
+chercher ne va pas toujours de soi. " Le cas de figure a d'infimes chances de se présenter, 
+mais les opérateurs peuvent être amenés à reprendre en manuel la centrale, en cas de 
+perte de la conduite informatisée. C'est pourquoi un panneau synoptique mural de 
+l'installation et un pupitre auxiliaire, avec les moyens conventionnels d'action d'urgence, 
+sont prévus.</TEXT>
+<TEXT>
+  Sans même aller jusque-là, il peut y avoir une information qui transite mal, un capteur qui 
+ne marche pas. Et quoi qu'il en soit, il y aura toujours certaines odeurs et températures que 
+les " rondiers ", ceux qui effectuent les rondes de surveillance, peuvent signaler. 
+Informatisation ou pas, dans une centrale, la notion de travail en équipe reste forte.</TEXT>
+</DOC>

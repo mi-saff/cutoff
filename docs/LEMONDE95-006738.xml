@@ -1,0 +1,113 @@
+<DOC>
+<DOCNO>LEMONDE95-006738</DOCNO>
+<DOCID>LEMONDE95-006738</DOCID>
+<ACCOUNT>375539</ACCOUNT>
+<DATE>19950218</DATE>
+<LMDOC>EVB</LMDOC>
+<DOS>GEN</DOS>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q170295/1730</FAB>
+<NUM1>950218-31</NUM1>
+<NAMES>INTERNET PHONE,NETPHONE</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-031-36</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>ALBERGANTI MICHEL</AUTHOR>
+<SIP1>MICHEL ALBERGANTI</SIP1>
+<SOT1>Parler presque gratuitement avec un interlocuteur lointain : un rêve réalisable, pour combien de temps encore ?</SOT1>
+<SU11>AUJOURD'HUI - SCIENCES</SU11>
+<PAGE>1</PAGE>
+<TITLE>Le téléphone menace d'engorgement le réseau Internet</TITLE>
+<TEXT> TÉLÉPHONER sur Internet... D'abord, l'idée intrigue. Pourquoi utiliser un réseau informatique pour transporter de la voix ? Parce que la communication 
+avec l'autre bout du monde ne coûte alors guère plus cher qu'un coup de fil local, répondent 
+les " inventeurs " de ce service. Soit des économies astronomiques pour ceux qui 
+conversent régulièrement avec Tokyo, Hongkong ou Sydney. Seule contrainte, les deux 
+interlocuteurs doivent être " branchés " sur Internet, le réseau mondial qui rassemble 
+environ 25 millions d'abonnés dans le monde.</TEXT>
+<TEXT>
+  En France, le nombre d'entreprises et autres associations offrant une connexion à 
+Internet a " explosé " en 1994. Pour le reste, il suffit de posséder un ordinateur doté d'un 
+modem et d'une " carte son ". De tels appareils coûtent environ 10 000 francs. Mais, 
+jusqu'à présent, ils ne remplaçaient pas le téléphone... " Les réseaux comme Internet ne 
+sont pas adaptés au transport de la voix ou des images animées ", estime Yves Parfait, 
+responsable des Services informations avancées chez France Télécom. " La transmission 
+en temps réel, dit-il, pose des problèmes techniques aux réseaux qui traitent l'information 
+sous forme de " petits paquets " indépendants. "</TEXT>
+<TEXT>
+  Pourtant, cette semaine, deux annonces prétendent transformer les froides messageries 
+électroniques en chaleureux dialogue vocal. Le 10 février, Electric Magic Company, une 
+entreprise de San Francisco, a fait la " une " du quotidien britannique The Guardian avec 
+l'annonce du lancement de NetPhone proposé pour 40 livres sterling, soit 330 francs. 
+Inventé par Andrew Green, informaticien anglais de vingt-huit ans, fondateur d'Electric 
+Magic, ce logiciel ne fonctionne que sur les ordinateurs Macintosh d'Apple.</TEXT>
+<TEXT>
+  Trois jours plus tard, le Wall Street Journal dévoilait Internet Phone, un autre logiciel de 
+communication téléphonique sur réseau informatique. Réalisé par VocalTech, une petite 
+entreprise israélienne sise à Tel Aviv, ce logiciel est vendu sur Internet pour environ 260 
+francs jusqu'à fin mars. Son prix doublera ensuite. Pour fonctionner, il requiert un 
+ordinateur compatible IBM équipé d'un processeur 486 avec système d'exploitation 
+Windows, modem rapide (14 400 bits par seconde), carte son, microphone et haut-
+parleur.</TEXT>
+<TEXT>
+ 
+ N'importe quel point</TEXT>
+<TEXT>
+  du globe atteint</TEXT>
+<TEXT>
+  pour moins</TEXT>
+<TEXT>
+  de 10 francs</TEXT>
+<TEXT>
+  de l'heure</TEXT>
+<TEXT>
+ 
+  Aux Etats-Unis, Internet Phone permettrait de converser avec quelqu'un situé sur 
+n'importe quel point du globe pour 2 dollars de l'heure, soit à peine plus de 10 francs. 
+Certains abonnements donnent même un accès illimité à Internet pour 25 dollars, soit 
+environ 130 francs, par mois. Lorsque l'on sait que certains appels internationaux coûtent 
+environ 10 francs la minute, l'amortissement du logiciel est quasiment immédiat, d'autant 
+que, selon le Wall Street Journal, les utilisateurs d'Internet Phone estimeraient que le 
+système fonctionne " raisonnablement bien ".</TEXT>
+<TEXT>
+  Le système de VocalTech utilise le son de la voix numérisée par la carte son de 
+l'ordinateur. Il compresse ces données informatiques et les envoie sur la ligne téléphonique 
+via le modem. A l'autre bout du fil, le processus inverse reconstitue la voix et la diffuse par 
+un haut-parleur. Ces traitements dégradent la qualité sonore, mais VocalTech estime que 
+la voix reste compréhensible tant que 80 % des informations sont correctement 
+transmises. Une bonne part de son savoir-faire tient dans la correction d'erreurs effectuée 
+par le logiciel, qui " devine " les sons manquants.</TEXT>
+<TEXT>
+  Outre sa qualité sonore médiocre, l'Internet Phone impose une communication du type 
+téléphone main libre. En effet, la liaison dans les deux sens n'a pas lieu simultannément 
+mais successivement. Selon le Wall Street Journal, le délai moyen de tramsmission atteint 
+1 seconde. Ces quelques handicaps semblent acceptables si l'économie est substantielle.</TEXT>
+<TEXT>
+  " Si un grand nombre d'utilisateurs d'Internet utilisent le réseau pour téléphoner, il 
+apparaîtra un problème de capacité ", affirme Yves Devillers, l'un des fondateurs d'Eunet 
+France, le plus important réseau français relié à Internet (Le Monde du 19 janvier). En 
+effet, les opérateurs de réseaux informatiques pratiquent la sur-location (overbooking) de 
+leurs lignes auprès de leurs abonnés. C'est ainsi qu'ils rentabilisent leurs investissements 
+en location de lignes à haut débit auprès des compagnies comme France Télécom. Mais, si 
+tous les abonnés utilisaient en même temps la puissance maximale de leurs modems, ils 
+satureraient immédiatement l'installation. Yves Devillers estime, en effet, que le facteur de 
+sur-location du débit est compris entre 50 et 100...</TEXT>
+<TEXT>
+  " En utilisation classique, cela ne pose pas de problème car chaque abonné n'utilise son 
+débit maximal que pendant des temps très courts ", explique-t-il. Ces pics correspondent, 
+par exemple, au chargement à distance d'une image. Avec le téléphone, le mode 
+d'utilisation change. " Au lieu d'une utilisation impulsive, la voix induit une exploitation 
+permanente de la puissance de transmission maximale ", indique Yves Devillers. D'où une 
+saturation inéluctable dès que le nombre d'utilisateurs " néfastes " augmente. La réaction 
+des opérateurs ne se fera pas attendre. Pour protéger leur réseau, ils modifieront les 
+règles du jeu, c'est-à-dire les conditions d'abonnement. " Les clients qui payent aujourd'hui 
+un forfait mensuel se sentiront trompés sur la marchandise ", estime Yves Devillers.</TEXT>
+<TEXT>
+  Aussi Eunet plaide-t-il pour une " tarification en fonction de l'usage ". L'intérêt 
+économique du téléphone sur Internet serait alors sérieusement amputé. Les logiciels 
+NetPhone et Internet Phone n'apparaîtraient plus que comme d'astucieux gadgets ayant 
+permis à leur premiers utilisateurs d'" exploiter la faiblesse du système ". Une attitude 
+qu'Yves Devillers, ancien chercheur en informatique, condamne : " Techniquement, le 
+téléphone sur Internet est possible, mais ceux qui le pratiqueront seront des goujats et je 
+doute que cela dure longtemps. "</TEXT>
+</DOC>

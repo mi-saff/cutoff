@@ -1,0 +1,93 @@
+<DOC>
+<DOCNO>LEMONDE95-023368</DOCNO>
+<DOCID>LEMONDE95-023368</DOCID>
+<ACCOUNT>398338</ACCOUNT>
+<DATE>19950614</DATE>
+<LMDOC>FLA</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>INI2495/2007</FAB>
+<NUM1>950614-2-R04-32</NUM1>
+<PUM1>QUO</PUM1>
+<SEC1>INI</SEC1>
+<AUTHOR>BAVEREL PHILIPPE</AUTHOR>
+<SIP1> PHILIPPE BAVEREL</SIP1>
+<SOT1>Automatisation croissante oblige, gérer les dysfonctionnements  et la vulnérabilité des machines requiert une formation poussée</SOT1>
+<SU21>EMPLOI</SU21>
+<SYF1>PANNE</SYF1>
+<PAGE>1</PAGE>
+<TITLE>La " civilisation de la panne "</TITLE>
+<TEXT> La" civilisation de la panne " serait-elle le stade suprême de la révolution industrielle ? A en croire Yves Lasfargue, directeur du Créfac, organisme de 
+formation et de reconversion créé en 1972, la réponse ne fait guère de doute : " Nous 
+passons de la civilisation de la peine (où le travail était surtout une somme d'efforts 
+physiques) à la civilisation de la panne, où le travail consiste à tenir en état de production 
+une machine qui produit à la place de l'homme. " Partant du principe que l'automatisation 
+croissante induit de plus en plus de complexité et démultiplie d'autant la probabilité de la 
+panne, l'avenir serait donc pavé de... dysfonctionnements, comme on dit aujourd'hui par 
+euphémisme. D'où cet axiome : " La panne est consubstantielle à la technologie " (lire 
+Robotisés, rebelles, rejetés. Les éditions de l'Atelier. Paris, 1993).</TEXT>
+<TEXT>
+ Yves Lasfargue recense des " points de fragilité " qui sont autant de causes de panne 
+dans les systèmes d'informatisation et d'automatisation actuels. La multiplication et la 
+complexité des composants dans les machines : la probabilité pour que la faucille tombe en 
+panne est-elle infiniment moindre que pour la moissonneuse-batteuse ! La fragilité apparaît 
+donc comme la rançon de la complexité... et du confort, toute la question étant de savoir si 
+le taux de pannes est supportable. L'intégration locale des composants explique qu'une 
+panne de l'un des composants se répercute inéluctablement sur l'ensemble du système 
+jusqu'à le paralyser. Exemple le plus parlant : la panne qui a frappé le circuit des 
+distributeurs automatiques de billets en juin 1993, et qui a rendu inutilisables, pendant 
+vingt-quatre heures, les dix-neuf millions de cartes Bleues en service en France.</TEXT>
+<TEXT>
+  L'interconnexion à distance par les réseaux : outre que les ordinateurs sont constitués de 
+composants intégrés, chacun est relié à plusieurs autres. Une telle configuration est une 
+aubaine pour les virus informatiques ! La concentration des lieux de passage : la 
+retransmission télévisée de la cérémonie d'inauguration des Jeux olympiques d'Albertville 
+passait par la même fibre optique. Un incident survenu sur cette fibre explique que l'image 
+ait été interrompue, l'espace de quelques secondes sur tous les téléviseurs du monde ! La 
+concentration des lieux de production sur un seul site, réalisée au nom des économies 
+d'échelle, peut produire des effets catastrophiques, amplifiés par la gestion en flux tendus, 
+en cas de panne... ou de grève. Et Yves Lasfargue de citer le cas du conflit social qui 
+affectait il y a quelques semaines l'usine de fabrication de yaourts Danone de Saint-Just-
+Chaleyssin (Isère), " qui produit cinq millions de yaourts par jour alors qu'il y a dix ans, une 
+dizaine d'usines fabriquaient chacune cinq cent mille unités quotidiennes ". Enfin, les 
+erreurs de conception : l'exemple le plus fameux est sans doute Socrate, système de 
+billetterie informatisée lancé par la SNCF au début de 1993 qui fit l'unanimité des usagers 
+contre lui tant les anomalies étaient nombreuses</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ PÉCHÉ</TEXT>
+<TEXT>
+ D'après la classification d'Yves Lasfargue, une telle vulnérabilité induit quatre principaux 
+types de pannes : les pannes techniques ; fruit de l'usure des matériaux ou d'un manque 
+d'entretien ; les accidents extérieurs (incendies, explosions, inondations...), d'autant plus 
+redoutables aujourd'hui que le mythe de l'infaillibilité de la technologie fait que les règles 
+les plus élémentaires de sécurité ne sont plus toujours respectées ; les erreurs d'utilisation, 
+au coeur de la relation homme/machine, qui résultent généralement d'une mauvaise 
+conception ergonomique ; et les agressions (fraudes et autres sabotages du type 
+#effacement ou piratage de fichiers...) accomplis à titre gratuit ou pour se venger d'un 
+licenciement, par exemple.</TEXT>
+<TEXT>
+  Seul espoir de salut au milieu de cette ribambelle de pannes qui hantent toutes les 
+dimensions de notre existence : il est urgent d'apprendre à gérer la panne en commençant 
+par en admettre l'idée. Briser le tabou suppose qu'on en finisse avec cette approche 
+culpabilisante de la panne, caractéristique des pays latins, qui fait qu'on l'assimile à la 
+notion de faute, voire de péché ! Prévenir la panne revient aussi à " décomplexifier " les 
+systèmes dès leur conception. L'industrie automobile, qui a entamé un mouvement de " 
+dérobotisation ", l'a bien compris : " Le taux de robotisation (nombre de points de soudure 
+réalisés par un robot par rapport au nombre total de ces points) qui atteignait 99 % pour la 
+Renault 19 est retombé à 82 % pour la Twingo et à 60 % pour la Laguna ", remarque Yves 
+Lasfargue.</TEXT>
+<TEXT>
+  Sachant que l'idée du " zéro panne " est un mythe, il incombe enfin aux responsables des 
+entreprises de prévoir des systèmes de fonctionnement " en mode dégradé ", à l'instar des 
+compagnies aériennes dont la " culture de la panne " est légendaire. Concrètement, cela 
+revient à apprendre aux opérateurs à réagir de manière positive à la panne : être capable 
+d'établir un diagnostic, de réaliser les réparations les plus élémentaires et d'assurer la 
+maintenance quotidienne de son appareil. Mais comme le " mode dégradé " relève du 
+domaine de l'utopie dans bon nombre d'entreprises, nos contemporains n'ont, semble-t-il, 
+pas fini de pester contre la " civilisation de la panne " . A ceci près que le premier 
+symptôme d'impuissance une caresse ou un encouragement prodigué à l'appareil en 
+#souffrance, d'après les spécialistes a quelque chose d'attendrissant et de naïf au milieu de 
+tant de technologie : qui n'a pas remarqué le geste de la vendeuse qui frotte sur sa manche 
+la carte bancaire rebelle ?</TEXT>
+</DOC>

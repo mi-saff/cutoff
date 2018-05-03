@@ -1,0 +1,137 @@
+<DOC>
+<DOCID>ATS.940405.0101</DOCID>
+<DOCNO>ATS.940405.0101</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940405
+</DT>
+<PT>
+085900
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+ecpi ge
+</DE>
+<AU>
+ee zs
+</AU>
+<KW>
+ge autoroute de contournement sim
+</KW>
+<TI>
+Contournement de Genève: l'autoroute intelligente Par Jacques Bettex
+(ats/sim).
+</TI>
+<LD>
+Genève, 5 avril (ats) Pour informer et guider les usagers de l'autoroute de
+contournement de Genève, deux puissants ordinateurs sont en alerte
+permanente. Ils se renseignent notamment sur la fluidité du trafic, l'état de
+la chaussée, l'éventualité d'un incident. Quelque 20 000 à 30 000
+informations sont recueillies sur les 15 kilomètres du trajet entre les
+frontières vaudoise et française.
+</LD>
+<TX>
+Le concept d'"autoroute intelligente" signifie assurer la gestion et la
+sécurité du trafic en y faisant participer activement les conducteurs,
+explique Jacques Fournier, ingénieur chargé de mission au service des routes
+nationales au Département des travaux publics de Genève. La sécurité est
+étroitement liée au confort de conduite, lequel passe par une information
+rapide et efficace des usagers en cas d'incident. Le système doit prendre des
+mesures (ou y contribuer) pour réguler le trafic, ventiler et éclairer des
+tunnels et tranchées couvertes, et, le cas échéant, alarmer des équipes
+d'intervention ou de secours.
+</TX>
+<ST>
+L'automatisme sur le terrain
+</ST>
+<TX>
+Les immenses progrès de l'informatique et des réseaux de communications de
+données ont permis de réaliser une infrastructure de télémesure et de
+télécommande dont l'"intelligence" informatique est déléguée le plus près
+possible de son lieu d'application. Tous les capteurs de température et
+d'humidité de l'air, de passage et de comptage des véhicules, les détecteurs
+d'incendie et les instruments de mesure de la qualité de l'air dans les
+tunnels, sont connectés à 15 petits ordinateurs locaux, les contrôleurs
+subordonnés.
+</TX>
+<TX>
+Ces contrôleurs, présents tout au long du parcours, pilotent également les
+signaux routiers situés dans leur zone de travail: feux tricolores, signaux
+de changement de voie, limitations de vitesse et panneaux d'avertissement
+variables. Ils sont suffisamment autonomes pour prendre localement les
+mesures d'urgence qui s'imposeraient en cas de perturbation du réseau global
+ou, par exemple, lors d'un incendie dans un tunnel.
+</TX>
+<TX>
+Chaque contrôleur subordonné est en effet relié par fibres optiques à un
+ordinateur de zone. Ces derniers, au nombre de trois, sont responsables de
+réunir les informations récoltées par les contrôleurs, ainsi que de
+coordonner l'exécution de leurs tâches: par exemple, augmenter l'éclairage et
+la ventilation, fermer un tunnel ou mettre l'autre tube en circulation à
+double sens.
+</TX>
+<TX>
+Cette délégation des compétences a été rendue indispensable par l'envergure
+de l'installation de signalisation. Quelque 135 portiques, dont certains ont
+plus de 20 m de portée, supportent en effet 740 panneaux d'information et de
+régulation de la circulation, en plus des grands panneaux indicateurs de
+direction et des affichages de messages variables.
+</TX>
+<ST>
+L'élément humain
+</ST>
+<TX>
+A leur tour, les trois ordinateurs de zone sont reliés aux grands ordinateurs
+du centre auroroutier et du centre d'entretien. Ces deux systèmes, qui gèrent
+l'ensemble des informations, sont déjà dimensionnés pour prendre en charge la
+seconde partie de l'ouvrage, l'évitement de Plan-les-Ouates.
+</TX>
+<TX>
+De plus, ils sont redondants: bien qu'affectés normalement à des tâches
+différentes, ils assurent automatiquement la relève l'un de l'autre en cas de
+défaillance. Il en va exactement de même de la liaison à fibres optique, qui
+est doublée et dont chaque câble longe un côté différent de l'autoroute pour
+des raisons évidentes de sécurité.
+</TX>
+<TX>
+Le pupitre de commande, au centre autoroutier, est l'endroit où convergent
+tous les renseignement recueillis sur le parcours. En période de trafic
+normal, il est desservi par un seul policier. Deux collègues peuvent le
+rejoindre en cas de coup dur ou de surcharge. En plus des informations
+techniques que leur fournissent les ordinateurs, ils sont assistés dans la
+prise de décision par les réseaux de surveillance vidéo et de téléphones de
+secours.
+</TX>
+<ST>
+Attention aux radars
+</ST>
+<TX>
+Les 52 caméras (47 fixes et 5 réglables à distance) transmettent via les
+câbles à fibres optiques. Lorsque le système détecte, par exemple, un
+véhicule en panne, il met en évidence au poste de contrôle celle qui visionne
+le lieu de l'incident, ainsi que celles qui se trouvent en amont en aval.
+Ainsi, personne n'est abandonné à son sort.
+</TX>
+<TX>
+Quant au contrôle de la vitesse, dont l'efficacité a défrayé la chronique au
+début de la mise en service, c'est un autre élément vital de la sécurité,
+poursuit M. Fournier. Le contrôle automatique ne donne toutefois lieu qu'à
+des informations statistiques. Il permet d'affiner le système et de prendre
+des mesures correctives à plus long terme. Le contrôle répressif, en
+revanche, est effectué automatiquement par les 8 cabines radar fixes.
+Attention donc, car il y en a toujours au moins une en serviceö
+</TX>
+</DOC>

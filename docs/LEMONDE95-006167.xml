@@ -1,0 +1,68 @@
+<DOC>
+<DOCNO>LEMONDE95-006167</DOCNO>
+<DOCID>LEMONDE95-006167</DOCID>
+<ACCOUNT>374762</ACCOUNT>
+<GENRE>PORTRAIT</GENRE>
+<DATE>19950215</DATE>
+<LMDOC>BHL</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q140295/1158</FAB>
+<SUBJECTS>TELECOMMUNICATION,TELEPHONE,RECHERCHE SCIENTIFIQUE,INSTANCE,NOUVEAU MEDIA,HISTORIQUE,DESCRIPTION</SUBJECTS>
+<NOM1>SERVEL MICHEL, BOYER PIERRE, COUDREUZE JEAN PIERRE</NOM1>
+<NOTE>DOC AVEC UN DESSIN DE JEAN PIERRE COUDREUZE, PIEREE BOYER, MICHEL SERVEL PAR SZLAKMANN</NOTE>
+<NUM1>950215-20</NUM1>
+<NAMES>CNET</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-020-03</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>KAHN ANNIE</AUTHOR>
+<SIP1> ANNIE KAHN&gt;</SIP1>
+<SU21>TELECOMMUNICATIONS&gt; A CINQUANTE ANS, LE CNET VA DEVOIR  AFFRONTER LA DEREGLEMENTATION&gt;</SU21>
+<PAGE>1</PAGE>
+<LEAD1>DOSSIER UNE PAGE SUR LE CNET: ATM, ASYNCHRONOUS TRANSFER MODE</LEAD1>
+<TITLE>Jean-Pierre Coudreuze : l'ATM, vers les autoroutes de l'information</TITLE>
+<TEXT> " J'ÉTAIS MUSICIEN, je voulais faire de l'acoustique. " En 1968, à sa sortie de Polytechnique et de l'Ecole nationale supérieure des 
+télécommunications, Jean-Pierre Coudreuze doit déchanter. Il est affecté à une équipe du 
+CNET travaillant sur la commutation temporelle, à Lannion. Sa deuxième affectation, en 
+1980, lui ouvre les portes d'" une aventure unique ". Il s'agit de développer des réseaux de 
+transmission à haut débit, capables de transporter aussi bien la voix (comme le téléphone) 
+que les données (informatiques) ou les images (de télévision). Le plan câble était en plein 
+développement. Ces réseaux avaient donc pour objectif la transmission audiovisuelle pour 
+un large public. Quinze ans plus tard, les applications de ces travaux, connues sous le nom 
+de technologie ATM (Asynchronous Transfer Mode), ne sont pas du tout celles prévues. 
+Les professionnels se les sont appropriées pour travailler à plusieurs à distance, faire du 
+télé-enseignement, échanger des dossiers médicaux, etc. L'ATM devient un maillon 
+essentiel au développement des fameuses autoroutes de l'information.</TEXT>
+<TEXT>
+  Coup de chance ou intuition, les options technologiques des chercheurs ont permis ce 
+changement d'orientation. Il s'agit d'abord de l'intégration des différents services sur un 
+même support, " une idée iconoclaste à l'époque ", due à deux chercheurs du CNET, Alain 
+Thomas et Michel Servel. Ensuite du choix d'un protocole très simplifié, basé sur la 
+transmission de paquets d'information très courts et de longueur fixe. L'équipe du CNET 
+était persuadée que seule cette technologie serait capable de traiter en temps réel de hauts 
+débits de l'ordre de 5 milliards de bits par seconde, soit environ 1 000 fois plus que les 
+débits de la technologie X 25 en pointe à l'époque.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+  LA TAILLE DES PAQUETS </TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+  Pour faire accepter leurs thèses, ils doivent se plier au jeu de débats internationaux. " On 
+a passé des nuits blanches. Mais notre force était d'être des créateurs ; on défendait nos 
+idées, face à des gens mandatés pour défendre celles des autres. " L'issue de ces batailles 
+n'est cependant pas toujours très scientifique. La taille des paquets fit l'objet de quatre 
+réunions étalées sur un an et demi. Pour finalement aboutir à un compromis... arithmétique 
+! Les Européens souhaitaient des paquets de 32 octets ; les Américains s'arqueboutaient 
+sur 64 octets. " Finalement, on a tranché et opté pour une taille de 48 octets. Personne 
+n'avait les composants adéquats ! " ironise aujourd'hui Jean-Pierre Coudreuze.</TEXT>
+<TEXT>
+# Pour valider leurs thèses, les chercheurs réalisent un prototype de réseau Prélude . Un " 
+mathématicien ", Pierre Boyer et son équipe sont appelés à la rescousse pour voir si ces 
+options pouvaient être généralisées en dehors des laboratoires. " La théorie succédait à 
+l'intuition pratique. " En 1993, un réseau expérimental ATM est mis en place entre les 
+laboratoires du CNET de Rennes, Paris et Lannion. En juillet 1994, le réseau ATM Pilot 
+relie quinze pays européens. Dans le monde entier, et en particulier en Amérique du Nord 
+et en Australie, des réseaux ATM sont à la disposition du public.</TEXT>
+</DOC>

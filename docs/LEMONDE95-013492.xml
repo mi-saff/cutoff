@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO>LEMONDE95-013492</DOCNO>
+<DOCID>LEMONDE95-013492</DOCID>
+<ACCOUNT>385039</ACCOUNT>
+<GENRE>ENCADRE</GENRE>
+<DATE>19950406</DATE>
+<LMDOC>BHL</LMDOC>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q050495/1656</FAB>
+<SUBJECTS>TELECOMMUNICATION,RADIOTELEPHONE,DESCRIPTION,SATELLITE DE TELECOMMUNICATION</SUBJECTS>
+<NUM1>950406-26</NUM1>
+<NAMES>FRANCE TELECOM</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-026-02</REFERENCE1>
+<SEC1>SCI</SEC1>
+<SU21>COMMUNICATION&gt;LA RADIOMESSAGERIE S'EFFORCE DE SEDUIRE DE GRAND PUBLIC</SU21>
+<PAGE>1</PAGE>
+<LEAD1>DOSSIER UNE PAGE : LE RECEPTEUR DE RADIOMESSAGERIE ET L'ACHEMINEMENT DES MESSAGES</LEAD1>
+<TITLE>Une palette de systèmes</TITLE>
+<TEXT> Avant de s'afficher sur l'écran du récepteur de radiomessagerie, l'information emprunte toute une palette de systèmes de communication. On peut envoyer 
+un message par téléphone, Minitel ou ordinateur. En cas d'envoi par téléphone, si le 
+message n'est pas composé exclusivement de chiffres, on passe par le service d'un 
+opérateur. Les informations transitent sur ligne téléphonique, par Transpac ou sur tout 
+autre réseau de transmissions de données vers le " coeur de réseau ".</TEXT>
+<TEXT>
+ Celui-ci achemine le message, via un satellite (seul chemin utilisé par Infomobile et TDR) 
+ou via un relais hertzien (solution envisagée par le futur réseau de France Télécom), vers 
+un " émetteur ", antenne de 2,50 mètres située sur un " point haut ". Ces points, sommets 
+de colline ou d'immeuble, sont actuellement très convoités : un toit suffisamment haut et 
+bien placé se loue environ 20 000francs par an. La transmission de l'" émetteur " vers le 
+récepteur s'effectue par liaison radio sur une petite bande de fréquence de 169,4 à 169,8 
+MHz.</TEXT>
+</DOC>

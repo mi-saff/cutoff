@@ -1,0 +1,136 @@
+<DOC>
+<DOCID>ATS.940308.0108</DOCID>
+<DOCNO>ATS.940308.0108</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940308
+</DT>
+<PT>
+090000
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+ecps come for
+</DE>
+<AU>
+gc
+</AU>
+<KW>
+suisse systeme reperage camions sim
+</KW>
+<TI>
+Où donc est passé mon camion ? par Jacques Bettex, SIM Informatique.
+</TI>
+<LD>
+Berne, 8 mars (sim) Les transporteurs routiers avaient jusqu'ici du mal à
+localiser leurs camions à un moment précis. Un nouveau système leur permet de
+repérer leurs véhicules partout en Europe, à 200 mètres près. Pour cela, le
+camion est équipé d'une antenne de communication par satellite, d'un
+récepteur Euteltracs et d'un terminal à l'écran, qui permettent au chauffeur
+et à sa base de communiquer par écrit.
+</LD>
+<TX>
+Lancé il y a quelques mois en Suisse, ce système équipe déjà une dizaine de
+camions appartenant à des transporteurs internationaux. Il sert d'abord,
+théoriquement, à éviter les retours à vide. Mais optimiser les affrètements
+reste problématique. Les itinéraires variant à l'infini, le premier souci des
+transporteurs est plutôt de pouvoir donner facilement des instructions aux
+chauffeurs.
+</TX>
+<ST>
+Miniaturisation
+</ST>
+<TX>
+Arrosant tout un continent, les satellites de télécommunication permettent
+d'éviter les inconvénients du réseau téléphonique terrestre. Mais il a fallu
+attendre la miniaturisation des stations de télécommunication sur terre pour
+que cette technologie puisse prendre place à bord d'un véhicule et être
+utilisable en marche.
+</TX>
+<TX>
+L'équipement de messagerie par satellite Euteltracs ne pèse plus qu'une
+vingtaine de kilos, contre plusieurs quintaux pour son équivalent d'il y a
+quelques années. Son antenne extérieure est abritée dans une petite coupole
+d'une vingtaine de centimètres montée sur le toit du camion.
+</TX>
+<TX>
+L'antenne est équipée d'un servo-mécanisme de poursuite qui l'oriente vers le
+satellite Eutelsat. L'émetteur-récepteur est un boîtier compact qui prend
+facilement place sous un siège. Quant au chauffeur, il dispose d'un terminal
+clavier-écran à peu près de la grandeur d'une page A4. L'ensemble coûte
+environ 10 000 francs.
+</TX>
+<ST>
+Communications écrites
+</ST>
+<TX>
+Les communications entre le véhicule et sa base se font dans les deux sens,
+par écrit. Le chauffeur peut taper entièrement un message ou reprendre un
+texte pré-enregistré et le modifier. En réception, un bip l'avertit de
+l'arrivée d'un message. Celui-ci, de 2000 caractères au maximum, est
+enregistré pour être lu et relu à volonté.
+</TX>
+<TX>
+Dans une variante, le terminal du chauffeur est remplacé par un ordinateur de
+bord dépourvu de clavier. Ses fonctions sont mises en oeuvre sur l'écran à
+l'aide d'un stylo spécial. Le chauffeur peut communiquer avec sa base, régler
+les formalités liées à son chargement, ou même faire signer une quittance
+directement sur son écran.
+</TX>
+<ST>
+Centrale à Paris
+</ST>
+<TX>
+Le trafic de messagerie est coordonné à Paris, à la station centrale
+Euteltracs. Lorsqu'une entreprise veut gérer sa flottille de véhicules par ce
+moyen, il lui suffit de relier un PC (par une ligne de téléphone) à un centre
+régional de gestion du réseau, qui assure le relais entre la station centrale
+et le client. Pour la Suisse, cette fonction est assurée par les Télécom PTT.
+</TX>
+<TX>
+Le reste tient de la bureautique classique, avec rédaction et envoi des
+messages facilités par un logiciel fourni par Euteltracs.  Deux satellites
+Eutelsat interviennent. Le véhicule étant repéré par deux sources
+différentes, ses coordonnées géographiques peuvent être mesurées par un
+procédé mathématique relativement simple, la triangulation.
+</TX>
+<TX>
+Le logiciel qui se trouve dans le PC du client offre un deuxième service: il
+utilise l'information de positionnement pour calculer la localisation du
+camion. L'utilisateur affiche alors une carte géographique sur son écran et
+visualise la route suivie par son chauffeur. Il connaît sa position à 200
+mètres près.
+</TX>
+<TX>
+Le système utilisé sur la ligne du Gothard pour les wagons de chemin de fer
+et les conteneurs est différent. Il s'agit de boîtiers électroniques
+autonomes fixés aux véhicules. Comme les badges permettant de contrôler
+l'accès à un bâtiment, ils ne deviennent actifs et identifiables que
+lorsqu'ils passent à proximité d'une station d'interrogation.
+</TX>
+<TX>
+Bien moins chère qu'un équipement Euteltracs, cette technique convient aux
+transports ferroviaires, avec un grand nombre de véhicules et des itinéraires
+obligés.
+</TX>
+<TX>
+Note aux rédactions: Ce texte a été produit avec le soutien financier d'IBM
+(Suisse).  L'indépendance rédactionnelle de l'ATS dans le choix et le
+traitement des sujets est garantie. Vous recevez un texte SIM/Informatique
+tous les quinze jours, le mardi à 09h00. Merci, en cas de publication,
+d'utiliser la signature (sim) ou (sim/ats), et non (ats).
+</TX>
+</DOC>

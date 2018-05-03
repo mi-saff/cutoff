@@ -1,0 +1,90 @@
+<DOC>
+<DOCNO>LEMONDE95-004597</DOCNO>
+<DOCID>LEMONDE95-004597</DOCID>
+<ACCOUNT>372490</ACCOUNT>
+<GENRE>PHOTO</GENRE>
+<DATE>19950204</DATE>
+<LMDOC>MHB</LMDOC>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q030295/1121</FAB>
+<SUBJECTS>SALON,1995,SPORT,INFORMATIQUE</SUBJECTS>
+<NOTE>( doc : avec une photo d'image virtuelle)</NOTE>
+<NUM1>950204-23</NUM1>
+<ORI1>MONTE-CARLOde notre envoyé spécial</ORI1>
+<NAMES>GOUARD PHILIPPE</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-023-02</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>ALBERGANTI MICHEL</AUTHOR>
+<SIP1>MICHEL ALBERGANTI
+</SIP1>
+<SOT1>Petit miracle de l'informatique appliquée au sport : les régates de San Diego sont suivies au mètre près</SOT1>
+<SU11>AUJOURD'HUI-SCIENCES</SU11>
+<SYF1>IMAGE NUMERIQUE</SYF1>
+<PAGE>1</PAGE>
+<LEAD1>DANS UNE PAGE SUR LES IMAGES VIRTUELLES A L'OCCASION DU SALON IMAGINA</LEAD1>
+<TITLE>La Coupe de l'America " captée " en direct</TITLE>
+<TEXT> Une première mondiale. L'excitation est à son comble sur le stand Louis Vuitton d'Imagina à Monte-Carlo. Sur l'écran géant, l'image de 
+synthèse d'un voilier de la Coupe de l'America se déplace sur une mer virtuelle. Il 
+vire de bord, s'incline, ses voiles suivent le mouvement. Ces images reproduisent 
+fidèlement ce qui se passe sur le plan d'eau de San Diego, aux Etats-Unis, où le 
+bateau bien réel se prépare pour la course. Le décalage entre la réalité et sa 
+représentation artificielle est inférieur à deux secondes. La précision du 
+positionnement des bateaux est de l'ordre du mètre. Philippe Gouard, chargé de 
+mission au ministère de la jeunesse et des sports, exulte. C'est lui qui, depuis sept 
+ans, se bat pour concrétiser ce petit miracle de l'informatique appliquée au sport.</TEXT>
+<TEXT>
+ " En 1987, j'ai eu l'idée de transmettre à terre la position des bateaux afin de 
+reconstituer des images artificielles de la course ", explique-t-il. Il dépose un brevet 
+avec la Compagnie générale de géophysique et se lance dans la réalisation pratique. 
+Après de multiples tentatives, il parvient à convaincre à la fois Louis Vuitton, chargé 
+de la communication sur l'ensemble des épreuves de la Coupe de l'America, et les 
+organisateurs américains. Cette année, tout est prêt. Les ordinateurs sont prêtés par 
+Silicon Graphics. Trimble fournit les systèmes de positionnement des bateaux tandis 
+que Lyon Lab se charge du matériel vidéo et que le français Getris enrichit les 
+#images par des incrustations.</TEXT>
+<TEXT>
+  Côté logiciel, les Français règnent. Medialab, filiale de Canal +, assure la 
+production d'images virtuelles dont le " rendu " se veut le plus réaliste possible et 
+Philippe Gouard et la Compagnie générale de géophysique mettent leur brevet à 
+disposition. Avec un nombre de capteurs très réduit pas plus d'un par bateau et par 
+bouée, soit une vingtaine au total, ainsi qu'une mesure de la vitesse et de la direction 
+du vent , les informations sont transmises par radio à terre et acheminées par une 
+ligne téléphonique jusqu'au lieu de production d'images. Ce dernier peut être situé 
+n'importe où dans le monde. Il suffit qu'il possède les ordinateurs nécessaires au 
+traitement des données en temps réel. Le logiciel pallie la faiblesse du nombre 
+#d'informations par une interprétation poussée qui s'appuie sur l'expérience de 
+Philippe Gouard, ancien directeur de l'équipe de France de course au large.</TEXT>
+<TEXT>
+ Au-delà de l'exploit technologique, le résultat déçoit un peu. Le " rendu " des 
+bateaux reste sommaire. Le traitement en temps réel limite les détails. Ainsi, le pont 
+des bateaux est vide d'équipage, ce qui renforce l'aspect artificiel de l'image. En 
+revanche, il est très facile d'enrichir la scène avec des incrustations de graphiques et 
+de textes qui explicitent le déroulement de la course. Un atout essentiel pour Philippe 
+Gouard. " Le public a envie de comprendre ce qui se passe dans une course de 
+voiliers ", estime-t-il.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ LE VENT NE SERA JAMAIS VIRTUEL</TEXT>
+<TEXT>
+ Après la Coupe, en mai prochain, il vise la retransmission des régates des Jeux 
+olympiques d'Atlanta. Pour lui, d'autres sports sont susceptibles de faire appel aux 
+images de synthèse. Toutefois, il ne parie pas sur le tout virtuel. " L'idéal consisterait 
+à enrichir une image réelle ", précise-t-il. Ainsi, la ligne de hors-jeu serait 
+#matérialisée à l'écran par un " mur " virtuel pendant les matchs de football. Cela 
+aiderait le public à comprendre la décision de l'arbitre. De même, les images 
+artificielles informeraient plus précisément sur les positions relatives des voitures 
+dans une course de formule 1.</TEXT>
+<TEXT>
+  En attendant, le tout virtuel est précieux pour remplacer les caméras vidéo lorsque 
+les conditions de prises de vues sont délicates. Il fournit des images à peu de frais 
+dans le monde entier et en temps réel. Un service adapté aux besoins des journalistes 
+sportifs, par exemple. Toutes les conditions ne permettent pas d'envoyer un 
+hélicoptère filmer les régates. L'image de synthèse, elle, fonctionne par tous les 
+temps. Néanmoins, lors de la première séance de direct virtuel retransmise à Monte-
+Carlo pendant Imagina, le manque de vent a annulé la course... Les bateaux se sont 
+contentés de s'entraîner. Une sorte de clin d'oeil ultime de la réalité. Histoire de 
+rappeler que le vent, lui, ne sera jamais virtuel.</TEXT>
+</DOC>

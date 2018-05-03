@@ -1,0 +1,135 @@
+<DOC>
+<DOCID>ATS.941129.0146</DOCID>
+<DOCNO>ATS.941129.0146</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+941129
+</DT>
+<PT>
+053000
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+c5swi ecpi ecps comt prod
+</DE>
+<AU>
+ha jn
+</AU>
+<KW>
+suisse ordinateur communication eclairage
+</KW>
+<TI>
+L'ordinateur personnel: La plate-forme idéale des télécommunications de
+demain éclairage par Alain Graber, SIM-Informatique.
+</TI>
+<LD>
+Berne, 29 nov (sim) Le micro-ordinateur personnel est devenu une véritable
+bonne à tout faire. Ses composants électroniques toujours plus puissants lui
+permettent d'accéder sans cesse à de nouvelles applications. Le trio modem -
+télécopieur - Vidéotex le propulse dans le monde des télécommunications du
+troisième millénaire.
+</LD>
+<TX>
+Il y a encore peu d'années, l'utilisateur n'avait pas le choix pour
+communiquer. Il devait acheter ou louer séparément un modem, un télécopieur -
+souvent lourd et encombrant - et un appareil Vidéotex.
+</TX>
+<TX>
+Disposés à côté de l'ordinateur, ces différents appareils présentaient un
+enchevêtrement de fils et de câbles peu esthétique et synonyme de pannes.
+Grâce à une plate-forme comme celle offerte par un PC, tout ce " bric-à-brac
+" tient aujourd'hui dans un volume équivalent à celui d'un paquet de
+cigarettes.
+</TX>
+<ST>
+Montage simple
+</ST>
+<TX>
+La petite boîte en question se fixe généralement sur l'une des sorties série
+(RS-232) de l'ordinateur, l'autre étant normalement occupée par le connecteur
+de la souris. Il ne faut pas oublier l'alimentation électrique du modem et la
+connection de ce dernier à la prise téléphonique. On trouve aujourd'hui, dans
+le commerce, des prises téléphoniques doubles, qui permettent de brancher le
+modem de l'ordinateur en parallèle avec la ligne de téléphone ou de fax.
+</TX>
+<TX>
+Il existe aussi des cartes modem - télécopieur - Vidéotex que l'on connecte à
+l'intérieur du micro-ordinateur. L'installation d'une carte interne est
+toutefois plus compliquée que celle d'un modem externe. Autre avantage du
+boîtier externe: l'utilisateur peut facilement débrancher son modem pour
+l'installer sur un autre ordinateur, par exemple sur un portable. Il suffit
+de laisser les logiciels de télécommunication installés sur chacun des micro-
+ordinateurs.
+</TX>
+<ST>
+Modem rapide préférable
+</ST>
+<TX>
+La plupart des modems vendus sur le marché permettent de fonctionner en mode
+transmission de données, télécopie et Vidéotex.  Cependant, si l'on veut être
+sûr de pouvoir bénéficier de toutes ces fonctions, mieux vaut s'en informer
+auparavant. Il faut aussi choisir un modem suffisamment rapide et laisser de
+côté les modèles trop lents (1200, 2400 et 4800 Bauds ou bits par seconde).
+</TX>
+<TX>
+La chute des prix permet aujourd'hui l'acquisition d'un modem de 9600 Bauds
+au minimum. Pour rester dans la légalité, l'utilisateur a tout intérêt à
+s'assurer que le modem choisi a bien reçu l'aval des PTT. L'usage d'un modem
+illicite peut coûter très cher, aussi bien au vendeur qu'à l'utilisateur.
+</TX>
+<ST>
+Deux logiciels pour communiquer
+</ST>
+<TX>
+Après le choix du modem externe ou interne, l'utilisateur doit encore choisir
+ses logiciels de communication. Les meilleurs en la matière fonctionnent sous
+Windows, l'interface graphique développée par Microsoft. Habituellement, on
+choisit un logiciel assurant transmission de données et la télécopie (fax) et
+un second programme pour l'utilisation du Vidéotex.
+</TX>
+<TX>
+Ces programmes sont faciles à installer. La seule difficulté réside dans le
+logiciel destiné au Vidéotex. Lors de son installation, il faudra enregistrer
+le numéro d'identification et le mot de passe délivrés par les PTT.
+</TX>
+<ST>
+Emploi simplifié
+</ST>
+<TX>
+Outre l'encombrement insignifiant, l'utilisation du télécopieur ou du
+Vidéotex est nettement plus simple et plus rapide lorsqu'elle se fait par le
+biais d'un PC. Les logiciels sont intuitifs et faciles à assimiler. En mode
+télécopie, l'utilisateur écrit préalablement son document à l'aide de son
+système de traitement de texte, comme il en a l'habitude.
+</TX>
+<TX>
+Au moment de l'impression, il sélectionnera simplement le mode télécopie en
+lieu et place de l'imprimante. Le document sera acheminé vers son
+destinataire, via la ligne téléphonique, sans que l'utilisateur ait besoin
+d'en faire une copie papier. Le gain de temps et l'économie de papier sont
+appréciables. Le fax transmis pourra être mémorisé ou non, comme un fichier
+de traitement de texte.  Il en va de même de la transmission de dessins
+techniques ou de graphiques en tous genres.
+</TX>
+<TX>
+Pour le Vidéotex, l'utilisation est de même simple et efficace. On clique sur
+l'icône du programme correspondant. Une fois dans le programme, l'utilisateur
+lance le numéro d'appel préprogrammé - la plupart des logiciels fonctionnent
+aussi pour le Minitel français - et attend la communication avec la centrale
+Vidéotex. Une fois branché, il pourra sélectionné le service qui lui
+convient, comme il le ferait avec un appareil mis à disposition par les PTT.
+</TX>
+</DOC>

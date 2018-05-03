@@ -1,0 +1,72 @@
+<DOC>
+<DOCID>ATS.950125.0121</DOCID>
+<DOCNO>ATS.950125.0121</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+950125
+</DT>
+<PT>
+115700
+</PT>
+<SC>
+bsf046 bsf
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<RC>
+su
+</RC>
+<OC>
+suf
+</OC>
+<DE>
+for comt come
+</DE>
+<AU>
+as pi
+</AU>
+<KW>
+suisse ptt systeme localisation geographique
+</KW>
+<TI>
+Boussole des temps modernes Nouveau système de localisation géographique
+testé par les PTT.
+</TI>
+<LD>
+Berne, 25 jan (ats) Le DGPS, nouveau système de radio-navigation et de
+localisation, est actuellement testé par les PTT. Il permet de calculer la
+position géographique du récepteur. Les utilisateurs potentiels de cette
+boussole des temps modernes sont les services de sauvetage, les militaires,
+les navigateurs et les pilotes privés.
+</LD>
+<TX>
+Le Differential global positioning system (DGPS) s'appuie sur la technique
+actuelle de localisation par satellite GPS (Global positioning system).
+Celui-ci est utilisé par les aviateurs et les marins du monde entier. Les
+positions sont calculées par intégration des flux de données codées émises
+par des satellites. Le GPS parvient à localiser un point dans un rayon de
+l'ordre de 100 mètres. Le nouveau système permet une précision plus grande
+encore.
+</TX>
+<TX>
+En plus des satellites, le DGPS utilise également une station terrestre pour
+diffuser des informations auxiliaires de localisation par le canal
+d'information RDS d'une émission radio en bande OUC (FM) . Un récepteur DGPS
+calcule alors sa position en combinant les données reçues par satellite et
+par le canal RDS.
+</TX>
+<TX>
+Les essais effectués par Telecom PTT sont faits en collaboration avec
+l'Office fédéral de topographie et dureront probablement jusqu'à la fin du
+mois de février. Ils ont lieu dans la zone de réception de l'émetteur OUC du
+Bantiger (BE). Les PTT testent trois systèmes DGPS différents afin de voir
+lequel est le mieux adapté à la Suisse. Ce système est déjà utilisé par les
+Etats-Unis et la Suède.
+</TX>
+</DOC>

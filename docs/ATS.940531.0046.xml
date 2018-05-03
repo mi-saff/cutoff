@@ -1,0 +1,135 @@
+<DOC>
+<DOCID>ATS.940531.0046</DOCID>
+<DOCNO>ATS.940531.0046</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940531
+</DT>
+<PT>
+175100
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<RC>
+ec
+</RC>
+<OC>
+ecf
+</OC>
+<DE>
+ecpi ecps
+</DE>
+<AU>
+ee al
+</AU>
+<KW>
+informatique ordinateur travail en groupe
+</KW>
+<TI>
+L'informatique conviviale se professionnalise L'ordinateur au service du
+travail en groupe.
+</TI>
+<LD>
+Berne, 31 mai (sim) L'ordinateur est utilisé toujours davantage au sein de
+groupes de travail dans les entreprises. Une nouvelle génération de
+programmes, connue sous le nom de "groupware", permet de travailler en
+équipe. La grande nouveauté de ces programmes est qu'ils ne se limitent pas à
+distribuer des données au sein d'une entreprise, mais qu'ils les font
+circuler et traîter par divers postes de travail.
+</LD>
+<TX>
+Sans le savoir, on travaille en groupe depuis des années sur les ordinateurs.
+Celui qui utilise un terminal partage l'ordinateur central avec de nombreux
+autres personnes. Les mêmes données peuvent être appelées en même temps par
+plusieurs utilisateurs. L'ordinateur central fonctionne un peu comme une
+bibliothèque: les données puisées dans sa mémoire sont appelées sur les
+terminaux avant d'être restockées, une fois le travail effectué.
+</TX>
+<TX>
+En revanche, l'ordinateur personnel (PC) est, comme son nom l'indique, un
+outil de travail personnel. Lorsque les employés d'une entreprise doivent
+échanger des données, ils le font au moyen d'un réseau interne ou, tout
+simplement, en se passant des disquettes.
+</TX>
+<ST>
+Au service d'un groupe
+</ST>
+<TX>
+Les PC et les ordinateurs centraux ont un point commun: ils sont organisés
+pour servir des utilisateurs individuels. Avec un programme Groupware, ils
+sont mis au service du groupe.
+</TX>
+<TX>
+Une application essentielle de l'informatique conviviale consiste en la
+gestion de l'agenda pour des services ou des entreprises entières. Un
+programme spécial comme "Termin-Manager Win 4" est capable de fixer des
+réunions en fonction de l'emploi du temps des participants et de réserver la
+salle adéquate. Il gère les vacances, les congés et les absences et contrôle,
+dans une certaine mesure, la productivité du personnel.
+</TX>
+<TX>
+D'autres programmes permettent de gérer un parc de véhicules, des courts de
+tennis ou des salles d'exposition. Mais ces agendas électroniques ne
+fonctionnent que si toutes les personnes concernées reportent soigeusement
+leur emploi du temps dans l'odinateur.
+</TX>
+<ST>
+Messagerie électronique
+</ST>
+<TX>
+Une autre application de l'informatique conviviale est la messagerie
+électronique. Si l'employé veut communiquer avec l'employé B, il peut
+naturellement utiliser le téléphone, pour autant que B soit à son poste de
+travail.
+</TX>
+<TX>
+Grâce à la messagerie électronique, A tape son message sur son ordinateur, le
+complète éventuellement avec un document sorti de son traitement de texte et
+envoie le tout à B. Un signal avertit immédiatement ce dernier de l'arrivée
+d'un message dans sa boîte à lettres électronique. S'il est absent, le signal
+apparaîtra au moment où il allumera son ordinateur.
+</TX>
+<TX>
+Le premier programme qui méritait le nom d'informatique conviviale était
+"Notes" de Lotus. Au départ, "Notes" n'était guère plus qu'une messagerie
+électronique avec des fonctions de conférence. Peu à peu, le programme a été
+complété par des applications destinées aux groupes.
+</TX>
+<ST>
+Codes et interrupteurs
+</ST>
+<TX>
+Le coeur de "Notes" est une banque de données non structurée qui peut
+recevoir à volonté du texte, des images ou des séquences vidéos.  L'une des
+propriétés les plus intéressantes de "Notes" est la fonction "Workflow" qui
+permet de reproduire les procédures de travail propres à l'entreprise.
+</TX>
+<TX>
+Les documents sont pourvus de codes d'identification qui les "aiguillent"
+d'un ordinateur à l'autre sur le réseau de l'entreprise selon un parcours
+déterminé à l'avance. Il est même possible de compléter le code avec des
+interrupteurs qui, en cas d'évènements déterminés, modifient le parcours.
+</TX>
+<TX>
+Le succès de l'informatique conviviale a multiplié les vocations.  Borland
+vise les groupes de travail avec "Object Exchange". Microsoft a complété
+Windows 3.1 avec un «Workgroup-Edition» qui comprend un volet communications,
+une messagerie et un agenda pour réseau.
+</TX>
+<TX>
+Note aux rédactions: Ce texte a été produit avec le soutien d'IBM (Suisse).
+L'indépendance rédactionnelle de l'ATS dans le choix et le traitement des
+sujets est garantie. Vous recevez un texte SIM/Informatique tous les quinze
+jours, le mardi. Merci, en cas de publication, d'utiliser la signature (sim)
+ou (sim/ats), et non (ats).
+</TX>
+</DOC>

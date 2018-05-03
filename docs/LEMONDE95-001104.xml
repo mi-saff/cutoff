@@ -1,0 +1,123 @@
+<DOC>
+<DOCNO>LEMONDE95-001104</DOCNO>
+<DOCID>LEMONDE95-001104</DOCID>
+<ACCOUNT>367601</ACCOUNT>
+<GENRE>ILLUSTRATION</GENRE>
+<CHA1>1</CHA1>
+<DATE>19950112</DATE>
+<LMDOC>MID</LMDOC>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q110195/1406</FAB>
+<IMAGE>DRX_950112_111412</IMAGE>
+<NBI>1</NBI>
+<NOTE>Doc: avec une illustration</NOTE>
+<NUM1>950112-2-024-31</NUM1>
+<REFERENCE1>2-024-31</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>RENARD FRANCOIS</AUTHOR>
+<SIP1> FRANCOIS RENARD</SIP1>
+<SOT1>Les satellites permettent désormais aux marins de se repérer à quelques mètres près  quelles que soient les conditions de mer</SOT1>
+<SU11>Aujourd'hui-Sciences</SU11>
+<PAGE>1</PAGE>
+<LEAD1>IlLUSTRATION: DES SATELLITES POUR FAIRE LE POINT</LEAD1>
+<TITLE>La radionavigation fait des progrès astronomiques</TITLE>
+<TEXT> DEPUIS la découverte des ondes radio, au début du siècle, les navigateurs, sur mer et dans les airs, ont essayé de les utiliser pour déterminer leur 
+position géographique et fixer leur route. Le premier stade de cette utilisation a été, et est 
+toujours, mais de moins en moins, la radiogoniométrie. Pour obtenir sa position, en 
+longitude et en latitude, le navigateur doit d'abord rechercher trois sources 
+radioélectriques, en général des radiophares. Il détermine ensuite le gisement, c'est-à-dire 
+l'angle constitué entre la direction de ces radiophares et le nord magnétique grace à un 
+récepteur radio, sur lequel est branché une antenne mobile, dite goniométrique, ou 
+gonio.</TEXT>
+<TEXT>
+ Lorsque le récepteur est réglé sur la fréquence d'un radiophare, fournie par un manuel, 
+l'onde radioélectrique émise par ce dernier induit, dans l'antenne gonio, un courant qui 
+génère un son, dont l'intensité varie en fonction de l'orientation de cette antenne. 
+L'intensité est maximale lorsque l'antenne est perpendiculaire à la direction de l'émetteur. 
+Elle est minimale, c'est-à-dire qu'on n'entend plus rien, lorsque l'antenne est dirigée 
+longitudinalement vers l'émetteur : c'est l'extinction, que l'on recherche de préférence, car 
+elle est plus facile à déterminer que l'intensité maximale.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ DEUX SYSTÈMES</TEXT>
+<TEXT>
+Un relèvement gonio est rarement précis, du moins sur les petits bateaux. En effet, les 
+ondes radioélectriques ne se propagent pas toujours en ligne droite, peuvent être déviées 
+par le relief, subir une réfraction lorsqu'elles passent, en oblique, de la terre à la mer, ou 
+entrer en interférence avec l'onde indirecte réfléchie par l'ionosphère : c'est ce qu'on 
+nomme l'erreur de nuit, surtout au lever et au coucher du soleil. Les ondes radioélectriques 
+peuvent être déviées, au voisinage de l'antenne, par les masses métalliques du bord ou des 
+petits bateaux, bas sur l'eau.</TEXT>
+<TEXT>
+  La&gt; seconde&gt; guerre mondiale permit d'accomplir de grands progrès dans la 
+radionavigation, lorsque les Alliés se préoccupèrent de guider leurs bombardiers au-dessus 
+de l'Allemagne, surtout la nuit ou dans les nuages, et mirent au point les systèmes Consol 
+et Decca.</TEXT>
+<TEXT>
+ Le Consol était un dérivé de la radiogoniométrie, les radiophares envoyant un signal en 
+morse (60 points et traits répartis autour d'une zone neutre) qui n'était pas identique dans 
+toutes les directions, comme un feu à secteurs. Ce signal figurait sur des cartes marines 
+spéciales. On pouvait capter les signaux Consol avec un récepteur ordinaire grandes 
+ondes, d'un coût réduit. Mais, souvent, il n'était pas très facile de compter exactement les 
+traits et les points, et les ondes radioélectriques du système Consol étaient assujetties aux 
+mêmes lois de propagation que celles des radiophares ordinaires, avec les difficultés que 
+l'on sait.</TEXT>
+<TEXT>
+ Toujours issu de la guerre, le système Decca fit faire un bond de géant à la 
+radionavigation. Trois émetteurs, installés à une certaine distance (une station maîtresse et 
+deux asservies), lançaient des signaux modulés qui faisaient apparaître sur trois cadrans 
+d'un récepteur, le rouge, le vert et le jaune, des numéros correspondant à ceux 
+#d'hyperboles de même couleur surimposées sur des cartes marines, et dont l'épicentre était 
+les émetteurs. Il suffisait de reporter les numéros sur les cartes pour obtenir sa position, à 
+quelques centaines de mètres près.</TEXT>
+<TEXT>
+  Mais le Decca, plutôt encombrant avec ses jeux de cartes spéciales, était passablement 
+onéreux (plus de 100 000 francs) et donc réservé aux professionnels, marines de guerre, de 
+commerce et de pêche. Au début des années 80 toutefois, la miniaturisation (circuits 
+imprimés et microprocesseurs) aidant, les industriels mirent au point un récepteur de la 
+taille d'une boîte de cigares qui fournissait directement aux navigateurs de plaisance, sur 
+un petit écran à cristaux liquides, leur position en longitude et en latitude. Au fil des ans, le 
+prix du récepteur tomba de plus de 15 000 francs à moins de 5 000 F.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+  L'APPORT DES MILITAIRES </TEXT>
+<TEXT>
+ Le système Decca est toujours utilisé, pour une zone s'étendant surtout de la Manche à la 
+mer du Nord, les Anglais, ses promoteurs, ayant l'intention d'entretenir et de moderniser 
+les émetteurs jusqu'en 2012.</TEXT>
+<TEXT>
+ Le Loran, mis au point par les Américains pour le positionnement des forces de l'OTAN, 
+le Toran et le Rana sont fondés sur les mêmes systèmes d'ondes hyperboliques. Le 
+premier est d'un prix similaire au Decca mais les deux autres coûtent plus cher (15 000 à 
+20 000 francs). Vint enfin la petite merveille, le fameux Navstar Global Positioning System 
+(GPS), qui assure la radiolocalisation, en longitude et latitude, par réception quasi continue 
+de signaux de vingt-sept satellites à défilement, lancés par les Etats-Unis à des fins 
+militaires. Accessible aux navigateurs de plaisance à partir de 1987, le GPS a vu toutefois 
+sa précision limitée à cent mètres pour les civils, les Américains ayant " dégradé " 
+légèrement leurs signaux pour des raisons de sécurité. Aujourd'hui, toutefois, cette 
+précision peut être ramenée à dix mètres, grÂce à l'utilisation de balises terrestres, dont la 
+position est parfaitement connue, qui émettent les corrections vers les récepteurs 
+embarqués.</TEXT>
+<TEXT>
+  En quelques années, le GPS est donc devenu le " positionneur " universel, fournissant ses 
+indications précises quelles que soient les conditions atmosphériques, l'état de la mer et les 
+zones de navigation. Ce positionnement, réactualisé en permanence, permet au puissant 
+calculateur interne du récepteur GPS, qui peut tenir dans le creux de la main pour les 
+portables, d'en déduire instantanément la vitesse du bateau et son cap. Le GPS, en outre, 
+peut être " interfacé " avec d'autres appareils, lecteurs de cartes électroniques sur 
+disquettes, écran traceurs de route, pilotes, radars, etc. Du coup, Decca, Loran et autres 
+sont nettement dépassés, d'autant que là aussi, grÂce au progrès technique et à la 
+concurrence, les prix ont chuté vertigineusement : le GPS le plus simple est, actuellement, 
+proposé à 3 500 francs, les plus chers dépassant les 20 000 francs. Sur le marché, les 
+fournisseurs abondent : Furuno, Nivico, Garmin, Silva, Raytheon, NKE, Trimble et autres. 
+Aujourd'hui, le navigateur est comblé !</TEXT>
+<TEXT>
+ N'oublions néanmoins pas les pannes des récepteurs, de moins en moins fréquentes il est 
+vrai. En ce cas, c'est le retour aux bonnes vieilles méthodes, les fameux amers, et pour les 
+plus calés la navigation astronomique avec sextant et chronomètre, comme le capitaine 
+Nemo le faisait dans Vingt mille lieues sous les mers en montant " relever la hauteur du 
+soleil sur l'horizon "...</TEXT>
+</DOC>

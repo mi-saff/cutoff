@@ -1,0 +1,12 @@
+Hidden Layer Size: 5, Learning Rate: 0.001, Loss: 2.25360703468, Acc: 0.390862941742
+Hidden Layer Size: 5, Learning Rate: 0.001, Loss: 2.15941095352, Acc: 0.309644669294
+Hidden Layer Size: 5, Learning Rate: 0.0010101010101, Loss: 1.98049736023, Acc: 0.426395952702
+Hidden Layer Size: 5, Learning Rate: 0.00102040816327, Loss: 2.19287610054, Acc: 0.406091362238
+Hidden Layer Size: 5, Learning Rate: 0.00103092783505, Loss: 2.12523770332, Acc: 0.406091362238
+Hidden Layer Size: 5, Learning Rate: 0.00104166666667, Loss: 2.22007489204, Acc: 0.395939081907
+Hidden Layer Size: 5, Learning Rate: 0.00105263157895, Loss: 2.06735825539, Acc: 0.390862941742
+Hidden Layer Size: 5, Learning Rate: 0.00106382978723, Loss: 2.199198246, Acc: 0.395939081907
+Hidden Layer Size: 5, Learning Rate: 0.001, Loss: 2.21791648865, Acc: 0.401015222073
+Hidden Layer Size: 5, Learning Rate: 0.00111111111111, Loss: 2.17471766472, Acc: 0.406091362238
+Hidden Layer Size: 5, Learning Rate: 0.00125, Loss: 2.39686512947, Acc: 0.335025370121
+Hidden Layer Size: 5, Learning Rate: 0.00142857142857, Loss: 2.01028132439, Acc: 0.401015222073

@@ -1,0 +1,76 @@
+<DOC>
+<DOCNO>LEMONDE94-002689-19940831</DOCNO>
+<DOCID>LEMONDE94-002689-19940831</DOCID>
+<ACCOUNT>349331</ACCOUNT>
+<CHA1>Le Monde daté mardi 30 août est paru, lundi après-midi, avec une pagination réduite et plus d'une heure de retard. Voici quelques explications techniques sur cet incident.</CHA1>
+<DATE>19940831</DATE>
+<LMDOC>LEY</LMDOC>
+<FAB>08301303</FAB>
+<SUBJECTS>ORDINATEUR,PANNE,INFORMATIQUE,PRESSE,DATE</SUBJECTS>
+<NOTE>(1) RISC = Reduced Instruction Set Computer, calculateurs à jeu d'instruction réduit.(2) La tolérance de panne est une architecture matérielle et logicielle qui permet l'autodiagnostic et la relance automatique lors des incidents de fonctionnement d'un ordinateur.</NOTE>
+<NAMES>LE MONDE</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-024-02</REFERENCE1>
+<SEC1>IPC</SEC1>
+<AUTHOR>BOLUFER JOSE</AUTHOR>
+<PAGE>108</PAGE>
+<LEAD1>NUMERO DU MONDE DATE DU 30 AOUT 1994 PARU AVEC UNE PAGINATION REDUITE A CAUSE D'UNE PANNE DU SYSTEME INFORMATIQUE</LEAD1>
+<TITLE>L'humeur de l'ordinateur du " Monde "</TITLE>
+<TEXT>Les pannes informatiques sur notre " machine rédactionnelle " sont fort rares. Celle du lundi 29 août 1994 a été redoutable ! Le 
+précédent remonte au 26 décembre 1990. Il nous avait coûté plus de 
+deux heures d'arrêt complet sur l'ensemble de la rédaction et 
+l'atelier de composition.</TEXT>
+<TEXT>
+  Depuis, nous avons changé d'architecture et sommes entrés dans 
+l'univers des réseaux d'ordinateurs et des machines RISC (1). La 
+configuration informatique du Monde comprend quatre processeurs, qui 
+sont comme quatre ordinateurs réunis dans plusieurs armoires. Cette 
+architecture est réputée " à tolérance de panne au niveau matériel " 
+(2). Mais les programmes _ les logiciels _ sont écrits par des 
+hommes... </TEXT>
+<TEXT>
+ Dès 8 h 54, Patrick Jarreau, chef du service politique, appelle le 
+service informatique : " Je n'ai plus de réponse sur mon écran ! " Et 
+ainsi de suite : jusqu'à 9 h 15, une grande partie de la rédaction 
+appelle au secours, écrans bloqués. La machine, en un peu plus de 
+quinze minutes, se replie sur elle-même.</TEXT>
+<TEXT>
+ Dès 9 h 20, deux cellules de crise sont constituées : au service 
+informatique et à la rédaction en chef. A 9 h 55, il est demandé à 
+chacun de cesser tout travail sur écran. La décision de diminution de 
+la pagination est prise. Un journal différent de celui qui était 
+prévu quelques heures plus tôt est conçu.</TEXT>
+<TEXT>
+ Un programme s'est mis en boucle</TEXT>
+<TEXT>
+  A 10 h 05, les ingénieurs du Monde identifient la cause de 
+l'incident. Un programme secondaire, déficient, pollue l'ensemble de 
+l'édifice informatique. Il est entré en boucle, et interdit toute 
+transaction. Il faut l'arrêter... Le diagnostic informatique étant 
+établi, plusieurs hypothèses sont étudiées, avec leur conséquence sur 
+la durée de la procédure de relance de la production. Les contraintes 
+sont de deux ordres : réduire le temps de relance, ne rien perdre des 
+textes en cours de création au moment de l'incident.</TEXT>
+<TEXT>
+ Après plusieurs vérifications complémentaires, après une validation 
+du diagnostic auprès du fournisseur, grâce au réseau qui nous relie à 
+notre partenaire californien, nous passons à l'étape corrective. La 
+solution est risquée pour l'édition. Malgré le risque, à 10 h 45, 
+décision est prise d'arrêter brutalement le processeur sur lequel 
+réside le programme défaillant. A 11 h 04, l'arrêt du processeur 
+supprime le programme verrouillant la machine. Celle-ci se libère. 
+Automatiquement, elle relance l'ensemble de ses programmes sur les 
+trois processeurs disponibles. Sa robustesse a été mise à l'épreuve ? 
+Elle se rattrape.</TEXT>
+<TEXT>
+ A 11 h 10, l'énergie informatique est rétablie progressivement. La 
+rapidité de réaction de tous les services permet au journal _ certes, 
+réduit en pagination _ de sortir avec " seulement " un peu plus d'une 
+heure de retard, malgré deux heures seize de panne informatique. Au 
+Monde comme à la NASA, chez Renault ou dans toute entreprise de 
+production à flux tendu, partout où les ordinateurs participent à la 
+production, quand plus de sept cent programmes travaillent ensemble, 
+la complexité de l'échange devient un défi quotidien. Avec ses 
+risques...                    
+</TEXT>
+</DOC>

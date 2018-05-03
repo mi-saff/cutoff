@@ -1,0 +1,140 @@
+<DOC>
+<DOCID>ATS.950627.0167</DOCID>
+<DOCNO>ATS.950627.0167</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+950627
+</DT>
+<PT>
+053000
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<RC>
+iq
+</RC>
+<OC>
+ecf
+</OC>
+<DE>
+int ecps comt prod
+</DE>
+<AU>
+dro rp jn
+</AU>
+<KW>
+informatique internet piraterie éclairage
+</KW>
+<TI>
+Les pirates se multiplient dans les réseaux globaux Nette progression des
+"attaques" sur Internet éclairage par David Rosenthal, SIM Informatique
+</TI>
+<LD>
+Berne, 27 juin (sim) Trente à quarante millions de personnes utilisent le
+réseau mondial Internet. Toutes ne lui veulent pas que du bien. Les pirates
+s'y multiplient. Toutes les trois à quatre heures, on en découvre à l'oeuvre
+sur l'un ou l'autre système.
+</LD>
+<TX>
+Le nombre réel des pirates ne peut être déterminé, mais il est sans doute
+bien plus élevé. Ce qui est sûr, c'est que le développement d'Internet va de
+pair avec une recrudescence des "attaques". En 1990, l'organisation
+américaine CERT (Computer Emergency Response Team) avait dénombré 130 cas de
+piratage. Un chiffre qui avait décuplé en 1993. L'an dernier, plus de 2300
+opérations de piratage ont été dénombrées.
+</TX>
+<ST>
+Multiples parades
+</ST>
+<TX>
+Il existe bien sûr de multiples parades pour se protéger des pirates. Les
+"mots de passe" sont le système de protection le plus connu et le plus
+ancien. Si on les choisit bien, ils assurent une bonne protection. Mais
+attention: les pirates sont précisément passés maîtres dans la découverte des
+mots de passe. Il existe même des programmes de recherche qui passent tous
+les mots d'un dictionnaire en revue.
+</TX>
+<TX>
+Autre système de protection: la paroi de feu (Firewall). Il s'agit d'un
+filtre électronique qui empêche l'accès de visiteurs indésirables au système
+d'une entreprise reliée à Internet. Les collaborateurs et utilisateurs
+autorisés peuvent entrer et travailler dans le système, sans que de "petits
+malins" puissent les suivrent en empruntant le même chemin.
+</TX>
+<TX>
+Si elle constitue une bonne protection, la paroi de feu n'est toutefois pas
+sûre à 100 %. Au début de cette année, il a fallu reprogrammer des centaines
+de Firewalls. Des pirates avaient découvert un truc qui permettait de les
+contourner en se camouflant derrière les codes de reconnaissance interne des
+PC.
+</TX>
+<ST>
+Jusqu'aux cartes de crédit
+</ST>
+<TX>
+Les "risques" de tomber sous les attaques d'un pirate sont plutôt grands.
+Ernst &amp; Young a effectué récemment une enquête sur le sujet. Il en ressort
+qu'une entreprise sur cinq a déjà subi des dommages financiers à cause de
+pirates.
+</TX>
+<TX>
+Les consommateurs eux-mêmes sont concernés. En février dernier, on a appris
+que Kevin Mitnick, le roi des pirates américains, avait réussi à voler les
+numéros de carte de crédit de 20 000 clients d'une entreprise de la branche.
+Le cas échéant, celui qui parvient à pirater de tels numéros sur Internet
+peut facilement les revendre.
+</TX>
+<TX>
+C'est en partie à cause du piratage que le commerce ne s'est pas encore
+développé sur Internet, estiment des spécialistes. Il est en effet beaucoup
+trop dangereux, à l'heure actuelle, d'y transmettre en clair des numéros de
+cartes de crédit.
+</TX>
+<ST>
+Danger croissant
+</ST>
+<TX>
+Le danger ne cesse de croître, dans la mesure où, s'il était encore desservi
+par des professionnels il y a deux ans, Internet est de plus en plus utilisé
+par des "amateurs", peu au courant des problèmes de sécurité. Certaines
+entreprises inexpérimentées deviennent des proies rêvées pour les pirates.
+</TX>
+<TX>
+Il faut dire que les systèmes modernes d'ordinateurs ne permettent pas
+toujours de reconnaître le danger. L'intégration au réseau est si naturelle
+que l'utilisateur ne se rend même pas compte qu'il s'y trouve, relève Frank
+Rieger, de Chaos Computer Club, un club de pirates basé à Hambourg.
+</TX>
+<ST>
+"Satan" veille
+</ST>
+<TX>
+Dernièrement, un nouveau programme anti-pirate est apparu: "Satan" (Security
+Administrator Tool for Analyzing Networks) permet de détecter d'éventuels
+pirates et de les éliminer. Avec le danger de voir des pirates utiliser
+"Satan" pour parvenir à leurs fins, ont accusé certains.
+</TX>
+<TX>
+En réalité, le problème de la sécurité des réseaux est simple.  Il a trait à
+la néglicence et au manque de connaissances. La technique offre suffisamment
+de protection. Simplement, elle est trop souvent mal utilisée, confirme John
+Kearns, d'Ernst &amp; Young.  "La seule possibilité d'éviter toute attaque de
+pirate sur Internet, c'est de ne pas s'y brancher", conclut pour sa part
+Frank Rieger.
+</TX>
+<TX>
+Note aux rédactions: Ce texte a été produit avec le soutien d'IBM (Suisse).
+L'indépendance rédactionnelle de l'ATS dans le choix et le traitement des
+sujets est garantie. Merci, en cas de publication, d'utiliser la signature
+(sim) ou (sim/ats), et non (ats).
+</TX>
+</DOC>

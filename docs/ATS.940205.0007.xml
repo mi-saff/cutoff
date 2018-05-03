@@ -1,0 +1,70 @@
+<DOC>
+<DOCID>ATS.940205.0007</DOCID>
+<DOCNO>ATS.940205.0007</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940205
+</DT>
+<PT>
+070700
+</PT>
+<SC>
+bsf013 bsf
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<RC>
+et
+</RC>
+<OC>
+afp
+</OC>
+<DE>
+c1 for
+</DE>
+<AU>
+ab
+</AU>
+<KW>
+usa informatique piratage
+</KW>
+<TI>
+Système américain Internet Le plus grand réseau informatique du monde attaqué
+par des pirates.
+</TI>
+<LD>
+Washington, 5 fév (ats/afp) Des intrus ont réussi à pénétrer le réseau
+informatique américain Internet, le plus grand du monde. Ses quelque 20
+millions d'utilisateurs sont invités à changer leurs mots de passe pour
+protéger leurs programmes, a indiqué vendredi une équipe de surveillance
+mobilisée d'urgence pour colmater la brèche.
+</LD>
+<TX>
+Internet relie des universités, des services gouvernementaux, des entreprises
+et des abonnés privés. Il avait été conçu initialement, du temps de la Guerre
+froide, pour fournir aux forces armées américaines un système de
+communications invulnérable, même en cas d'attaque nucléaire.
+</TX>
+<TX>
+Les intrus, qui n'ont pas encore été identifiés, ont déjà "réussi à accéder
+aux données de dizaines de milliers de systèmes du réseau Internet", a
+indiqué la Computer Emergency Response Team, financée par le Pentagone et
+installée à l'Université Carnegie Mellon à Pittsburgh (Pennsylvanie). La
+première chose à faire est de changer de mot de passe, selonces experts. Mais
+la solution à plus long terme serait de trouver un moyen pour empêcher de
+réutiliser un mot de passe.
+</TX>
+<TX>
+Les intrus ont utilisé un programme dit "Cheval de Troie". Il permet
+d'accéder légalement à l'ordinateur central, mais de rester dans la place une
+fois la transaction informatique terminée. Le "Cheval de Troie" enregistre
+les 128 premières commandes de chaque utilisateur qui se connecte au réseau
+et récupère souvent ainsi le mot de passe, supposé être secret.
+</TX>
+</DOC>

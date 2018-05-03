@@ -1,0 +1,61 @@
+<DOC>
+<DOCNO>LEMONDE95-034797</DOCNO>
+<DOCID>LEMONDE95-034797</DOCID>
+<ACCOUNT>413328</ACCOUNT>
+<DATE>19950922</DATE>
+<LMDOC>BHL</LMDOC>
+<DOS>ECO</DOS>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q210995/1914</FAB>
+<NOTE> Adresse Netscape : http : //www. netscape.com</NOTE>
+<NUM1>950922-2-021-04</NUM1>
+<NAMES>NETSCAPE COMMUNICATIONS,INTERNET</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-021-04</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>MORIN HERVE</AUTHOR>
+<SIP1> HERVE MORIN</SIP1>
+<SU11>AUJOURD ' HUI - SCIENCES</SU11>
+<PAGE>1</PAGE>
+<TITLE>Un logiciel de cryptage utilisé sur Internet doit être modifié par son fournisseur</TITLE>
+<TEXT> COUP DUR pour Netscape Communications Corp. ! Le principal fournisseur de logiciels d'accès à Internet a dû reconnaître, mardi 19 septembre, 
+que son produit Netscape Navigator, employé par huit millions de personnes pour circuler 
+sur le réseau et y effectuer des paiements par carte de crédit, présentait de sérieux 
+problèmes de sécurité. Deux étudiants de l'université de Californie à Berkeley, Ian 
+Goldberg et David Wagner, ont en effet découvert un défaut dans le système de génération 
+de clefs secrètes du logiciel. Cette brèche leur a permis de décoder " généralement en 
+moins d'une minute " les messages cryptés qui transitent par le réseau.</TEXT>
+<TEXT>
+  Pour réaliser cette prouesse, les deux étudiants n'ont pas utilisé la " force brute ", c'est-à-
+dire la seule puissance de calcul, qui avait déjà permis à un jeune ingénieur informatique 
+français de tester une à une toutes les clefs possibles, et de trouver la bonne, en quelques 
+dizaines d'heures (Le Monde du 21 septembre).</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ UN HASARD IMPARFAIT</TEXT>
+<TEXT>
+ Négligeant cette technique qui s'apparente à la recherche ultra-rapide d'une aiguille dans 
+une botte de foin, ils ont contourné l'obstacle en s'attaquant directement à l'algorithme 
+chargé de générer les clefs de cryptage. Ces clefs, généralement des nombres choisis entre 
+1 et 2³ , sont en principe déterminées au hasard.</TEXT>
+<TEXT>
+  Mais les deux " hackers " se sont aperçus que le hasard selon Netscape n'était pas 
+parfait. Il est même relativement aisé de connaître les facteurs qui le conditionnent : le 
+générateur de code s'inspire en effet de diverses informations présentes dans l'ordinateur 
+de l'utilisateur de Netscape nombre d'opération en cours, heure exprimée en millisecondes, 
+nombre de messages reçus, etc. pour déterminer une clef apparemment aléatoire. Qui 
+connaît les facteurs retenus par le générateur de code pourra prévoir les chiffres qu'il 
+produira. C'est ce que les jeunes informaticiens de Berkeley se sont attachés à découvrir. 
+Il ne leur a, semble-t-il, fallu que deux jours pour identifier la vulnérabilité de l'algorithme 
+et mettre au point un logiciel capable de " deviner " les codes.</TEXT>
+<TEXT>
+  Dimanche 17 septembre, ils ont averti, sur Internet, la communauté " cyberpunk " de leur 
+exploit mettant Netscape au pied du mur. La martingale étant désormais connue, la 
+compagnie américaine a décidé d'avertir les utilisateurs de ses logiciels, qui représentent 
+deux tiers des " netsurfers ", auxquels elle fournira, dès la semaine prochaine, de 
+nouvelles versions incluant un générateur de clefs réellement aléatoires. Ces correctifs 
+devraient garantir la sûreté de ces nouveaux logiciels, assure Netscape, qui indique que 
+ceux-ci pourront être téléchargés directement sur Internet.</TEXT>
+</DOC>

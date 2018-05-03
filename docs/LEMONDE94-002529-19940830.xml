@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO>LEMONDE94-002529-19940830</DOCNO>
+<DOCID>LEMONDE94-002529-19940830</DOCID>
+<ACCOUNT>349166</ACCOUNT>
+<CHA1>Pour la première fois depuis trente ans, l'ordinateur le plus puissant du centre de calcul du CERN (Laboratoire européen pour la physique des particules) est une machine européenne. Le CS-2, un supercalculateur mis au point dans le cadre du programme Esprit de l'Union européenne, vise à concurrencer sur leur propre terrain les " vedettes " de cette catégorie _ Cray T3D, IBM SP2 et autres Fujitsu _ qu'il dépasse déjà en performances, si l'on en croit ses promoteurs.</CHA1>
+<DATE>19940830</DATE>
+<LMDOC>JGB</LMDOC>
+<DOS>GEN,EXT</DOS>
+<SUBJECTS>ORDINATEUR,EXPERIMENTATION,GRANDE BRETAGNE,FRANCE,ETATS UNIS,DESCRIPTION</SUBJECTS>
+<FAB>08291756</FAB>
+<NOTE>(1) Les performances annoncées sont 50 mégaoctets par seconde " effectifs ", pour une latence inférieure à 10 microsecondes. (2) 8 à 9 millions d'écus de fonds européens auraient été (de source officieuse) consacrés à l'achat de deux machines (pour le CERN et le CERFACS) et à l'embauche des chercheurs qui les testeront. Les chiffres officiels ne sont pas connus, mais Carlo Rubbia estimait dans son rapport à 1 000 écus par an sur dix ans l'effort nécessaire pour doter l'Europe d'une industrie compétitive en informatique de haute performance.</NOTE>
+<NAMES>BRISTOL MEIKO,PARSYS,TELMAT,CERN,CEE</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-008-31</REFERENCE1>
+<SEC1>SOC</SEC1>
+<AUTHOR>DUFOUR JEAN PAUL</AUTHOR>
+<PAGE>184</PAGE>
+<LEAD1>PROGRAMME ESPRIT</LEAD1>
+<TITLE>Avec le nouveau calculateur du CERN&gt; L'Europe fait une entrée fracassante dans le monde des superordinateurs</TITLE>
+<TEXT>L'industrie européenne aurait-elle subitement rattrapé son retard abyssal sur les Etats-Unis et le Japon dans le domaine des 
+supercalculateurs ? Pas tout à fait : les " puces " du CS-2 sont 
+américaines et japonaises. Mais, en réalisant cette machine en moins 
+de trois ans, les industriels et les chercheurs du Vieux Continent 
+ont démontré qu'ils sont capables de se mobiliser très vite, pour peu 
+qu'on leur donne les moyens financiers.</TEXT>
+<TEXT>
+  L'aventure qui donna naissance au CS-2 a, en effet, débuté en 1991, 
+à la suite de la publication d'un rapport sur l'informatique de haute 
+performance commandé par la Commission des communautés européennes au 
+directeur du CERN, le prix Nobel Carlo Rubbia. Alors qu'elle 
+représente 30 % du marché mondial des supercalculateurs, l'Europe y 
+est totalement absente en tant que fournisseur, rappelait M. Rubbia. 
+Il conseillait de faire porter l'effort sur les machines massivement 
+parallèles promises, selon lui, à un bel avenir, en s'appuyant sur 
+les points forts de la recherche européenne, et notamment les 
+logiciels et l'architecture des systèmes informatiques.</TEXT>
+<TEXT>
+  Une analyse de bon sens. D'abord, les investissements nécessaires 
+pour le développement de nouveaux processeurs (les " puces ") sont 
+extrêmement lourds. Mais, surtout, le problème ne se pose plus à ce 
+niveau en ce qui concerne les superordinateurs de nouvelle 
+génération. " La puissance des puces a été multipliée par cent durant 
+ces dix dernières années, et celle des mémoires et des disques a 
+suivi à peu près le mouvement. En revanche, les progrès ont été 
+nettement moins sensibles pour les logiciels et pour les réseaux, 
+dont la capacité n'a fait que doubler sur le même laps de temps ", 
+explique Fabrizio Gagliardi, responsable européen du projet CS-2. Or, 
+réseaux et logiciels sont précisément les deux points les plus 
+délicats des machines massivement parallèles dans lesquelles des flux 
+de données très importants doivent circuler très vite entre un grand 
+nombre de processeurs qui fonctionnent de concert (le Monde du 30 
+septembre 1993).</TEXT>
+<TEXT>
+  Les firmes britanniques Bristol Meiko limited et Parsys et la 
+société française Telmat associées pour la mise au point et la 
+fabrication du CS-2, ont donc décidé de faire porter leur effort sur 
+l'essentiel. Meiko a adapté un réseau d'interconnections ultra rapide 
+à haute performance (1) qui avait été mis au point dans le cadre 
+d'autres projets Esprit. Parsys et Telmat ont apporté leur expérience 
+dans la programmation des systèmes parallèles. En revanche, les puces 
+ont été choisies parmi les composants les plus performants 
+disponibles sur le marché. Les trois associés ont retenu des 
+processeurs américains RISC Supersparc qui équipent les stations de 
+travail Sun, et des unités vectorielles japonaises Fujitsu, déjà 
+retenues par l'américain Cray Research pour ses calculateurs les plus 
+puissants.</TEXT>
+<TEXT>
+ Moyennant un financement européen de " plusieurs millions d'écus " 
+(2), le CS-2 atteint, selon ses concepteurs, des performances 
+supérieures aux supercalculateurs de même conception comme le T3D de 
+Cray, ou le SP-2 d'IBM. Quoi qu'il en soit, le fait que le Lawrence 
+Livermore Laboratory (Californie) ait acheté le premier CS-2 
+représente une remarquable référence. D'autant plus que ce 
+laboratoire vient de passer un accord avec un groupe d'industriels 
+américains mené par Cray Research pour perfectionner les logiciels 
+applicables dans les ordinateurs massivement parallèles.</TEXT>
+<TEXT>
+  " Noeuds " en parallèle</TEXT>
+<TEXT>
+  Selon Fabrizio Gagliardi, c'est précisément dans ce domaine que le 
+CS-2 fait vraiment la différence par rapport à ses concurrents. Pour 
+obtenir de ces supercalculateurs toute la puissance dont ils sont 
+théoriquement capables, il faut, en effet, que leurs multiples " 
+noeuds " (des processeurs dotés chacuns d'une mémoire et dont le 
+nombre pourrait, dans le cas du CS-2, atteindre à terme le millier) 
+fonctionnent parfaitement en parallèle. Cela exige un énorme travail 
+de transformation des programmes qui, affirme M. Gagliardi, est 
+beaucoup plus simple sur l'ordinateur européen.</TEXT>
+<TEXT>
+  Des essais doivent maintenant être menés pendant deux ans par des 
+scientifiques et les industriels intéressés sur le CS-2 du CERN (32 
+noeuds, qui sera ultérieurement porté à 124 noeuds) et celui du 
+Centre européen de recherche avancée en calcul scientifique (CERFACS) 
+de Toulouse (8, et bientôt 64 noeuds). Ils visent, explique M. 
+Gagliardi, à confirmer que le CS-2 se prête à des usages variés 
+allant de la simulation et des calculs scientifiques à la gestion des 
+banques de données et aux opérations sur les marchés financiers.</TEXT>
+<TEXT>
+  Si tout va bien, il restera ensuite aux concepteurs de CS-2 à se 
+doter, s'ils veulent " rester dans la course ", d'un réseau 
+commercial et d'un service de maintenance aussi efficaces que ceux de 
+leurs concurrents Cray ou IBM. Des pourparlers sont en cours avec des 
+grands de l'informatique européenne. On parle de Bull ou d'ICL...&lt;
+</TEXT>
+</DOC>

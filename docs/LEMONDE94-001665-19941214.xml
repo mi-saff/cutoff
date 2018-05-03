@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO>LEMONDE94-001665-19941214</DOCNO>
+<DOCID>LEMONDE94-001665-19941214</DOCID>
+<ACCOUNT>363200</ACCOUNT>
+<DATE>19941214</DATE>
+<LMDOC>BHL</LMDOC>
+<DOS>ECO</DOS>
+<SUBJECTS>CIRCUIT INTEGRE,MODELE,DESCRIPTION,ETATS UNIS,MALFACON,MICRO ORDINATEUR</SUBJECTS>
+<FAB>12131516</FAB>
+<NAMES>INTEL,IBM</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-025-06</REFERENCE1>
+<SEC1>ECO</SEC1>
+<PAGE>69</PAGE>
+<LEAD1>ENCADRE CONCERNANT LA PUCE PENTIUM D'INTEL</LEAD1>
+<TITLE>INDUSTRIE&gt; EN RAISON DE DEFAILLANCES TECHNIQUES&gt; IBM SUSPEND LA LIVRAISON DES MICRO ORDINATEURS EQUIPES DE LA PUCE PENTIUM  D'INTEL&gt; Une question de fréquence</TITLE>
+<TEXT>Le Pentium est le dernier microprocesseur fabriqué par la firme américaine Intel. Ce circuit intégré est trois fois plus complexe que 
+le processeur Intel 486 qu'il a remplacé dans les ordinateurs 
+personnels (PC) hauts de gamme. Il incorpore des améliorations 
+concernant les algorithmes du calcul en virgule flottante (opérations 
+comportants de nombreuses décimales). C'est précisément dans ce 
+domaine qu'un défaut s'est introduit dans le processus de 
+fabrication. L'exactitude des résultats s'en trouve affectée, selon 
+Intel, uniquement " pour certaines divisions rares ". Les tests 
+auraient montré que, dans un cas sur neuf milliards, l'erreur se 
+situe " entre la quatrième et la neuvième décimale ".</TEXT>
+<TEXT>
+  Le défaut fut détecté au cours de l'été 1994 par le fabricant qui 
+dit avoir, depuis, corrigé l'erreur. Mais les microprocesseurs déjà 
+fabriqués n'ont pas été retirés du marché. Intel a préféré traiter 
+directement avec les utilisateurs concernés, estimant que le défaut 
+n'était susceptible d'entraîner une erreur qu'" une fois tous les 
+vingt-sept mille ans en moyenne " en utilisation normale. Un article 
+publié par un mathématicien américain dans une revue spécialisée a 
+cependant amené Intel à reconnaître publiquement l'existence de ce 
+défaut le mois dernier (le Monde daté 27-28 novembre).</TEXT>
+<TEXT>
+  IBM, qui dit refléter " l'inquiétude croissante " de ses clients, 
+affirme qu'Intel a sous-estimé l'impact du problème. Selon des tests 
+conduits par la division recherche de la multinationale, les erreurs 
+dues au défaut peut apparaître tous les vingt-quatre jours sur un 
+ordinateur personnel employant le programme " Spreadsheet " (un 
+tableur) quinze minutes par jours. La fréquence pourrait atteindre 
+vingt erreurs par jour sur les serveurs de réseau IBM PC500.</TEXT>
+<TEXT>
+  IBM a donc préférer cesser les livraisons de ses ordinateurs 
+concernés. " Des solutions provisoires " sont étudiées avec les 
+clients qui peuvent néammoins, s'ils le désirent, recevoir le 
+matériel qu'ils avaient commandé. " Nous travaillons avec Intel pour 
+aider à la résolution du problème du Pentium ", ajoute-t-on chez 
+IBM..        
+</TEXT>
+</DOC>

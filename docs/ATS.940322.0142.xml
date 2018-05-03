@@ -1,0 +1,132 @@
+<DOC>
+<DOCID>ATS.940322.0142</DOCID>
+<DOCNO>ATS.940322.0142</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940322
+</DT>
+<PT>
+060000
+</PT>
+<SC>
+bsf013 bsf
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<RC>
+ec
+</RC>
+<OC>
+ecf
+</OC>
+<DE>
+ecpi ecps c5swi
+</DE>
+<AU>
+al
+</AU>
+<KW>
+suisse informatique imprimantes couleurs
+</KW>
+<TI>
+Les imprimantes couleur arrivent dans les bureaux Le jet d'encre évince le
+laser Par Matthias Zehnder, SIM-Informatique.
+</TI>
+<LD>
+Berne, 22 mars (sim) En dépit des sempiternelles prophéties sur le bureau
+sans papier, les imprimantes font encore et toujours partie de l'équipement
+standard. Selon l'institut d'études de marché IHA, quelque 10 % des
+investissements en informatique consentis en 1992 par les entreprises suisses
+concernaient des équipements périphériques, soit un marché d'un demi-milliard
+de francs. Le papier sans bureau se révèle d'autant plus un rêve que la
+grisaille quotidienne cède la place aux imprimantes couleur.
+</LD>
+<TX>
+Imprimer en couleur est devenu abordable depuis que les imprimantes à jet
+d'encre offrent cette possibilité. Cette technologie n'est pas vraiment
+récente: Hewlett-Packard fête ces jours-ci les dix ans de la gamme «Inkjet»,
+dont plus de 5 millions d'unités en ont été vendues dans le monde. La
+tendance n'est pas à la baisse, et les observateurs prévoient que les
+chiffres de vente croîtront encore fortement en 1994.
+</TX>
+<TX>
+La version couleur est sur le point de faire basculer la marché des
+imprimantes vers le jet d'encre. Hewlett-Packard équipera environ 80 % du
+marché, contre 20 % pour le Japonais Canon. Curieusement, le troisième
+constructeur mondial d'imprimantes à jet d'encre, Epson, est absent de ce
+créneau.
+</TX>
+<ST>
+Vingt-cinq gouttes sur l'i
+</ST>
+<TX>
+Pour imprimer un caractère, l'imprimante «spraye» des gouttelettes d'encre
+sur le papier à partir de buses d'un diamètre inférieur à celui d'un cheveu.
+Dans les buses d'une tête d'impression, un corps de chauffe porte
+instanntanément l'encre à une température de 300ú à 400úC. Il se forme une
+micro-bulle de vapeur, dont l'explosion éjecte une gouttelette d'encre vers
+l'extérieur. Simultanément, l'explosion engendre un vide qui aspire de
+l'encre fraîche dans le canal d'alimentation.
+</TX>
+<TX>
+Chaque buse, d'un diamètre trois fois plus fin qu'un cheveu humain, peut
+gicler plusieurs milliers de gouttelettes par seconde.  Ces gouttelettes sont
+en effet être tellement minuscules qu'il en faut 25 pour mettre un point sur
+un i.
+</TX>
+<ST>
+Des têtes bon marché
+</ST>
+<TX>
+Les têtes d'impression sont en silicium. Elles sont fabriquées avec les mêmes
+procédés de gravure photochimiques que les puces électroniques
+(microprocesseurs, mémoires, etc.). Comme aucune pièce mobile n'entre en jeu,
+leur prix unitaire reste très bas. En les miniaturisant encore davantage,
+Canon pense arriver à imprimer en couleur quelque 600 à 800 points par pouce.
+</TX>
+<TX>
+Par ailleurs, les têtes d'impression constituent le fond des réservoirs
+d'encre noire, bleue, rouge et jaune. L'ensemble forme des cartouches aussi
+faciles à remplacer lorsqu'elles sont vides que celles d'une plume réservoir.
+Le fait que chaque couleur dispose de sa propre tête d'impression permet
+d'obtenir des teintes claires et lumineuses sur le papier.
+</TX>
+<ST>
+Pas d'impact
+</ST>
+<TX>
+N'ayant en outre pas besoin d'impact mécanique sur le papier, l'impression
+par jet d'encre travaille aussi finement que la technologie à laser. Mais à
+l'inverse des imprimantes à aiguilles qui, comme une machine à écrire,
+peuvent produire des doubles en frappant à travers ruban et papier, le jet
+d'encre exige une impression individuelle de chaque copie. Elles produisent
+cependant du texte au kilomètre aussi aisément que leurs homologues à impact,
+bien qu'elles soient en priorité conçues pour intégrer textes et graphismes
+simples.
+</TX>
+<TX>
+Environ 10 000 imprimantes à laser auraient été vendues en Suisse en 1993. A
+l'inverse des jet d'encre qui impriment ligne par ligne, les laser produisent
+une page complète par cycle, comme les photocopieurs. Elles sont donc
+beaucoup plus rapides, avec des vitesse comprises entre quatre et plusieurs
+douzaines de pages par seconde. Elles ont par conséquent besoin de plusieurs
+méga-octets (Mo) de mémoires de travail, alors que le jet d'encre se contente
+de 20 à 50 kilo-octets (Ko). Or la qualité d'impression de ces dernières ne
+cède désormais en rien à celles des laser, beaucoup plus coûteuses. On peut
+donc prévoir que, d'ici peu, 90 % des imprimés produits sans impact devraient
+sortir d'imprimantes à jet d'encre.
+</TX>
+<TX>
+Note aux rédactions: Ce texte a été produit avec le soutien d'IBM (Suisse).
+L'indépendance rédactionnelle de l'ATS dans le choix et le traitement des
+sujets est garantie. Vous recevez un texte SIM/Informatique tous les quinze
+jours, le mardi à 06h00. Merci, en cas de publication, d'utiliser la
+signature (sim) ou (sim/ats), et non (ats).
+</TX>
+</DOC>

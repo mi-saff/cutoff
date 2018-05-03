@@ -1,0 +1,156 @@
+<DOC>
+<DOCID>ATS.940503.0037</DOCID>
+<DOCNO>ATS.940503.0037</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940503
+</DT>
+<PT>
+180400
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+ecps kul
+</DE>
+<AU>
+ee al
+</AU>
+<KW>
+sim images virtuelles realite virtuelle
+</KW>
+<TI>
+Images de synthese et realite virtuelle: Quand l'ordinateur abolit
+l'espace/temps Par Alain R. Walon, SIM-Informatique.
+</TI>
+<TX>
+Berne, 3 mai (sim) Coiffé d'un curieux casque qui le fait ressembler à un
+extra-terrestre, la main chaussée d'un gant d'où partent des fils, la
+personne plonge dans l'abbaye de Cluny au XIIème siècle, dans le cockpit
+d'une Formule 1 ou même dans les artères du corps humain sans quitter son
+fauteuil. Ces mondes artificiels sont le fruit des ordinateurs qui créent une
+simulation en trois dimensions.
+</TX>
+<TX>
+Ces mondes que la vue, l'ouïe, l'équilibre, le cerveau ressentent comme des
+réalités ne sont que des apparences électroniques, d'où leur nom de «réalité
+virtuelle.» Loin de se limiter à de super-jeux vidéo pour adultes, ils vont
+offrir des possibilités inconnues à la formation.
+</TX>
+<ST>
+Des millions de calculs par seconde
+</ST>
+<TX>
+L'ordinateur se caractérise par sa puissance de calcul. Modéliser une image
+en trois dimensions est pour lui un jeu d'enfant. La transformer aussi: c'est
+l'image de synthèse. L'animer également. Il suffit de répéter l'opération 25
+à 30 fois par seconde comme au cinéma ou à la télévision. Plus le processeur
+est puissant et rapide, plus l'image est fine et l'illusion de mouvement
+réaliste.
+</TX>
+<TX>
+Restait à pouvoir pénétrer dans ce monde factice. Pour cela, il fallait un
+système de vision stéréoscopique recréant les trois dimensions. C'est le
+casque qui reproduit deux images légèrement décalées et possède des capteurs
+des déplacements du regard. Dès que l'oeil se déplace, l'ordinateur recalcule
+formes, perspectives, ombres, etc... pour donner l'illusion d'un déplacement
+dans l'environnement choisi.
+</TX>
+<TX>
+Le gant, ou mieux encore la combinaison tactile, permettent de parfaire le
+mouvement, d'ouvrir une porte, de saisir un objet par exemple. Ceci nécessite
+des millions de calculs par seconde: une image est décomposée en un million
+de polygones/seconde.
+</TX>
+<ST>
+Cluny reconstitué
+</ST>
+<TX>
+Après le passage des révolutionnaires de 1789, il ne reste plus que quelques
+piliers peu révélateurs de la magnificence de Cluny, la plus grande église de
+la Chrétienneté avec ses 177 mètres de long.  Aujourd'hui, les passionnés de
+spiritualité et d'architecture peuvent la retrouver du temps de sa splendeur
+grâce à la réalité virtuelle.
+</TX>
+<TX>
+Avec l'aide des plans des archéologues et de logiciels de CAO, les ingénieurs
+de l'Ecole supérieure des Arts et Métiers sont parvenus à la reconstruire
+électroniquement. Coiffé d'un casque de vision stéréoscopique, le visiteur
+peut se replonger dans le cadre de vie des moines bénédictins du XIIème
+siècle. Cette année, c'est la Frauenkirche de Dresde, détruite en 1945 par un
+bombardement, qui a été reconstruite virtuellement.
+</TX>
+<ST>
+Un remarquable outil de formation
+</ST>
+<TX>
+La réalité virtuelle va offrir des possibilités encore insoupçonnées à la
+formation dans tous les domaines où risques et coûts sont importants. Depuis
+longtemps, les pilotes d'avion suivent une partie de leur entraînement sur
+des simulateurs qui recréent au sol plus ou moins finement les conditions du
+vol.
+</TX>
+<TX>
+La réalité virtuelle affine cette technique en lui donnant la dimension de
+l'inter-activité. L'environnement réagira en temps réel à une erreur (une
+perte de vitesse par exemple). Cette technique commence également à être
+appliquée aux auto-écoles. Plus de risques d'accident avec un
+élève-conducteur novice perdant la maîtrise. Il fera d'abord ses classes dans
+la circulation virtuelle.
+</TX>
+<TX>
+Ce procédé technique s'applique évidemment à des environnements à hauts
+risques, comme des manipulations au coeur d'un réacteur nucléaire. Ou à la
+simulation d'opérations d'un coût prohibitif en réalité, comme la réparation
+de satellites dans l'espace.
+</TX>
+<TX>
+En médecine, elle permet aux étudiants chirurgiens de répéter sans risques
+pour le patient, mais avec un réalisme parfait, des opérations très délicates
+comme celles de neuro-chirurgie ou de chirurgie cardiaque.
+</TX>
+<ST>
+Les cinq sens
+</ST>
+<TX>
+Le "réalisme" de la réalité virtuelle est encore limité par la puissance de
+calcul des micro-processeurs. Pour être le plus réaliste possible, il faut
+calculer toujours plus vite des masses de données toujours plus grandes
+(formes, perspectives, textures, couleurs, etc..).
+</TX>
+<TX>
+Après la vue (images en trois dimensions animées) et l'ouïe (sons) , les
+recherches s'orientent vers le toucher avec la simulation de la consistance
+des objets. Bientôt, les informaticiens tenteront de recréer électroniquement
+les deux derniers sens, le goût et l'odorat, pour que l'illusion soit
+parfaite.
+</TX>
+<TX>
+Outre ses immenses possibilités dans le domaine de la formation, la réalité
+virtuelle offre un champ d'action royal aux activités de loisirs. Le cinéma
+ne s'est-il pas acharné pendant des années à produire des films en trois
+dimensions (mondovision, tod-ao, etc..).  Ces nouvelles techniques
+électroniques passionnent producteurs et réalisateurs, mais aussi les
+éditeurs de jeux vidéos et les exploitants de parcs d'attraction comme
+Disneyland.
+</TX>
+<TX>
+Note aux rédactions: Ce texte a été produit avec le soutien d'IBM (Suisse).
+L'indépendance rédactionnelle de l'ATS dans le choix et le traitement des
+sujets est garantie. Vous recevez un texte SIM/Informatique tous les quinze
+jours, le mardi à 06h00. Merci, en cas de publication, d'utiliser la
+signature (sim) ou (sim/ats), et non (ats).
+</TX>
+</DOC>

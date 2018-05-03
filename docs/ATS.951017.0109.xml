@@ -1,0 +1,153 @@
+<DOC>
+<DOCID>ATS.951017.0109</DOCID>
+<DOCNO>ATS.951017.0109</DOCNO>
+<LC>
+F
+</LC>
+<LE>
+4181
+</LE>
+<DT>
+951017
+</DT>
+<PT>
+114709
+</PT>
+<RT>
+092331
+</RT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<RC>
+iq
+</RC>
+<OC>
+ecf
+</OC>
+<DE>
+c5swi ecps comt comm
+</DE>
+<AU>
+ee cd lp
+</AU>
+<KW>
+sim informatique swissnet autoroute données
+</KW>
+<TI>
+
+Swissnet assure le raccordement à l'Europe Autoroute de
+l'information au plus tôt en l'an 2000
+
+
+</TI>
+<ST>
+éclairage par Matthias Zehnder, SIM-Informatique
+
+</ST>
+<LD>
+Berne, 17 oct (sim) Le 1er novembre, les Telecom PTT brancheront
+les premières centrales Swissnet 3 au réseau téléphonique. Ainsi,
+la Suisse réalisera son raccordement à l'Europe au moins dans le
+secteur des télécommunications: Swissnet 3 correspond au standard
+européen du réseau numérique à intégration de services (RNIS).
+
+
+
+</LD>
+<TX>
+"Les Telecom sont intéressés à ce que le plus de liaisons
+possibles soient réalisées", explique Alain Rossier, responsable de
+la division "Téléphonie, RNIS et Services à large bande" auprès de
+la direction générale des Telecom PTT à Berne. Grâce à des
+fonctions supplémentaires, comme le signal d'attention ou la
+déviation d'appels, les Telecom peuvent mettre à disposition un
+plus grand nombre de liaisons avec le RNIS qu'avec un réseau
+analogue, note M. Rossier.
+
+</TX>
+<TX>
+L'introduction de Swissnet 3 apporte, en plus de la
+compatibilité avec nos voisins européens dans ce domaine, le
+confort de nouvelles possibilités pour l'utilisateur du RNIS. Parmi
+elles, il faut signaler le rappel automatique - le réseau informe
+le téléphone que le correspondant souhaité a raccroché et le
+rappelle automatiquement. La retransmission automatique à d'autres
+raccordements ou les groupes d'utilisateurs fermés sont également
+possibles.
+
+</TX>
+<ST>
+Débit de retransmission plus élevé
+
+</ST>
+<TX>
+Le débit de transmission digitale de Swissnet 3 est plus élevé:
+maintenant, des données peuvent être transmises non seulement sur
+les deux canaux B, mais aussi sur le canal D. Les Telecom utilisent
+pour la retransmission des données, outre le tunnel proprement dit,
+également le canal d'approvisionnement. Ainsi, il sera possible dès
+la mi-1996 de téléphoner en même temps sur deux lignes et sur une
+troisième de transmettre des données, et tout cela avec un seul
+raccordement.
+
+</TX>
+<TX>
+Pourtant, Swissnet reste un "réseau à bande étroite" avec une
+capacité de transmission maximale de 128 kilobits: Les
+transmissions par RNIS restent une route de campagne. Les réseaux à
+large bande, l'autoroute des données, avec une capacité de
+transmission en mégabit, restent réservés aux circuits loués. Selon
+Telecom PTT, il faudra attendre au moins l'an 2000 pour la
+retransmission par réseau à large bande commutée directement par
+les utilisateurs.
+
+</TX>
+<ST>
+Débuts difficiles
+
+</ST>
+<TX>
+Swissnet est aujourd'hui considéré comme un succès, mais le
+débuts furent difficiles: en octobre 1992, les Telecom PTT
+commencèrent avec Swissnet 2. En Juin 1994, il y avait déjà 7000
+abonnés sur le réseau. "Nous avons espéré un départ rapide",
+concède Sepp Huber, porte-parole des Telecom. Entre-temps la
+situation s'est améliorée: fin août 1995, les Telecom PTT comptent
+46 000 raccordements de base et 2500 raccordements primaires. Ce
+sont environ 4 % de tous les raccordements. Le taux de croissance
+mensuel s'élève pour le moment à 9 %.
+
+</TX>
+<TX>
+Avec Swissnet, les Telecom PTT spécifient leur services de RNIS.
+Sur le réseau RNIS ne sont transmises que des données digitales. La
+parole est digitalisée par l'appareil final avant la transmission.
+Des téléphones récepteurs et des faxs ne peuvent être branchés au
+réseau RNIS qu'avec un adaptateur.
+
+</TX>
+<TX>
+Qui veut un raccordement Swissnet doit d'abord avoir un appareil
+de terminaison de réseau (NT). Ce NT transmet entre les appareils
+dans la maison et le réseau digital. Comme Swissnet comprend deux
+canaux par raccordement, deux appareils peuvent fonctionner
+simultanément. Un raccordement Swissnet coûte pour le moment 50
+francs par mois, avec l'adaptateur NT2AB, le raccordement s'élève à
+60 francs.
+
+</TX>
+<TB>
+Note aux rédactions:
+Ce texte a été produit avec le soutien d'IBM (Suisse).
+L'indépendance rédactionnelle de l'ATS dans le choix et le
+traitement des sujets est garantie. Merci, en cas de publication,
+d'utiliser la signature (sim) ou (sim/ats), et non (ats).
+</TB>
+</DOC>

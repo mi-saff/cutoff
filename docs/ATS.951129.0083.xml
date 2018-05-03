@@ -1,0 +1,107 @@
+<DOC>
+<DOCID>ATS.951129.0083</DOCID>
+<DOCNO>ATS.951129.0083</DOCNO>
+<LC>
+F
+</LC>
+<LE>
+3078
+</LE>
+<DT>
+951129
+</DT>
+<PT>
+152009
+</PT>
+<RT>
+103735
+</RT>
+<SC>
+bsf114 bsf
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<RC>
+su
+</RC>
+<OC>
+sof
+</OC>
+<DE>
+for vs
+</DE>
+<AU>
+pb sh
+</AU>
+<KW>
+vs séminaire informatique du futur
+</KW>
+<TI>
+Incursion dans l'informatique de demain à Martigny (VS) Nouveau langage de
+programmation pour doper les ordinateurs
+</TI>
+<LD>
+Martigny (VS), 29 nov (ats) L'avenir de l'informatique passe par
+l'élaboration de nouveaux langages de programmation. Les logiciels actuels,
+mais aussi le matériel, commencent à montrer leurs limites.  L'évolution,
+dans des domaines comme la reconnaissance de la parole, oblige à innover.
+</LD>
+<TX>
+Une quarantaine de spécialistes de l'informatique sont réunis à Martigny (VS)
+pour un séminaire de quatre jours consacré au langage "Oz". "Il s'agit
+d'échanger des idées d'applications avec ce langage", a expliqué à l'ATS
+Jean-Luc Cochard, directeur de recherche à l'institut d'intelligence
+artificielle perceptive (Idiap) de Martigny.
+</TX>
+<TX>
+"Oz" est un langage relativement nouveau. Sa particularité principale est de
+pouvoir faire travailler ensemble et simultanément plusieurs microprocesseurs
+ou ordinateurs. Il ouvre ainsi des perspectives nouvelles dans des domaines
+comme l'intelligence artificielle, la réalité virtuelle, la parole et aussi
+les jeux.
+</TX>
+<ST>
+Des programmes émancipés
+</ST>
+<TX>
+Les langages de programmations actuels (C, Pascal) sont limités dans certains
+domaines comme la gestion d'applications multitâches.  Avec le langage "Oz",
+chaque partie d'un programme devient une entité indépendante, nommée agent,
+qui communique avec les autres.  Plusieurs tâches peuvent ainsi être
+effectuées simultanément si le programme a accès à plusieurs processeurs.
+</TX>
+<TX>
+La réalité virtuelle prend ainsi une autre dimension. Il devient possible de
+programmer des simulations plus proches de la réalité.  Pour le trafic par
+exemple, il n'est plus besoin de passer par un programme global. Chaque
+véhicule devient un agent qui réagit en fonction des autres et pas selon un
+comportement dicté par le programmateur.
+</TX>
+<TX>
+L'usage de ces agents peut aussi s'avérer intéressant pour la compréhension
+de la parole. L'ordinateur ne se contentera plus de retranscrire sur écran ce
+que lui dicte l'utilisateur, il pourra aussi comprendre le sens de la phrase
+et donc y répondre. C'est un des actuels domaines de recherche de l'Idiap,
+qui espère aboutir à de premiers résultats d'ici deux ans.
+</TX>
+<ST>
+Succès encore incertain
+</ST>
+<TX>
+Il est toutefois encore impossible de dire si ce langage, cantonné jusqu'à
+présent au monde académique, saura séduire les programmateurs. "Mais la
+plupart des développements de l'informatique ont débuté de la même manière."
+Et M. Cochard de citer l'exemple du système Unix, qui est parvenu à percer
+jusque dans le grand public.
+</TX>
+<TX>
+Pour le directeur de recherche de l'Idiap, "Oz" est à tout le moins une porte
+ouverte sur un monde informatique nouveau. L'avenir verra peut-être
+l'apparition d'ordinateurs à processeurs multiples capables de réellement
+communiquer avec l'utilisateur et de le comprendre.
+</TX>
+</DOC>

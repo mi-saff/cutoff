@@ -1,0 +1,174 @@
+<DOC>
+<DOCID>ATS.951003.0145</DOCID>
+<DOCNO>ATS.951003.0145</DOCNO>
+<LC>
+F
+</LC>
+<LE>
+4625
+</LE>
+<DT>
+951003
+</DT>
+<PT>
+053008
+</PT>
+<RT>
+100408
+</RT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<RC>
+iq
+</RC>
+<OC>
+ecf
+</OC>
+<DE>
+c5swi ecpi ecps
+</DE>
+<AU>
+ee lp jn
+</AU>
+<KW>
+sim informatique palette couleurs multimédia
+</KW>
+<TI>
+
+Poussée des programmes graphiques et multimédia La palette
+disponible atteindra bientôt 16 millions de couleurs
+
+
+</TI>
+<ST>
+éclairage par Alain Graber, SIM-Informatique
+
+</ST>
+<LD>
+Berne, 3 oct (sim) La montée en puissance des programmes
+graphiques et multimédia accroît l'importance de la qualité de
+l'affichage d'un écran d'ordinateur. Dans la gestion de l'image, le
+couple carte vidéo-écran mènent le bal. L'un comme l'autre doivent
+suivre un rythme endiablé, si possible sans se désunir.
+
+
+
+</LD>
+<TX>
+Un écran démodé avec une carte graphique à hautes performances
+ne sert à rien, le contraire aussi. Aujourd'hui, la résolution
+graphique est intimement liée à la taille de l'écran. Plus ce
+dernier est grand et plus la résolution, à savoir le nombre de
+pixels ou de points, pourra être élevée.
+
+</TX>
+<TX>
+Des écrans de 14 ou 15 pouces (distance en diagonale, comme pour
+les téléviseurs) ne permettent guère d'aller au-delà d'une
+résolution de 800 x 600 points, sans quoi les écritures deviennent
+illisibles. Apportant un excellent confort visuel, un moniteur de
+17 pouces affichera une résolution de 800 x 600 ou 1024 x 768
+points. Les très hautes résolutions, 1280 x 1024 et 1600 x 1200
+seront plutôt l'apanage de moniteurs de haut de gamme, d'une taille
+de 20 ou 21 pouces.
+
+</TX>
+<ST>
+Plus d'effet d'escalier
+
+</ST>
+<TX>
+Plus la résolution est élevée et moins "l'effet d'escalier" sera
+visible à l'écran. Grâce à la technologie moderne, ces effets sont
+devenus pratiquement invisibles à l'impression. Si la résolution
+graphique est importante, le nombre de nuances des couleurs
+affichables intéresse aussi directement l'utilisateur, de plus en
+plus exigeant dans ce domaine.
+
+</TX>
+<TX>
+Des programmes graphiques identiques, mais disposant de 256
+nuances ou de plus de 16 millions de couleurs n'ont plus grand
+chose en commun quant à la qualité de l'image. Techniquement, la
+palette des couleurs dépend de la mémoire disponible sur la carte
+graphique. Cette mémoire n'a rien à voir avec la mémoire vive (RAM:
+pour Random Access Memory) de l'ordinateur, installée sur la carte
+mère.
+
+</TX>
+<TX>
+Un méga de mémoire sur la carte vidéo permet d'atteindre
+seulement 65 000 couleurs en 800 x 600 et 256 nuances en
+1024 x 768. Avec deux mégas, l'utilisateur obtiendra plus de 16
+millions de couleurs en 800 x 600, contre 65 000 tons en 1024 x 768
+points. En doublant la mémoire vidéo, soit quatre mégas, on aura
+accès à plus de 16 millions de nuances en 1024 x 768 points.
+
+</TX>
+<ST>
+Performances élevées
+
+</ST>
+<TX>
+Bien entendu, ces performances ne sont possibles qu'avec des
+cartes vidéo équipées d'une puce accélératice, chargée de gérer
+l'affichage. De tels processeurs sont disponibles avec la plupart
+des ordinateurs vendus sur le marché.
+
+</TX>
+<TX>
+La carte graphique s'installe désormais dans un connecteur
+d'extension 32 bits, de type "Vesa Local Bus" ou "PCI". Les
+"anciens" bus 16 bits ne permettent pas d'obtenir des vitesses
+d'affichage satisfaisantes quand il s'agit de programmes complexes.
+
+</TX>
+<ST>
+Régénération de l'image
+
+</ST>
+<TX>
+Le confort visuel tient aussi à la vitesse de rafraîchissement
+de l'écran, soit au nombre d'affichage de l'image par seconde. Pour
+éviter les vibrations ou scintillements de l'écran, il faut en
+principe une vitesse supérieure à 72 Hz, qui permet de régénérer
+l'image 72 fois par seconde. Pour parvenir à cette fréquence en
+haute résolution, certains fabricants ont inventé le mode
+"entrelacé", qui nuit toutefois un peu à la qualité de l'image.
+
+</TX>
+<ST>
+Disparition des écrans monochromes
+
+</ST>
+<TX>
+Il y a quelques années encore, les écrans couleurs se révèlaient
+plus fatiguants pour la vue que les monochromes verts ou ambres.
+Aujourd'hui, ce défaut n'existe pratiquement plus, la qualité de
+l'affichage ayant progressé.
+
+</TX>
+<TX>
+La couleur apporte même un confort supplémentaire, l'utilisateur
+pouvant identifier plus rapidement et plus simplement certaines
+fonctions. Quant aux rayonnements électromagnétiques, la norme
+MPRII permet de reconnaître les écrans à faible rayonnement.
+L'utilisateur a tout intérêt à préférer un tel écran. Pour une
+différence de prix parfois minime, ses yeux sauront apprécier.
+
+</TX>
+<TB>
+Note aux rédactions:
+Ce texte a été produit avec le soutien d'IBM (Suisse).
+L'indépendance rédactionnelle de l'ATS dans le choix et le
+traitement des sujets est garantie. Merci, en cas de publication,
+d'utiliser la signature (sim) ou (sim/ats), et non (ats).
+</TB>
+</DOC>

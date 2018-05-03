@@ -1,0 +1,112 @@
+<DOC>
+<DOCNO>LEMONDE95-039107</DOCNO>
+<DOCID>LEMONDE95-039107</DOCID>
+<ACCOUNT>418890</ACCOUNT>
+<CHA1>1</CHA1>
+<DATE>19951025</DATE>
+<LMDOC>FLA</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q241095/0872</FAB>
+<SUBJECTS>PROJET,IMAGE NUMERIQUE,TELEPHONE,COLLOQUE,NOUVEAU MEDIA</SUBJECTS>
+<NUM1>951025-2-021-32</NUM1>
+<NAMES>INA,QUEAU PHILIPPE</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-021-32</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>ALBERGANTI MICHEL</AUTHOR>
+<SIP1>MMICHEL ALBERGANTI</SIP1>
+<SOT1>Cent cinquante ans après la mort de Louis Daguerre, un des pères de la photographie,  l'Institut national de l'audiovisuel établit les bases d'une nouvelle culture visuelle</SOT1>
+<SU21>LIEUX DE SCIENCES</SU21>
+<PAGE>1</PAGE>
+<LEAD1>SERIE</LEAD1>
+<TITLE>L'image prépare sa révolution virtuelle à Bry-sur-Marne</TITLE>
+<TEXT>   LORSQU'IL s'est installé à Bry-sur-Marne à la fin 1839, Louis Daguerre ne pensait sûrement pas que ce lieu accueillerait un jour la direction de la 
+recherche de l'Institut national de l'audiovisuel (INA) dont les laboratoires conçoi-vent les 
+images du XXIe siècle. Aujourd'hui, il serait probablement fort désorienté devant ce qui 
+s'affiche sur les écrans dese ordinateurs de l'Institut. Près de cent cinquante ans ont passé 
+depuis la mort du disciple de Nicéphore Niepce dans la maison qu'il habitait à Bry, rue du 
+136e-de-Ligne. Le village est devenu une petite ville d'environ quinze mille habitants. 
+Située à eseulement 12 kilomètres au sud-est de Paris, Bry-sur-Marne, qui dépend 
+aujourd'hui de la ville nouvelle de Marne-la-Vallée, a été choisie pour l'implantation de 
+l'INA... à la suite d'un oubli.</TEXT>
+<TEXT>
+  " En 1974, lors de l'éclatement de l'ORTF, les députés avaient réparti ses activités en six 
+sociétés avant de s'apercevoir que plusieurs entités restaient sans affectation, raconte 
+Philippe Quéau, directeur de recherche à l'INA. Il s'agissait de la recherche, des archives 
+et de la formation professionnelle. " Ces fonctions ont été rassemblées et confiées à l'INA, 
+créé pour la circonstance en janvier 1975. A Bry-sur-Marne, l'Institut voisine avec un 
+autre héritier de l'ORTF, la Société française de production (SFP). Tous deux sont installés 
+dans le quartier des Fontaines-Giroux, sur le plateau qui domine la ville ancienne, les bords 
+de Marne et l'Est parisien.</TEXT>
+<TEXT>
+  Aujourd'hui, les soixante personnes qui font de la recherche à l'INA travaillent dans un 
+bâtiment moderne, inauguré en 1989 par Jack Lang. De Daguerre, plus la moindre trace. 
+Lui qui utilisait de la vapeur de mercure pour révéler l'image qu'il avait enregistrée sur une 
+plaque de cuivre couverte d'iodure d'argent chercherait en vain la présence d'une 
+éprouvette ou d'une cornue. La photographie elle-même a disparu. Alors que Daguerre 
+s'émerveillait de la fidélité de ses reproductions de la réalité, la virtualité ici a pris le pas. 
+Mieux encore, la télévirtualité.</TEXT>
+<TEXT>
+ " Il faudra vingt ans pour construire les autoroutes de l'information, estime Philippe 
+Quéau, qui est responsable du projet télévirtualité. En attendant, il est possible d'utiliser 
+les réseaux existants pour développer des fonctionnalités nouvelles et attrayantes. " De 
+fait, les câbles téléphoniques actuels ont du mal à transmettre vingt-quatre images par 
+seconde. D'où la piètre qualité des premiers systèmes de visiophonie limités à dix ou 
+quinze images par seconde. Au-delà, la quantité d'informations dépasse la capacité de 
+transmission la bande passante des fils de cuivre. Pour résoudre ce problème en attendant 
+que les abonnés bénéficient d'un réseau par fibres optiques, l'équipe de Philippe Quéau 
+travaille sur la " représentation virtuelle des interlocuteurs ".</TEXT>
+<TEXT>
+  Il s'agit de remplacer les images réelles de leurs deux visages par leurs clones virtuels, 
+c'est-à-dire leurs doubles en trois dimensions. Reste à animer ces clones. Pour cela, 
+l'informatique analyse l'image du vrai visage et détermine les mouvements d'une dizaine de 
+points significatifs : les yeux, le nez, la bouche, le menton... Il suffit alors de transmettre les 
+informations correspondantes sur la ligne téléphonique, ce qui représente un débit infime 
+par rapport à ce qu'impose une image réelle.</TEXT>
+<TEXT>
+  Ces travaux, engagés en 1993 et financés par le Centre national d'études des 
+télécommunications (Cnet), visent à la conception de la future génération de systèmes de 
+visioconférence. Une tâche qui revient à Agnès Saulnier et Marie-Luce Viaud, deux jeunes 
+femmes aux formations éloquentes. La première est ingénieur Télécom Paris, tandis que la 
+seconde a réalisé une thèse de 3e cycle à l'Institut national de recherche en informatique et 
+en automatique (Inria) prolongée à l'université de Philadelphie (Etats-Unis). Dans leur petit 
+bureau, elles sont rivées à deux ordinateurs dont l'écran affichle un visage stylisé en image 
+de synthèse.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ CHOISIR SON VISAGE</TEXT>
+<TEXT>
+ Dans le petit film qu'elles ont réalisé, lorsque le visage d'Agnès change d'expression, celui 
+de son clone tente de faire de même. " Pour l'instant, le clone ne représente pas le visage 
+d'une personne précise ", note Agnès Saulnier. Le travail porte sur la détection des 
+expressions du visage réel et leur transformation, en temps réel, en expression du clone 
+virtuel. Ainsi, le sourire ou la peur du visage d'Agnès se lisent sur sa représentation 
+virtuelle. " Notre problème réside dans la généralisation de notre algorithme à tous les 
+types de visages ", indique Philippe Quéau.</TEXT>
+<TEXT>
+  Pour franchir cette étape, l'équipe s'est lancée dans une recherche anatomique. " Nous 
+travaillons sur la couche musculaire du visage qui comprend pas moins de deux cents 
+muscles. " Cette étude va permettre d'élaborer un modèle d'animation faciale. Ainsi, l'INA 
+se replonge dans les cours d'anatomie des Beaux-Arts. L'imagerie virtuelle se nourrit du 
+savoir des peintres. Daguerre doit se sentir pris à revers...</TEXT>
+<TEXT>
+  " Avec un tel outil, il sera possible de transmettre à son interlocuteur un clone virtuel de 
+son propre visage mais aussi de n'importe quel autre visage que l'on aura choisi, explique 
+Philippe Quéau avec une certaine excitation. On peut ainsi imaginer un Carnaval de Venise 
+virtuel. " A partir du personnage réel, toutes les transformations sont possibles. Philippe 
+Quéau ne nie pas la conséquence de telles manipulations. " Les images vont avoir de 
+moins en moins de vérité. " Mais cela ne l'inquiète pas outre mesure, même s'il admet que 
+la réalité virtuelle va augmenter la confusion déjà créée par l'image numérique à la 
+télévision et au cinéma.</TEXT>
+<TEXT>
+  " Certaines images virtuelles atteignent une intelligibilité que n'aura jamais une image 
+réelle ", affirme-t-il. Pour se faire mieux comprendre, le chercheur prend l'exemple d'une 
+carte géographique : " Pour un randonneur, la lecture d'une carte d'état-major apporte plus 
+d'informations que la vision du paysage réel. " Si la comparaison est claire, elle ne résout 
+pas le problème de l'ambiguïté du virtuel. En effet, la difficulté réside dans ce que Philippe 
+Quéau appelle " la distinction des différents plans de réalité ". Pour lui, " nous sommes 
+toujours dans une ère de vérité des images et il nous faudra plusieurs dizaines, voire 
+centaines d'années, pour apprendre le nouvel alphabet du virtuel ". Pas si facile&gt;de 
+s'affranchir totalement de&gt;Daguerre.</TEXT>
+</DOC>

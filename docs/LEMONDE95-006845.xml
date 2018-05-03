@@ -1,0 +1,55 @@
+<DOC>
+<DOCNO>LEMONDE95-006845</DOCNO>
+<DOCID>LEMONDE95-006845</DOCID>
+<ACCOUNT>375683</ACCOUNT>
+<DATE>19950220</DATE>
+<LMDOC>BHL</LMDOC>
+<DOS>ECO</DOS>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q180295/0920</FAB>
+<NUM1>950220-2-014-02</NUM1>
+<NAMES>INTEL</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-014-02</REFERENCE1>
+<SEC1>ENT</SEC1>
+<AUTHOR>ALBERGANTI MICHEL</AUTHOR>
+<SIP1> MICHEL ALBERGANTI</SIP1>
+<SU21>INFORMATIQUE&gt; INTEL PRESENTE UN MICROPROCESSEUR DEUX FOIS PLUS RAPIDE QUE PENTIUM</SU21>
+<PAGE>1</PAGE>
+<LEAD1>LE MICROPROCESSEUR P 6</LEAD1>
+<TITLE>La puce qui spécule</TITLE>
+<TEXT> DANS UN SUPERMARCHÉ, on peut acheter les produits dans l'ordre de la liste que l'on a établie. C'est sur ce principe que fonctionnent les 
+microprocesseurs 486 et Pentium. Si l'on connaît les lieux, on optimise le parcours en 
+jouant sur l'emplacement des rayons. Avec l'expérience, on peut même spéculer sur le 
+contenu de la liste. Il suffit, par exemple, de savoir que le samedi est souvent le jour du 
+boeuf carottes... Mais au rayon viande, il est prudent de prendre également du porc, car 
+l'on n'est pas certain de trouver des carottes dans le magasin. Avec les mêmes précautions 
+à chaque rayon, on réduit très fortement le risque de ne pas pouvoir réaliser une recette 
+complète. En procédant ainsi, le P6 nom de code du nouveau microprocesseur d'Intel ne 
+cesse jamais de travailler.</TEXT>
+<TEXT>
+  Grâce à la spéculation, il réalise un nombre maximal d'opérations et, en fin de calcul, il se 
+débarrasse de l'inutile pour ne conserver que le nécessaire. Cet apparent gaspillage cache 
+une redoutable efficacité. Pour un microprocesseur en tout cas. Les performances du P6 
+seront deux fois supérieures à celles du Pentium le plus puissant. Fonctionnant à 133 
+mégahertz, il traitera 300 millions d'instructions par seconde. Un résultat qui doit beaucoup 
+à la technique baptisée " exécution dynamique " et qui ne requiert pas moins de 5,5 
+millions de transistors contre 3,1 millions pour Pentium. Pour conserver la gravure à 0,6 
+micron, Intel a dû augmenter d'environ 30 % la taille de la puce.</TEXT>
+<TEXT>
+  " Le P6 résulte de l'addition de toutes les techniques " de ses prédécesseurs, explique 
+André Bertrand, responsable " architecture processeur " chez Intel France. Il ne s'agit 
+donc pas d'une rupture mais d'une évolution, avec toujours le même souci de compatibilité 
+entre les différentes générations pour assurer le fonctionnement des mêmes logiciels sur 
+un parc de 200 millions d'ordinateurs dans le monde. Avec le P6, Intel rattrape son retard 
+en performance sur ses concurrents et espère faire oublier les récents problèmes 
+découverts sur les Pentium.</TEXT>
+<TEXT>
+  La puissance du P6 ouvrira de nouvelles applications aux micro-ordinateurs. Sans recours 
+à des cartes électroniques additionnelles, il permettra de réaliser de la visioconférence ou 
+du multimédia, intégrant plusieurs vidéos simultanées et accélérera le traitement d'image. 
+Il entrera aussi dans les serveurs pour traiter de grosses bases de données. Son nom 
+définitif ne sera pas dévoilé avant son lancement commercial au second semestre 1995. En 
+attendant le P7 sur lequel Intel travaille déjà.</TEXT>
+</DOC>

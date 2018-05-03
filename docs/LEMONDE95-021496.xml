@@ -1,0 +1,82 @@
+<DOC>
+<DOCNO>LEMONDE95-021496</DOCNO>
+<DOCID>LEMONDE95-021496</DOCID>
+<ACCOUNT>395886</ACCOUNT>
+<DATE>19950601</DATE>
+<LMDOC>BHL</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q310595/1880</FAB>
+<SUBJECTS>BREVET D'INVENTION,GRANDE ECOLE,PRIX HONORIFIQUE,MATHEMATIQUES,ANALYSE,IMAGE NUMERIQUE</SUBJECTS>
+<NUM1>950601-24</NUM1>
+<NAMES>ECOLE DES MINES</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-024-04</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>KAHN ANNIE</AUTHOR>
+<SIP1> ANNIE KAHN</SIP1>
+<SOT1>L'Ecole des mines primée pour ses travaux dans le domaine du traitement des images</SOT1>
+<SU11>AUJOURD ' HUI - SCIENCES</SU11>
+<PAGE>1</PAGE>
+<LEAD1>TRANSVALOR DECERNE LE "PRIX DE LA RECHERCHE TRANSFEREE" LE 17 MAI A JEAN CLAUDE KLEIN, ET SERGE BEUCHER DU CENTRE DE MORPHOLOGIE MATHEMATIQUE. LA THEORIE ET SES APPLICATIONS</LEAD1>
+<TITLE>Reconnaître les formes grâce aux mathématiques</TITLE>
+<TEXT> ON PEUT ÊTRE un élève très moyen, échouer au baccalauréat à dix-huit ans, quitter le lycée pour devenir réparateur de télévision, sans le moindre 
+parchemin en poche, et se retrouver à cinquante-deux ans lauréat d'un prix scientifique. 
+Jean-Claude Klein en apporte le témoignage, de nature à réconforter les parents anxieux, 
+à quelques semaines d'une épreuve tant redoutée des lycéens !</TEXT>
+<TEXT>
+  Mercredi 17 mai, Transvalor, société chargée de valoriser les brevets déposés par les 
+chercheurs de quelques grandes écoles d'ingénieurs (Ecole polytechnique, Ecoles des 
+mines et Ecole nationale supérieure des techniques avancées), a décerné à cet autodidacte 
+le Prix de la recherche transférée. Ce prix, partagé avec Serge Beucher et d'autres 
+chercheurs de son équipe du Centre de morphologie mathématique de l'Ecole nationale 
+supérieure des mines de Paris, récompense leurs travaux sur la morphologie 
+mathématique. Une discipline qui consiste, comme son nom l'indique, à utiliser les 
+mathématiques pour étudier des formes.</TEXT>
+<TEXT>
+  Ses applications sont nombreuses. En médecine, elle peut servir à déceler des cellules 
+cancéreuses à partir d'images médicales. Dans l'aéronautique, la Snecma y a recourt pour 
+contrôler automatiquement des pièces de moteur d'avion et aider les opérateurs à détecter 
+des anomalies. D'autres sociétés l'utilisent pour analyser des images de trafic et mieux 
+réguler la circulation, ou éviter qu'une voiture ne franchisse une ligne blanche, grâce à un 
+système de vision embarqué avertissant l'automobiliste distrait.</TEXT>
+<TEXT>
+  Inventée en 1968, cette méthode repose sur la théorie des ensembles. Elle donne des 
+informations sur la géométrie des objets en fonction de leur recouvrement ou non par une 
+forme donnée (l'élément structurant) en déplacement. Ces éléments ont des tailles et des 
+formes caractéristiques. L'espace défini par leur intersection et l'objet à étudier permet 
+ensuite de déduire la forme de ce dernier. En fait, la seule intersection de ces deux 
+ensembles ne suffit pas. La " morphologie " met aussi en oeuvre des milliers de " 
+transformations " mathématiques complexes, répondant aux noms évocateurs de " 
+Chapeau haut de forme " ou " Partage des hauts ".</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ NOUVEAUX ALGORITHMES</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+  " Complexe théoriquement, cette méthode est très facile à utiliser, car très visuelle ", 
+explique Serge Beucher. En revanche, elle nécessite des processeurs spécifiques, ou des 
+microordinateurs équipés de cartes électroniques dédiées à ce type de calcul. Le Centre de 
+morphologie mathématique en a développé plusieurs dont il a vendu la licence. L'une 
+d'elles, issue de ses laboratoires, équipe les systèmes de vision industrielle de la société 
+Allen-Bradley. Le système de traitement d'images Quantimet 570 de la société Leica 
+intègre également plusieurs processeurs spécifiques, signés de l'équipe. La mise au point 
+de nouveaux algorithmes ainsi que l'amélioration des composants leur a permis de réduire 
+considérablement les vitesses de calcul. Une opération comme la " Ligne de partage des 
+eaux ", qui nécessitait trente secondes il y a cinq ans, ne dure plus que cinqcents 
+millisecondes aujourd'hui.</TEXT>
+<TEXT>
+  En outre, deux thésards issus du laboratoire ont créé leur société, chacune connue et 
+vantée pour sa réussite par la revue spécialisée américaine Advanced Imaging. La 
+première, Morpho Systèmes, récemment vendue à la Sagem, est le numéro un mondial des 
+systèmes de reconnaissance des empreintes digitales. La seconde, Noesis, commercialise 
+un logiciel de traitement d'image, Visilog.</TEXT>
+<TEXT>
+  Mais la morphologie mathématique peut aussi s'appliquer au traitement du signal. 
+L'équipe de Jean-Claude Klein développe actuellement un système de mesure en continu 
+du glucose sanguin pour les diabétiques. Une électrode de 0,5 mm de diamètre placée sous 
+la peau et reliée à un boîtier électronique incorporant des logiciels de morphologie 
+mathématique permettrait d'alerter les diabétiques lorsque leur taux de glycémie devient 
+anormal. Ce système est en cours d'expérimentation à l'Hôtel-Dieu, à Paris.</TEXT>
+</DOC>

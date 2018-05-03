@@ -1,0 +1,115 @@
+<DOC>
+<DOCNO>LEMONDE95-047458</DOCNO>
+<DOCID>LEMONDE95-047458</DOCID>
+<ACCOUNT>429332</ACCOUNT>
+<GENRE>GRAPHIQUE</GENRE>
+<CHA1>1</CHA1>
+<DATE>19951229</DATE>
+<LMDOC>BHL</LMDOC>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q281295/1504</FAB>
+<NOTE>Intelligence collective, ouvrage coordonné par Eric Bonabeau et Guy Théraulaz, éditions Hermes, 1994, 290 p., 320 francs.doc avec un schéma "guepes virtuelles"
+</NOTE>
+<NUM1>951229-14</NUM1>
+<NAMES>THERAULAZ GUY,BONABEAU ERIC,DENEUBOURG JEAN LOUIS</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-014-31</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>MORIN HERVE</AUTHOR>
+<SIP1> HERVE MORIN</SIP1>
+<SOT1>La modélisation du comportement bâtisseur des guêpes met en évidence un phénomène  d'auto-organisation de la colonie qui pourrait avoir des applications en robotique</SOT1>
+<SU21>ETHOLOGIE &gt;</SU21>
+<SYE1>INSECTE,COMPORTEMENT,INTELLIGENCE</SYE1>
+<PAGE>1</PAGE>
+<LEAD1>LES INSECTES SOCIAUX : LES GUEPES BATISSEUSES ET TERMITES, ETHOLOGIE ET PSYCHOLOGIE ANIMALE</LEAD1>
+<TITLE>L'" intelligence collective " des insectes débusquée par l'ordinateur</TITLE>
+<TEXT> LES INSECTES sociaux sont-ils intelligents ? Comment des bestioles d'apparence si fruste peuvent-elles participer à des activités aussi complexes que 
+celles aboutissant à la construction de nids sophistiqués ? Faut-il imaginer que chaque 
+individu dispose d'un " plan ", ou encore qu'au sein de la colonie de minuscules architectes 
+commandent la manoeuvre ? Ces capacités supposeraient des " connaissances " bien trop 
+élaborées en regard du petit nombre de neurones dont dispose le commun des insectes 
+sociaux, abeilles, fourmis, guêpes ou termites.</TEXT>
+<TEXT>
+  A la fin des années 50, Pierre Paul Grassé (1895-1985), spécialiste des insectes sociaux, 
+avait proposé une solution à cette énigme. Il avait forgé une notion permettant de rompre 
+avec une vision trop humaine de l'intelligence des insectes : la " stigmergie ", qui désigne 
+le fait d'agir sous l'effet d'un aiguillon. En étudiant le comportement bâtisseur des termites, 
+l'entomologiste s'était en effet aperçu qu'au cours de la construction chaque comportement 
+individuel était dicté par le résultat de l'opération précédente. La coopération entre les 
+insectes semblait commandée non par la communication, mais par la structure même du 
+nid.</TEXT>
+<TEXT>
+  Cette hypothèse, révolutionnaire mais souvent négligée par les spécialistes du 
+comportement animal, vient de recevoir une nouvelle illustration grâce aux travaux de Guy 
+Théraulaz, du laboratoire d'éthologie et psychologie animale (CNRS) à Toulouse, et d'Eric 
+Bonabeau, du Centre national d'études des télécommunications (CNET) de Lannion, 
+#présentés dans la revue Science et dans un article à paraître dans le Journal of Theoretical 
+Biology.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ CATALOGUE RESTREINT</TEXT>
+<TEXT>
+</TEXT>
+<TEXT>
+ La démonstration est spectaculaire : l'éthologiste et l'ingénieur ont joint leurs 
+compétences pour modéliser les différentes phases de construction de nids de guêpes. Un 
+ordinateur crée un espace en trois dimensions, au sein duquel une vingtaine de guêpes, 
+figurées par de petits cubes, se déplacent au hasard. Ces dernières n'ont qu'une perception 
+réduite du milieu où elles évoluent, explique Eric Bonabeau. " Par convention, lorsqu'elles 
+rencontrent une certaine configuration de cet environnement, elles déposent des briques, 
+qui s'agglomèrent pour former, dans certaines conditions, des modules particuliers. " Le 
+point de départ est invariablement un pédicule, qui relie le nid à une branche d'arbre 
+imaginaire. Puis, brique après brique, des plateaux, des étages ou même des escaliers 
+spiralés se forment sur l'écran.</TEXT>
+<TEXT>
+  Pour aboutir à des formes qui correspondent à celles rencontrées dans la nature, il a fallu 
+sélectionner quelques règles une quarantaine parmi plusieurs milliards de milliards de 
+combinaisons. Un casse-tête résolu par Guy Théraulaz, qui est parti de nids terminés pour 
+imaginer les règles ayant permis leur élaboration. " Le modèle est purement déterministe 
+", insiste Eric Bonabeau. C'est-à-dire que tout comportement est directement dicté par un 
+système de stimuli-réponse trivial.</TEXT>
+<TEXT>
+  Si l'évolution n'a retenu qu'un nombre limité de formes, c'est sans doute non seulement 
+parce que celles-ci étaient adaptées à la survie des colonies, mais aussi parce qu'il n'existe 
+en définitive que quelques structures stables dont la construction est commandée par un 
+petit nombre de règles. Les guêpes virtuelles de Théraulaz et Bonabeau ont déjà construit 
+plus d'un million de nids, mais le répertoire des formes " intéressantes " le plus souvent 
+modulaires ne dépasse pas la douzaine. Les deux chercheurs ont donc mis au point un 
+algorithme génétique, censé s'améliorer au fil des générations, pour mieux cerner cette " 
+logique universelle, qui ordonne un catalogue de formes restreint ", comme l'indique Guy 
+Théraulaz. " Mais ce modèle n'est qu'un écrémage de la réalité ", reconnaît Eric 
+Bonabeau. Reste à découvrir les règles physiques, et non plus purement logiques, qui sont 
+à l'oeuvre dans les colonies animales.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ ROBOTS INSECTO"IDES</TEXT>
+<TEXT>
+</TEXT>
+<TEXT>
+ Ce physicien éclectique a demandé son transfert dans le laboratoire de Guy Théraulaz, où 
+il compte assouvir sa fascination pour les termites, et vérifier certaines hypothèses 
+concernant l'intelligence distribuée. " Peut-être faudra-t-il à l'avenir s'inspirer de la façon 
+dont la nature calcule, s'interroge-t-il. Abandonner la notion de contrôle centralisé, qui est 
+à la base de nos systèmes d'information, et lui préférer celle d'autonomie et d'adaptabilité, 
+telle qu'elle est à l'oeuvre chez les insectes sociaux. "</TEXT>
+<TEXT>
+  Certains l'ont précédé dans cette démarche. Tel Jean-Louis Deneubourg, pionnier de 
+cette discipline hybride, qui, au département d'écologie comportementale théorique de 
+l'Université libre de Bruxelles, a étudié le comportement d'essaims de " robots-jouets ". 
+De conception rustique, ceux-ci reçoivent des instructions simples : s'emparer d'un objet 
+lorsqu'il est isolé, le déposer lorsqu'il y en a plusieurs à proximité. Livré à lui-même, 
+l'essaim de petits automates finit par regrouper des objets dispersés dans une pièce. Chez 
+ces " insectoïdes ", l'ordre a émergé de lui-même, sans que les robots aient besoin d'un 
+système complexe de communication. Ces phénomènes d'auto-organisation se retrouvent 
+dans des modèles mathématiques où les automates cellulaires de von Neumann. Certains 
+considèrent qu'ils sont à l'oeuvre dans la régulation du système immunitaire, au sein des 
+souches de lymphocytes.</TEXT>
+<TEXT>
+  Les applications les plus évidentes ? Substituer à un mode de coopération centralisé, dont 
+la gestion devient vite inextricable à mesure que le nombre des agents croît, une 
+intelligence artificielle distribuée, qui fait appel à des robots robustes et peu onéreux. Jean-
+Louis Deneubourg étudie un tel procédé pour le tramway bruxellois.</TEXT>
+</DOC>

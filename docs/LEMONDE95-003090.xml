@@ -1,0 +1,85 @@
+<DOC>
+<DOCNO>LEMONDE95-003090</DOCNO>
+<DOCID>LEMONDE95-003090</DOCID>
+<ACCOUNT>370411</ACCOUNT>
+<GENRE>ENTRETIEN</GENRE>
+<CHA1>1</CHA1>
+<DATE>19950126</DATE>
+<LMDOC>DRX</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q250195/1554</FAB>
+<SUBJECTS>CODAGE,REGLEMENT,SYSTEME DE SECURITE,LOGICIEL,TECHNOLOGIE AVANCEE</SUBJECTS>
+<NOM1>VINCENT CARREFOUR JACQUES</NOM1>
+<NUM1>950126-24</NUM1>
+<NAMES>PRETTY GOOD PRIVACY</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-024-34</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>MORIN HERVE</AUTHOR>
+<SIP1> PROPOS RECUEILLIS PAR HERVE MORIN</SIP1>
+<SU21>Jacques Vincent-Carrefour / Délégué interministériel pour la sécurité des systèmes d'information</SU21>
+<PAGE>1</PAGE>
+<TITLE>" Nous sommes dans une phase d'observation des nouvelles technologies numériques "</TITLE>
+<TEXT> " LA CRYPTOLOGIE reste un domaine hautement confidentiel...</TEXT>
+<TEXT>
+ C'est que pendant longtemps elle a été un monopole d'Etat. Jules César chiffrait ses 
+communications, et le chiffrement a d'abord été un moyen de communication réservé aux 
+armées et aux ambassades. Mais vers le début des années 70 aux Etats-Unis puis des 
+années 80 en France, des besoins nouveaux sont apparus dans le secteur privé, avec le 
+développement de l'information électronique : une demande de protection dans le secteur 
+bancaire pour les opérations financières et dans les télécommunications, pour les liaisons 
+radio, terreau d'indiscrétions naturelles, a émergé.</TEXT>
+<TEXT>
+  Avant 1990, la cryptologie était considérée comme matériel de guerre, jusqu'à ce qu'une 
+loi en libère l'usage pour toute une série d'applications, notamment des signatures 
+électroniques.</TEXT>
+<TEXT>
+  Cette réglementation s'appuie sur un régime de déclaration préalable pour 
+l'authentification ou l'intégrité des messages transmis, et sur un régime d'autorisation pour 
+" tous les autres cas ", c'est-à-dire la confidentialité des données, la protection du contenu 
+de l'information elle-même, qu'elle soit transmise ou stockée. Ces règles constituent un 
+compromis entre exigences industrielles, droit des personnes à la confidentialité et sécurité 
+de l'Etat.</TEXT>
+<TEXT>
+ L'arrivée du tout-numérique, qui pourrait faciliter des communications clandestines 
+incontrôlables, de type mafieux ou terroriste, ne remet-elle pas en question cette 
+réglementation ?</TEXT>
+<TEXT>
+  Le développement du numérique a effectivement deux conséquences : il offre une 
+meilleure confidentialité que l'analogique et il permet de développer des systèmes de 
+cryptage plus efficaces. Mais la loi reste adaptée. Dans le secteur des téléphones 
+cellulaires numériques de type GSM, les opérateurs français ont obtenu l'autorisation de 
+crypter les communications et les méthodes de cryptage ont été examinées par notre 
+service technique. Des dispositions sont prises pour permettre l'intervention d'un juge en 
+cas de besoin.</TEXT>
+<TEXT>
+  C'est plus l'irruption de nouvelles pratiques, à base d'échanges sous forme électronique, 
+qui pose problème. L'apparition des réseaux, des futures autoroutes de l'information, 
+augmente le nombre d'opérateurs et aboutit à une grande opacité. Les entreprises ne 
+savent pas encore très bien comment appréhender ce phénomène et la délégation en est 
+encore à un stade d'observation.</TEXT>
+<TEXT>
+  Dès lors qu'une technologie apparaît, comme Pretty Good Privacy, un logiciel de cryptage 
+quasi inviolable diffusé depuis les Etats-Unis sur le réseau Internet, et que les simples 
+particuliers peuvent mettre en oeuvre, le contrôle policier des communications ne devient-il 
+pas illusoire ?</TEXT>
+<TEXT>
+  Il est évident que certains vont utiliser ces moyens à des fins que la loi réprouve, tout 
+comme il est possible de fabriquer un explosif chez soi. On ne peut mettre un policier 
+derrière chaque citoyen. Il faut arriver à éviter des détournements systématiques et à 
+réduire le crime organisé.</TEXT>
+<TEXT>
+  Celui-ci ne risque-t-il pas d'utiliser des modes de communication transfrontaliers et de 
+profiter des réglementations européennes les plus laxistes ?</TEXT>
+<TEXT>
+  On retrouve là le problème plus général du contrôle des exportations. Mais ce n'est pas 
+parce qu'il peut y avoir des trous dans le dispositif qu'il faut le supprimer. La France reste 
+souveraine sur son territoire national et les objectifs que nous poursuivons sont partagés 
+par de nombreux pays.</TEXT>
+<TEXT>
+  La principale parade reste la prévention : en matière de piratage informatique, on 
+s'aperçoit que, dans la majorité des cas, la mise en oeuvre des protections existantes aurait 
+suffi à éviter la fraude. Chaque type de protection doit en outre faire l'objet d'une étude 
+approfondie. J'en veux pour exemple le système utilisé aux Etats-Unis de reconnaissance 
+des empreintes digitales : le grand banditisme n'a pas hésité à couper des doigts... "</TEXT>
+</DOC>

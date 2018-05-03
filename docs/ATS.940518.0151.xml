@@ -1,0 +1,164 @@
+<DOC>
+<DOCID>ATS.940518.0151</DOCID>
+<DOCNO>ATS.940518.0151</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940518
+</DT>
+<PT>
+082200
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<RC>
+ec
+</RC>
+<OC>
+ecf
+</OC>
+<DE>
+ecpi ecps c5swi ecpb
+</DE>
+<AU>
+al
+</AU>
+<KW>
+suisse informatique paiement par carte
+</KW>
+<TI>
+Les lecteurs électroniques de cartes en plein essor Les consommateurs
+continuent à préférer l'argent liquide.
+</TI>
+<LD>
+Berne, 17 mai (sim) Le consommateur qui fait ses achats au moyen d'argent
+liquide doit supporter certains inconvénients. Les pièces et les billets ne
+rapportent pas d'intérêts dans le portemonnaie. Ils doivent être retirés à la
+poste ou à la banque. Ils peuvent être volés.
+</LD>
+<TX>
+Depuis quelques années, certains magasins offrent une alternative avec des
+lecteurs électroniques qui permettent au client de payer directement avec sa
+carte de débit. Statistiquement, trois Suisses sur quatre pourraient utiliser
+aujourd'hui ce système, mais bien peu le font, en réalité.
+</TX>
+<TX>
+Le système de paiement sans argent EFT/POS ("Electronic Fund Transfer at
+Point of Sale") comprend un terminal dans lequel le client introduit sa carte
+magnétique ou à puce. Sur le clavier, il compose son code personnel, comme
+pour retirer de l'argent au bancomat ou au postomat. A la différence du
+paiement avec une carte de crédit, le montant est transféré immédiatement du
+compte du client à celui du commerçant.
+</TX>
+<ST>
+EC et Postcard
+</ST>
+<TX>
+Les systèmes modernes acceptent plusieurs types de cartes. Les cartes "ec"
+des banques et les "Postcard" des PTT sont les plus nombreuses en
+circulation, avec un total dépassant 3 millions. Ce sont des cartes de débit,
+par opposition aux pures de cartes de crédit qui ne permettent pas de retirer
+de l'argent aux automates ou de payer électroniquement.
+</TX>
+<TX>
+Le système EFT/POS a été introduit rapidement par les grands distributeurs. A
+fin 1993, Coop avait équipé 116 points de vente avec quelque 750 appareils,
+sur ses 1600 magasins. Ces terminaux ont été utilisés 1,5 million de fois,
+mais n'ont rapporté que 7 % du chiffre d'affaires.
+</TX>
+<ST>
+Résultats décevants
+</ST>
+<TX>
+"C'est décevant", tel est le commentaire de Christoph Baumgartner, chef du
+projet EFT/POS chez Coop Suisse, à propos de ces chiffres.  "On devrait
+atteindre 30 %, pour que cela vaille la peine." La gestion de l'argent
+électronique coûte moins cher que l'argent liquide. "Nous offrons cette
+prestation parce que le client la réclame."
+</TX>
+<TX>
+Le système n'est pas contesté au sein de Coop: "EFT/POS est fondamentalement
+un produit stratégique pour nous. Le trafic des paiements électronique va se
+développer à l'avenir", déclare M. Baumgartner. Cette affirmation est
+confirmée par les résultats de Telekurs qui traite une grande partie des
+factures EFT/POS pour les banques.
+</TX>
+<TX>
+En 1993, le nombre de commerces reliés au système a augmenté de 85 ' pour
+atteindre 5866. Leurs 7096 caisses ont enregistré pour 1,6 milliard de francs
+d'achats, soit une hausse de 103 %.
+</TX>
+<ST>
+Pour les gros achats
+</ST>
+<TX>
+"Nous prévoyons à long terme un parc comprenant de 20 000 à 30 000 caisses.
+C'est un des secteurs de croissance les plus importants pour nous", assure
+Bernhard Wenger de Telekurs. "95 % des Suisses sont encore attachés au
+paiement comptant, c'est une question d'adaptation ". Les PTT sont le second
+opérateur du système EFT/POS.
+</TX>
+<TX>
+Le Suisse moyen recourt surtout au paiement électronique pour de gros achats.
+Le montant moyen dans les statistiques de Telekurs atteint 182 francs. "Il ne
+faut pas forcer la main au consommateur", déclare Margrit Krüger, présidente
+du Forum suisse des consommatrices, pour expliquer les réticences des gens.
+"De nombreux consommateurs, même parmi les jeunes, sont conservateurs."
+</TX>
+<ST>
+Craintes des consommateurs
+</ST>
+<TX>
+L'argent du compte n'est pas employé pour les besoins courants.  L'argent
+liquide conservé à la maison doit couvrir les dépenses du mois. La protection
+des données nourrit les inquiètudes des consommmateurs qui redoutent aussi de
+se trouver en situation délicate en cas d'utilisation abusive de leur carte.
+</TX>
+<TX>
+Nombreuses sont les petites et moyennes entreprises qui reculent encore
+devant l'acquisition de l'équipement - l'installation des terminaux EFT/POS
+est onéreuse. "Ce n'est pas un système bon marché", explique Erich Gerber,
+chef des ventes chez Ascom. Une station revient entre 3500 et 7500 francs.
+</TX>
+<TX>
+Des exigences de sécurité particulièrement élevées rendent le système suisse
+plus cher que ses homologues étrangers. Les appareils doivent être sans cesse
+adaptés à de nouveaux formats de cartes ou à de nouvelles procédures de
+traitement. "L'acquéreur de l'appareil supporte tous ces frais", selon M.
+Gerber.
+</TX>
+<ST>
+Le coût du paiement en espèces
+</ST>
+<TX>
+Les organismes émetteurs des cartes, c'est-à-dire les banques et les PTT, en
+sont les principaux bénéficiaires, indique M. Gerber. "Un paiement en espèces
+entraîne des coûts énormes, ce qui favorise le système EFT/POS." En outre,
+l'argent liquide ne rapporte pas d'intérêts. Selon les données de la Banque
+nationale suisse (BNS), 30 milliards de francs environ circulaient en liquide
+au mois d'avril en Suisse.
+</TX>
+<TX>
+Sur ce montant, on estime que la population porte sur elle en permanence
+quelque 2 à 3 milliards. L'introduction d'un système de paiement électronique
+ne devrait pratiquement pas réduire le montant des billets et des pièces en
+circulation. "L'argent liquide est le seul moyen de paiement dont on dispose
+vraiment gratuitement", explique Werner Abegg, porte-parole de la BNS, qui ne
+croit pas à sa disparition dans un avenir prévisible. En outre, la monnaie
+physique constitue le seul moyen de paiement reconnu par la loi.
+</TX>
+<TX>
+fiche séparée suit Note aux rédactions: Ce texte a été produit avec le
+soutien d'IBM (Suisse). L'indépendance rédactionnelle de l'ATS dans le choix
+et le traitement des sujets est garantie. Merci, en cas de publication,
+d'utiliser la signature (sim) ou (sim/ats), et non (ats).
+</TX>
+</DOC>

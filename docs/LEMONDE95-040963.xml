@@ -1,0 +1,121 @@
+<DOC>
+<DOCNO>LEMONDE95-040963</DOCNO>
+<DOCID>LEMONDE95-040963</DOCID>
+<ACCOUNT>421228</ACCOUNT>
+<CHA1>1</CHA1>
+<DATE>19951108</DATE>
+<LMDOC>BHL</LMDOC>
+<DOS>GEN,ECO</DOS>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q071195/0873</FAB>
+<NOTE>doc avec un dessin de Serguei</NOTE>
+<NUM1>951108-2-020-01</NUM1>
+<NAMES>MICROSOFT</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-020-01</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>ALBERGANTI MICHEL</AUTHOR>
+<SIP1> MICHEL ALBERGANTI</SIP1>
+<SU21>INFORMATIQUE &gt;</SU21>
+<SYE1>MICRO ORDINATEUR,INFORMATIQUE</SYE1>
+<PAGE>1</PAGE>
+<TITLE>Les ordinateurs apprennent à reconnaître la voix et l'écriture&gt;
+</TITLE>
+<TEXT> AVEC SON CLAVIER hérité des machines à écrire et sa souris à qui l'on reproche souvent sa lenteur, l'ordinateur d'aujourd'hui offre de piètres outils de 
+dialogue. Stimulée par son succès auprès d'un public de plus en plus large et donc de moins 
+en moins spécialisé , l'industrie informatique travaille pour améliorer la convivialité de ce 
+qu'elle nomme " l'interface utilisateur ", c'est-à-dire le moyen de communication entre 
+l'homme et la machine.</TEXT>
+<TEXT>
+  Numéro un incontesté du logiciel, Microsoft consacre une part importante de ses 
+dépenses de recherche et développement à la conception de nouvelles interfaces. Misant 
+sur la croissance constante de la puissance des microprocesseurs, l'éditeur américain 
+conçoit les logiciels qui, à moyen terme, rendront l'ordinateur plus " humain ". Windows 95, 
+son dernier système d'exploitation, va dans ce sens (Le Monde du 23 août). Il offre plus de 
+facilité que les versions précédentes pour lancer les programmes et classer les documents. 
+Mais il impose toujours le recours au clavier et à la souris. C'est dans l'espoir de réussir à 
+s'en passer un jour que, depuis quatre ans, Microsoft a mis en place plusieurs groupes de 
+recherche employant une centaine de personnes. Parmi les axes majeurs de leurs travaux, 
+on trouve la reconnaissance de la voix et la compréhension de l'écriture. La première 
+concerne d'abord le développement des interfaces vocales. Pour provoquer une action de 
+l'ordinateur, il suffit de prononcer un ordre : " fichier, ouvrir, imprimer... ". Déjà bien 
+avancée, cette étape se généralisera si les utilisateurs apprécient ce type de relation avec 
+la machine.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ MANQUE DE VOCABULAIRE</TEXT>
+<TEXT>
+ " Le but ultime est de pouvoir dicter à un ordinateur comme à une secrétaire ", explique 
+Nathan Myhrvold, vice-président en charge des applications. Cela éviterait la prise de 
+notes lors des réunions ou l'enregistrement sur magnétophone. Selon lui, les meilleurs 
+systèmes existants ont le défaut de " requérir une énorme puissance de calcul et de 
+manquer de vocabulaire ". L'offre actuelle va des systèmes comme celui d'IBM qui 
+imposent une prononciation indépendante des mots à ceux qui, plus performants, 
+requièrent des ordinateurs très coûteux. C'est pourquoi, note Nathan Myhrvold, la 
+reconnaissance de la parole n'est utilisée que " lorsqu'il est impossible de s'en passer ". 
+C'est le cas notamment des chirurgiens qui " dictent pendant une opération parce qu'ils ont 
+les mains occupées ". Le vocabulaire est alors " réduit à une liste de termes techniques " 
+et les systèmes actuels " fonctionnent raisonnablement bien ".</TEXT>
+<TEXT>
+  La reconnaissance d'un discours dans lequel on peut trouver n'importe quels mots est une 
+autre affaire. " Si je parle des ours polaires et du vin de Bordeaux, aucun système ne 
+pourra traduire ce que je dis ", estime Nathan Myhrvold. Sans parler du problème des 
+langues et des accents. Ces difficultés conduisent Microsoft à prévoir d'aboutir à un 
+système satisfaisant de reconnaissance de la parole " d'ici trois ans et plus probablement 
+cinq ans ". Son objectif n'est pas de fournir un outil indépendant, mais d'introduire cette 
+fonction " dans une gamme de produits ". Sachant que " la dictée généraliste restera 
+l'application la plus délicate ", l'éditeur américain commencera par appliquer cette 
+technologie à des domaines restreints.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ TRAITER DES EXCEPTIONS</TEXT>
+<TEXT>
+  " Une partie de la question est de définir le bon problème à résoudre ", note Nathan 
+Myhrvold. Le remplacement d'une secrétaire, l'un des objectifs de l'intelligence artificielle 
+et de ses " agents " informatiques est, à ce titre, un véritable casse-tête. En effet, les 
+secrétaires ne cessent de traiter des exceptions. Si les tâches standards ne posent pas de 
+gros problème, " dans la réalité, les choses ne se passent jamais normalement : la réunion 
+a du retard, le vol est annulé, etc. ", remarque-t-il. Pour lui, l'ordinateur restera " moins 
+efficace qu'une secrétaire pendant très longtemps encore ". En revanche, l'informatique 
+continuera à accroître son avantage sur l'être humain pour certaines tâches précises 
+comme, par exemple, la recherche d'information. Aussi Microsoft cherche-t-il à " créer des 
+outils pour augmenter l'efficacité des hommes plutôt que pour les remplacer ".</TEXT>
+<TEXT>
+#  Aujourd'hui, il existe déjà certains outils de ce type. Les agendas informatiques ou le 
+courrier électronique sont largement utilisés. " Mais ce sont des outils manuels qui ne 
+réfléchissent pas beaucoup et exécutent des travaux très précis, juge Nathan Myhrvold. 
+L'étape suivante consiste à les rendre semi-automatiques et un peu plus intelligents. "</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ LA STRUCTURE DU LANGAGE</TEXT>
+<TEXT>
+ Les travaux de Microsoft sur la " reconnaissance du langage naturel " vont dans ce sens. 
+Pour être capable de retrouver une information dans des bases de données de plus en plus 
+volumineuses, l'ordinateur va devoir reconnaître non seulement les mots mais aussi leur 
+sens. Or, souligne Nathan Myhrvold, " les traitements de texte actuels travaillent 
+essentiellement sur les caractères, peu sur les mots ". Il reste donc à concevoir des 
+logiciels qui maîtrisent la " structure du langage ". Si la dernière version de traitement de 
+texte de Microsoft, Word 7.0, dispose d'un " correcteur orthographique très efficace ", il 
+n'en va pas de même pour le correcteur grammatical, qui " peut encore faire de gros 
+progrès ".</TEXT>
+<TEXT>
+  Cette carence se retrouve dans l'exploitation des bases de données. Dans une 
+bibliothèque informatique, la difficulté réside dans l'identification des textes qui concernent 
+un sujet particulier et pas seulement de ceux qui contiennent un certain mot. " Si je cherche 
+tous les articles parus dans Le Monde depuis vingt ans et qui critiquent François 
+Mitterrand, j'aurai du mal à obtenir un résultat satisfaisant ", explique Nathan Myhrvold. 
+Afin d'y parvenir, les logiciels commencent à analyser les combinaisons des mots contenus 
+dans une même phrase. Ils repèrent ainsi celles qui contiennent à la fois des qualificatifs 
+négatifs et le mot " Mitterrand ".</TEXT>
+<TEXT>
+ Mais on reste loin de l'aptitude des documentalistes, capables non seulement de trouver 
+les articles répondant directement à la question, mais aussi ceux qui " peuvent être 
+intéressants pour éclairer un contexte donné ". A terme, Nathan Myhrvold estime 
+#cependant que les ordinateurs seront dotés d'une telle expertise. Si l'objectif n'est pas de 
+remplacer les secrétaires ou les documentalistes, on peut néanmoins prévoir une forte 
+évolution du métier de tout ceux qui bénéficieront d'une telle assistance informatique.</TEXT>
+</DOC>

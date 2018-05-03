@@ -1,0 +1,113 @@
+<DOC>
+<DOCNO>LEMONDE95-025364</DOCNO>
+<DOCID>LEMONDE95-025364</DOCID>
+<ACCOUNT>400912</ACCOUNT>
+<GENRE>TABLEAU</GENRE>
+<DATE>19950628</DATE>
+<LMDOC>EVB</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q270695/1558</FAB>
+<SUBJECTS>CARTE A MEMOIRE,SANTE,BANQUE,TELECOMMUNICATION,ANALYSE,CODAGE,SYSTEME DE SECURITE</SUBJECTS>
+<LIE1>950715-2-009-32</LIE1>
+<NOTE>DOC : texte avec un tableau.</NOTE>
+<NUM1>950628-2-020-37</NUM1>
+<NAMES>MORENO ROLAND,THOMSON,SIEMENS SEMI CONDUCTEUR</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-020-37</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>MORIN HERVE</AUTHOR>
+<SIP1>HERVE MORIN</SIP1>
+<SOT1>Les applications grand public des techniques de protection de données tardent à se développer</SOT1>
+<SU11>AUJOURD'HUI - SCIENCES</SU11>
+<PAGE>1</PAGE>
+<TITLE>Les cartes à puce résistent au cryptage</TITLE>
+<TEXT>  VINGT ANS APRÈS le coup de génie de son inventeur, Roland Moreno, et une décennie après son adoption par les banques françaises, la carte à puce 
+semble avoir atteint l'âge adulte. Télécarte, carte bancaire ou carte santé, elle a investi 
+toute une série de services. Les prévisions les plus optimistes estiment qu'on en vendra un 
+milliard annuellement dans le monde avant l'an 2000.</TEXT>
+<TEXT>
+  Cette vitalité, la carte la doit à sa capacité de s'affranchir du support papier pour " signer 
+" des échanges qui se font de plus en plus sur le mode électronique, infiniment plus rapide. 
+Mais, à mesure que ce type d'échanges numériques se développe, les contraintes de 
+sécurité assurer l'authenticité, l'intégrité, la confidentialité, la propriété des données 
+transmises se multiplient. C'est pourquoi la cryptographie, qui désigne l'ensemble des 
+méthodes permettant de coder et de décoder des données, a fait son entrée dans les 
+microprocesseurs.</TEXT>
+<TEXT>
+  Ces techniques, naguère réservées aux seuls militaires et diplomates, ont investi depuis 
+une vingtaine d'années les secteurs bancaire et industriel. Succédant au support 
+magnétique, très vulnérable, la puce électronique a été au coeur de cette évolution. Selon 
+l'éternel conflit entre l'arme et la cuirasse, leurs promoteurs ont offert des garanties 
+toujours meilleures à mesure que les fraudeurs affinaient leurs techniques de 
+détournement de données.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ L'ÉCHEC DES CARTES SANTÉ</TEXT>
+<TEXT>
+  Les premiers microprocesseurs autorisant le cryptage ont été mis au point il y a déjà 
+presque quatre ans. Ils coûtent encore deux fois plus cher que les puces classiques. Et bien 
+qu'ils se prêtent tout particulièrement à plusieurs applications prometteuses télévision à 
+péage, carte d'assuré social, téléphone mobile et codage des échanges numériques ils 
+n'ont, pour l'heure, rencontré qu'un faible succès, ont reconnu leurs principaux 
+concepteurs, réunis récemment à Saint-Malo (Ille-et-Vilaine), à l'occasion du Salon 
+Eurocrypt-95.</TEXT>
+<TEXT>
+ " Les techniciens proposent, la société dispose " pourrait être leur devise. Le quasi-échec 
+des cartes santé, dont les promoteurs espéraient qu'elles faciliteraient la suppression des 
+800 millions de feuilles de soin dont la gestion coûte chaque année 15 milliards de francs à 
+la collectivité, en est l'illustration. Divers systèmes ont été testés, à Boulogne-sur-Mer et à 
+Saint-Nazaire, depuis le début des années 90 (Le Monde du 26 septembre 1991). Mais la 
+généralisation de ces cartes, que la cryptographie promet de rendre muette à tout autre 
+qu'au médecin traitant et aux services de la Sécurité sociale, paraît bien hypothétique. " 
+Les gains de productivité escomptés risquent d'être créateurs de chômage ", résume 
+Roland Moreno. Par ailleurs, cette carte faciliterait les procédures de remboursement ; 
+certains craignent l'apparition d'un effet pervers rédhibitoire : le gonflement des dépenses 
+de santé.</TEXT>
+<TEXT>
+  Le cryptage des données échangées par télécopie le moins " discret " des modes de 
+télécommunication électronique ne paraît pas plus brillant. De l'aveu même de 
+responsables de Siemens Semiconducteur, qui commercialise un système à carte de 
+#brouillage des données transmises entre deux fax, ce service (qui coûte plus de 15 000 
+francs) n'intéresse guère que la diplomatie. En revanche, Philips est plus confiant dans sa 
+carte DX, qui devrait permettre de sécuriser les échanges de données entre les banques et 
+leurs filiales, ainsi qu'entre les directions générales des impôts et leurs organismes relais. 
+Mais Thomson, qui a également développé une puce dédiée à la cryptologie, n'y voit 
+encore que des applications de démonstration.</TEXT>
+<TEXT>
+  Autre application possible, le porte-monnaie électronique (PME) tarde, lui aussi, à 
+décoller. Il est vrai que le lancement de cette carte anonyme rechargeable et, en principe, 
+infalsifiable, nécessitera un effort d'équipement de la part des commerçants. En France, 
+seule La Poste mise sur ce moyen de paiement de petites sommes. Mais tous ses aspects 
+techniques n'ont pas été résolus et les risques d'apparition d'une fausse monnaie 
+électronique ne sont pas minces.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ SCIENCE INARBITRABLE</TEXT>
+<TEXT>
+ " La cryptographie n'est pas une science arbitrable, indique Roland Moreno. Les 
+spécialistes passent leur temps à tenter de ``craquer`` le système du voisin. Rien ne 
+permet donc d'affirmer qu'un codage est entièrement sûr et qu'il le restera. " En France, où 
+la carte bancaire classique est largement répandue et déjà utilisée pour le paiement de 
+petites sommes péage autoroutier, communications téléphoniques facturées en fin de mois 
+le PME pourrait bien être mort-né.</TEXT>
+<TEXT>
+  Les réseaux bancaires feront-ils appel aux puces cryptographiques ? Rien n'est moins 
+sûr. Les puces actuelles offrent déjà de bonnes garanties de sécurité pour un coût inférieur. 
+De plus, si la cryptocarte est capable de changer de code toutes les 500 millisecondes, 
+l'utilisateur continuera, pour sa part, à n'employer qu'un code invariable de quatre chiffres. 
+Tant que les techniques de biométrie (reconnaissance vocale, empreintes...) ne seront pas 
+applicables aux cartes à puce, le maillon faible l'être humain sera toujours aussi vulnérable 
+qu'aujourd'hui. La meilleure parade contre le vol de la carte, et du code que beaucoup 
+d'imprudents continuent à conserver dans leur porte-monnaie, passera par une procédure 
+d'opposition rapide.</TEXT>
+<TEXT>
+  A court terme, c'est la télévision à péage et le système de pay perview (payer pour voir), 
+qui offre les meilleurs débouchés pour les cartes cryptographiques. Une sorte de retour aux 
+sources, puisque les premières recherches sur ce type de carte ont débuté en 1977 au 
+Centre commun d'études des télécommunications et de télédiffusion de Rennes. Canal Plus 
+ayant opté pour un décodeur, la carte a manqué sa première chance. Mais les industriels 
+espèrent bien prendre leur revanche à l'occasion de la floraison annoncée de bouquets de 
+chaînes à péage.</TEXT>
+</DOC>

@@ -1,0 +1,94 @@
+<DOC>
+<DOCNO>LEMONDE94-000152-19940302</DOCNO>
+<DOCID>LEMONDE94-000152-19940302</DOCID>
+<ACCOUNT>326535</ACCOUNT>
+<CHA1>Industriels et chaînes d'Europe ont défini en commun les normes de diffusion numérique par câble et satellite. La question du contrôle d'accès reste à régler, alors que s'ébauchent les alliances.</CHA1>
+<DATE>19940302</DATE>
+<LMDOC>MHB</LMDOC>
+<SUBJECTS>NORMALISATION,TELEVISION,TELEVISION NUMERIQUE,TELEVISION CABLEE,CODAGE</SUBJECTS>
+<FAB>03011810</FAB>
+<NUM1>940302-2-010-07</NUM1>
+<NAMES>DIGITAL VIDEO BROADCASTING,CEE</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-010-07</REFERENCE1>
+<SEC1>COM</SEC1>
+<AUTHOR>COLONNA D'ISTRIA MICHEL</AUTHOR>
+<PAGE>144</PAGE>
+<TITLE>Les travaux du groupe Digital Video Broadcasting&gt; La télévision numérique européenne cherche des clés</TITLE>
+<TEXT>Le projet européen DVB (Digital Video Broadcasting) regroupe, depuis septembre 1993, la plupart des industriels, opérateurs de satellite 
+et de réseaux ou chaînes intéressés par la télévision numérique (le 
+Monde des 12-13 septembre). Réuni le mardi 1er mars, son comité 
+directeur devait notamment entériner les spécifications techniques 
+élaborées par ses groupes de travail pour la diffusion de télévision 
+numérique par câble. Le même travail a déjà été fait pour la 
+diffusion par satellite, et adopté en décembre. Avec ces éléments, 
+une future norme européenne de télévision numérique prend donc forme. 
+L'image de départ (la " source " du signal) répondra aux normes 
+MPEG2, mises au point mondialement ; sa modulation (pour le 
+transport) se pliera, pour l'Europe, au consensus établi par le 
+projet DVB. La plus grande compatibilité possible a été recherchée 
+entre les modulations câble et satellite, en vue d'allier au mieux 
+les deux systèmes de diffusion. Une grande variété de débits 
+d'information sera possible, et donc toute la gamme des formats 
+d'image. Un seul canal actuel du câble, par exemple, pourra véhiculer 
+soit deux images de haute définition au nouveau format 16/9, soit 
+plusieurs images de qualité intermédiaire à ce même format, soit 
+enfin jusqu'à une dizaine de programmes d'une qualité équivalente aux 
+normes actuelles.</TEXT>
+<TEXT>
+  Avec le signal (la " source ") et les modulations à employer, le 
+projet DVB a donc fixé le cadre général dans lequel les industriels 
+pourront fabriquer les " boîtes " qu'il faudra rajouter dans ou hors 
+des téléviseurs pour les adapter à cette TV numérique. Mais le projet 
+n'est pas terminé. La plupart des nouveaux services seront, en effet, 
+payants. Il faut donc fixer sur quelles bases s'effectuera 
+l'embrouillage (le cryptage) du signal, et le contrôle d'accès (qui a 
+le droit de regarder tel ou tel programme ?). </TEXT>
+<TEXT>
+  L'objectif général est évidemment d'éviter l'empilement de boîtiers 
+incompatibles chez le consommateur. Pour cela, plusieurs hypothèses 
+sont envisageables. La première consisterait à tout normaliser. Mais 
+elle semble écartée, car les diffuseurs privés y sont farouchement 
+opposés. Ils invoquent le risque de sécurité (un tel système, public 
+par définition, serait, selon eux, plus facile à pirater) et les 
+inconvénients commerciaux.</TEXT>
+<TEXT>
+ La seconde solution consisterait à imposer des " décodeurs " avec 
+deux ou trois systèmes de contrôle d'accès (concrètement, deux ou 
+plusieurs lecteurs de cartes à puce). Elle permettrait de s'assurer 
+que le marché est bien ouvert, en faisant jouer la concurrence, et, 
+par exemple, en imposant qu'un des systèmes soit public. La troisième 
+solution, baptisée " simulcrypt ", consisterait à placer dans le 
+signal plusieurs " clés " numériques (ce que les spécialistes 
+appellent les ECM, ou mots de contrôle du cryptogramme) qui indiquent 
+au décodeur la façon de désembrouiller le signal, et donc de livrer 
+une image en clair.</TEXT>
+<TEXT>
+  Le simulcrypt a un avantage pour les diffuseurs qui possèdent leur 
+propre parc de décodeurs, comme Canal Plus actuellement : une chaîne 
+qui veut être diffusée sur ce parc doit passer un accord avec le 
+propriétaire, qui garde ainsi un certaine maîtrise de son " bassin " 
+d'audience. De plus, le simulcrypt permettrait plus facilement de 
+créer des " familles " de cryptage. Or, c'est un atout important pour 
+offrir le moins de prise possible au piratage, en ayant constamment 
+la possibilité de faire évoluer les algorythmes.</TEXT>
+<TEXT>
+  Les experts en cryptologie _ l'école de mathématiciens israéliens 
+s'est taillée une réputation mondiale en la matière _ étudient 
+actuellement toutes ces questions, et leur faisabilité industrielle. 
+Car au-delà d'un embrouillage commun, qui semble inéluctable, et de 
+la question du controle d'accès qui reste à trancher, le coût de 
+production des décodeurs sera l'un des facteurs majeurs de la 
+rapidité d'introduction, et donc du succès de la télévision 
+numérique.</TEXT>
+<TEXT>
+  Déjà s'ébauchent les alliances pour cette nouvelle forme de 
+distribution d'images. En Allemagne, Bertelsmann, Kirch et Deutsche 
+Telekom ont signé le 25 février la création d'un consortium, Media 
+Service GmbH, qui distribuera et gérera programmes numériques et 
+télécommunications. Ce consortium basé à Berlin veut servir " tous 
+les clients sur une base neutre " et laisse ouvert son capital à 
+d'autres actionnaires. Avant même que les clés de la télévision 
+numérique soient dessinées, certains sont prêts à les porter.&lt;
+</TEXT>
+</DOC>

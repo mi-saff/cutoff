@@ -1,0 +1,130 @@
+<DOC>
+<DOCID>ATS.940628.0150</DOCID>
+<DOCNO>ATS.940628.0150</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940628
+</DT>
+<PT>
+090000
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<RC>
+ec
+</RC>
+<OC>
+ecf
+</OC>
+<DE>
+ecps for
+</DE>
+<AU>
+al rp
+</AU>
+<KW>
+suisse ordinateurs a neurones eclairage
+</KW>
+<TI>
+L'ordinateur à l'image du cerveau humain Les réseaux de neurones font leurs
+preuves éclairage par David Rosenthal.
+</TI>
+<LD>
+Berne, 28 juin (sim) Un ordinateur a été le premier à découvrir la
+supercherie. Les deuxième et troisième actes d'"Henri VI" n'ont pas été
+écrits par William Shakespeare mais par son contemporain Christopher Marlowe.
+Deux chercheurs britanniques ont soumis les deux textes à un "réseau de
+neurones" qui a mis en évidence les différences de style.
+</LD>
+<TX>
+Aujourd'hui, ces démonstrations spectaculaires de l'intelligence articielle
+ne se limitent plus à la recherche scientifique. Les réseaux de neurones sont
+utilisés de plus en plus pour des applications commerciales.
+</TX>
+<TX>
+Les réseaux de neurones sont des ordinateurs et des programmes capables de
+"raisonner" comme le cerveau humain, car leur architecture en est inspirée.
+Ils disposent notamment de facultés d'apprentissage. Les chaînes de
+commutation au sein de leurs processeurs reproduisent les liaisons entre les
+cellules nerveuses: elles se forment progressivement, en fonction de
+l'expérience accumulée.
+</TX>
+<ST>
+Diagnostic médical
+</ST>
+<TX>
+Ces systèmes sont utilisés en général pour traiter des volumes considérables
+de données. Récemment, un ophtalmologue danois a développé un système capable
+de détecter des maladies de la cornée à partir d'images digitalisées. Ses
+facultés d'apprentissage rendent ce programme toujours plus performant.
+Lorsqu'un symptôme a été identifié correctement, la chaîne de commutation
+correspondante est renforcée. En cas d'erreur, elle est affaiblie.
+</TX>
+<TX>
+Les réseaux de neurones sont plus souples que les ordinateurs traditionnels.
+Un système capable de lire un texte imprimé reconnaît aussi des caractères
+qui diffèrent de la police chargée dans sa mémoire. Le réseau de neurones
+apprend, en effet, à s'attacher à certaines caractérisques, sans se limiter à
+comparer chaque point.
+</TX>
+<ST>
+Identification des visages
+</ST>
+<TX>
+De nombreux programmes de reconnaissance de textes font appel à la technique
+des réseaux de neurones. Un groupe japonais a inventé une puce capable de
+lire 1600 caractères imprimés à la seconde. Les systèmes de compréhension de
+la parole, permettant de la traduire en instructions pour ordinateur ou en
+texte, reposent sur le même principe.
+</TX>
+<TX>
+Les réseaux de neurones trouvent aussi des applications dans les techniques
+de sécurité. Un ordinateur a été présenté récemment aux Etats-Unis pour
+l'identification des visages. Selon le constructeur, le taux de réussite
+atteint 99 % et n'est pas affecté par des lunettes ou une nouvelle coupe de
+cheveux.
+</TX>
+<TX>
+Les sociétés de cartes de crédit utilisent des réseaux de neurones pour
+analyser les habitudes de leurs clients. Lorsqu'une carte servant normalement
+pour de petits montants est présentée à Hong Kong pour acheter des bijoux
+pour plusieurs milliers de francs, l'ordinateur flaire la fraude et bloque la
+transaction.
+</TX>
+<ST>
+Lire et distribuer les faxes
+</ST>
+<TX>
+En bureautique, des programmes à réseaux de neurones se chargent, par
+exemple, de lire les faxes qui arrivent et de les envoyer directement à leurs
+destinataires, sur leur PC. D'autres systèmes gèrent les archives en classant
+les textes selon les thèmes traités.
+</TX>
+<TX>
+Si ces applications sont nouvelles, les premières expériences mettant en
+oeuvre des réseaux de neurones ont eu lieu à la fin des années 50. Il a fallu
+attendre la technique des processeurs parallèles, quelques décennies plus
+tard, pour disposer des capacités de calcul indispensables.
+</TX>
+<TX>
+Aujourd'hui, les fabricants promettent des réseaux capables d'effectuer 20
+000 milliards d'opérations et 50 milliards de procédures d'apprentissage à la
+seconde. Des performances sans commune mesure avec celles du cerveau humain.
+</TX>
+<TX>
+Note aux rédactions: Ce texte a été produit avec le soutien d'IBM (Suisse).
+L'indépendance rédactionnelle de l'ATS dans le choix et le traitement des
+sujets est garantie. Vous recevez un texte SIM/Informatique tous les quinze
+jours. Merci, en cas de publication, d'utiliser la signature (sim) ou
+(sim/ats), et non (ats).
+</TX>
+</DOC>

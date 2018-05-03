@@ -1,0 +1,135 @@
+<DOC>
+<DOCID>ATS.950124.0150</DOCID>
+<DOCNO>ATS.950124.0150</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+950124
+</DT>
+<PT>
+085900
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+c5swi ecps comt prod
+</DE>
+<AU>
+jn al
+</AU>
+<KW>
+suisse informatique imprimantes eclairage
+</KW>
+<TI>
+Du jet d'encre au laser: Les imprimantes couleur à la portée de toutes les
+bourses éclairage par Alain Graber, SIM-Informatique.
+</TI>
+<LD>
+Berne, 24 jan (sim) Imprimer un document en couleur a longtemps été un rêve
+inaccessible pour l'utilisateur d'un ordinateur. Aujourd'hui, la couleur est
+à la portée de toutes les bourses. Le prix d'une imprimante à jet d'encre
+couleur se situe, selon la marque et le modèle, entre 700 et 1200 francs pour
+le format A4.
+</LD>
+<TX>
+Les grands formats demeurent réservés, par leur prix, aux professionnels tels
+que graphistes, architectes, ingénieurs. Le A3, par exemple, coûte trois à
+quatre fois plus cher que le A4, pour un doublement de la surface de la
+feuille.
+</TX>
+<ST>
+Plus ou moins 1000 francs
+</ST>
+<TX>
+En Suisse, l'imprimante couleur à jet d'encre la plus vendue pour le format
+A4 est proposée pour moins de 1000 francs. Elle offre une résolution de 360
+points par pouce et un très bon rapport qualité- prix. Pour un peu plus de
+mille francs, il est possible d'obtenir une imprimante à résolution double,
+soit 720 points par pouce.
+</TX>
+<TX>
+D'une manière générale, la vitesse d'impression des imprimantes à jet d'encre
+couleur reste relativement lente. En outre, les grands à- plats de couleur
+font gondoler le papier. Ces inconvénients peuvent être évités en utilisant
+des trames plus légères que les couleurs pures et en choisissant un papier de
+meilleure qualité.
+</TX>
+<ST>
+Frais d'entretien modérés
+</ST>
+<TX>
+Comparativement à d'autres imprimantes, comme les imprimantes à laser ou à
+transfert thermique, les modèles à jet d'encre nécessitent un entretien
+réduit. Implicitement, les frais d'utilisation sont moindres. Les cartouches
+de recharge coûtent, en général, de 30 à 50 francs, selon les modèles.
+</TX>
+<TX>
+Bizarrement, il n'existe pratiquement aucun modèle entre les imprimantes
+d'entrée de gamme de type jet d'encre et celles de haut de gamme, comme les
+nouvelles imprimantes à laser, à thermotransfert ou à sublimation. Comme si,
+à titre de comparaison, l'industrie horlogère ne proposait que des Swatch ou
+des Rollex.
+</TX>
+<ST>
+Ajustage des couleurs
+</ST>
+<TX>
+Dans le haut de gamme, certaines marques proposent des imprimantes laser
+basées sur le processeur RISC AMD cadencé à 20 MHz. Une telle machine peut
+imprimer deux pages par minute en couleur et dix en noir et blanc, avec une
+résolution de 300 points par pouce.
+</TX>
+<TX>
+Ici, le papier reste parfaitement plat et les couleurs peuvent être ajustées
+à celles de l'écran, en sélectionnant les réglages de demi-teinte, la
+saturation et le niveau des couleurs. L'entretien d'une telle imprimante
+s'apparente à celui d'un copieur couleur: on rajoute de la poudre (toner) à
+l'aide de recharges dans les réservoirs prévus à cet effet.
+</TX>
+<ST>
+Proche de la photo couleur
+</ST>
+<TX>
+D'autres marques proposent des machines encore plus performantes atteignant
+24 Mo de mémoire vive. Celles-ci permettent l'impression de trois pages par
+minute en quadrichromie et douze en noir et blanc.  Sur certains modèles, il
+est possible de choisir en outre entre trois modes de résolution: 300 points
+par pouce en standard, ou 600x300 et 1200x300 grâce à un algorithme
+d'interpolation.
+</TX>
+<TX>
+Les imprimantes laser couleur les plus rapides sont équipées d'un processeur
+RISC cadencé à 32 Mhz. Ces modèles offrent une capacité de quatre pages par
+minute en quadrichromie et 14 en noir et blanc. La résolution est de 600
+points par pouce et la qualité d'impression proche de celle d'une photo
+couleur.
+</TX>
+<ST>
+Selon les besoins
+</ST>
+<TX>
+Certains constructeurs proposent des imprimantes de haut de gamme de type
+thermotransfert qui utilisent des rubans pour l'impression.  Comparativement
+à certaines laser couleur, l'imprimante thermique offre un rendu plus
+brillant à l'impression. Par contre, ce type d'imprimantes nécessite un
+papier spécial et des rubans très onéreux.
+</TX>
+<TX>
+Dans un environnement de bureautique classique, l'impression à jet d'encre
+répond à la plupart des exigences: impression de graphiques, de rapports, de
+schémas simples. Les imprimantes à laser couleur ou à thermotransfert seront
+préférées dans un environnement plus pointu de mise en page ou d'infographie,
+où la qualité d'impression est primordiale.
+</TX>
+</DOC>

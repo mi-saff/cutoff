@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO>LEMONDE95-007802</DOCNO>
+<DOCID>LEMONDE95-007802</DOCID>
+<ACCOUNT>377070</ACCOUNT>
+<DATE>19950225</DATE>
+<LMDOC>BHL</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q240295/1862</FAB>
+<SUBJECTS>LOGICIEL,SYSTEME DE SECURITE,PME,PREVENTION,CHIFFRE</SUBJECTS>
+<NUM1>950225-25</NUM1>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-025-33</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>GALUS CHRISTIANE</AUTHOR>
+<SIP1> CHRISTIANE GALUS</SIP1>
+<SU21>	AUJOURD'HUI - SCIENCES&gt;</SU21>
+<PAGE>1</PAGE>
+<TITLE>La sûreté pour les matériels et les logiciels n'est pas assez prise en compte dans les entreprises</TITLE>
+<TEXT> L'IRRUPTION de l'informatique a entraîné la mise en place de règles draconiennes de sûreté pour les matériels et les logiciels dans les centres de 
+recherche et les industries de pointe. En revanche dans les PME, cette préoccupation est 
+trop souvent inexistante. A l'occasion des journées consacrées, début février, à " 
+L'électronique et l'informatique pour la sûreté ", les électroniciens et informaticiens du 
+LETI (Laboratoire d'électronique, de technologie et d'instrumentation du CEA) et les 
+participants aux journées ont donc lancé un cri d'alarme. " Nous sommes passés d'un 
+problème concernant un petit cercle d'initiés à un problème général de la société ", 
+confirmait un des intervenants, Michel Bernard, responsable de la sécurité des systèmes 
+d'armes à la délégation générale à l'armement.</TEXT>
+<TEXT>
+  Le temps est donc venu d'instaurer une véritable " culture de sûreté " informatique dans 
+le milieu industriel français, déjà sensibilisé par les recommandations de la directive 
+Seveso concernant les installations à risques. Il faut éviter que ne se reproduise l'accident 
+d'irradiation qui, il y a quelques années au Canada, avait provoqué la mort de plusieurs 
+cancéreux par suite du dysfonctionnement d'un appareil. Lors du procès intenté par les 
+familles des victimes, l'avocat de la défense avait réussi à démontrer que le coupable était 
+un logiciel défaillant.</TEXT>
+<TEXT>
+  Actuellement, pour améliorer la sécurité des systèmes informatiques, les efforts portent 
+sur : les composants, qui doivent être protégés des agressions d'un milieu qui peut être 
+hostile (radiations, produits chimiques) ; les logiciels, sur lesquels sont effectués des études 
+de fiabilité pour vérifier leur sûreté de fonctionnement ; et l'architecture des ordinateurs, 
+doublée ou triplée pour obtenir des redondances. Pour ce qui est des logiciels, les 
+spécialistes sont unanimes. " On ne sait pas, et on ne saura jamais faire des logiciels sans 
+faute ", disent-ils. " Nous partons donc de l'hypothèse qu'il y aura défaillance dans le 
+logiciel et les matériels, et que nous saurons les gérer ", précise Anne-Marie Lapassat, 
+responsable du programme sûreté des systèmes programmés au LETI.</TEXT>
+<TEXT>
+ Actuellement, les techniques " sont arrivées à maturité ". Le moment est donc venu de " 
+généraliser des méthodes utilisées avec succès dans l'industrie de pointe, et de les 
+simplifier en diminuant les coûts ", pour les diffuser vers les industries plus modestes et les 
+PME.</TEXT>
+<TEXT>
+ L'enjeu est loin d'être négligeable : le coût des sinistres informatiques en France demeure 
+élevé. Il a doublé, passant, en dix ans, de 6 milliards de francs en 1984, à 11,2 milliards de 
+francs, en 1994 pour l'ensemble des entreprises privées, hors secteur public. Ces chiffres, 
+communiqués par les compagnies d'assurances et le Clusif (Club de la sécurité 
+informatique français), englobent les fautes accidentelles et les fautes intentionnelles.</TEXT>
+</DOC>

@@ -1,0 +1,88 @@
+<DOC>
+<DOCNO>LEMONDE95-022384</DOCNO>
+<DOCID>LEMONDE95-022384</DOCID>
+<ACCOUNT>397037</ACCOUNT>
+<DATE>19950608</DATE>
+<LMDOC>FLA</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q070695/0974</FAB>
+<SUBJECTS>LOGICIEL,INCENDIE,FORET,PREVENTION</SUBJECTS>
+<NOTE>Doc/ avec un encadré</NOTE>
+<NUM1>950608-21</NUM1>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-021-35</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>DUFOUR JEAN PAUL</AUTHOR>
+<SIP1> JEAN-PAUL DUFOUR</SIP1>
+<SU11>AUJOURD'HUI&gt;SCIENCES</SU11>
+<PAGE>1</PAGE>
+<TITLE>Des logiciels informatiques permettent de renforcer la lutte contre les incendies de forêt</TITLE>
+<TEXT> " LE MÉCANISME de propagation des feux de forêt reste une énigme scientifique. On ne peut pas modéliser ce que l'on ne comprend pas. Ou alors, c'est 
+de l'alchimie. " D'entrée de jeu, Paul Clavin, directeur de l'Institut de recherche sur les 
+phénomènes hors équilibre (IRPHE, CNRS, université Aix-Marseille), auteur d'études sur 
+la turbulence des flux thermiques dans les tuyères des moteurs de la fusée Ariane, a joué 
+les provocateurs. Durant le colloque sur " la prévention et la maîtrise des risques de feux 
+et d'incendies en Europe " que l'Institut de protection et de sûreté des installations 
+nucléaires (IPSN) a organisé récemment à Marseille sur ce thème, personne n'a contesté 
+ce propos.</TEXT>
+<TEXT>
+  Pourtant, ceux qui l'ont écouté s'adonnent depuis des lustres à cette " alchimie " décriée. 
+Plus par pragmatisme que par conviction. Lorsqu'on fait face à un incendie, il faut bien 
+tenter quelque chose. Les bonnes idées sont donc les bienvenues, comme ce logiciel de 
+simulation des feux de forêt que des chercheurs de la CISI (filiale informatique du 
+Commissariat à l'énergie atomique) et de l'IPSN ont présenté lors du colloque.</TEXT>
+<TEXT>
+#  Développé dans le cadre du programme Minerve (Modélisation incendie et études de 
+risques pour la valorisation de l'environnement), lancé en 1992 par la Communauté 
+européenne, ce logiciel, qui nécessite encore quelques perfectionnements, ne sera pas 
+testé sur le terrain avant deux à trois ans. D'ores et déjà, il est capable d'indiquer la 
+progression prévisible d'un feu sur un fond de carte numérisée à partir de quelques 
+données : conditions météorologiques ; température et hauteur des flammes ; épaisseur et 
+nature du couvert végétal. Mais il manque encore de précision. C'est ainsi qu'il ne prend 
+pas en compte la propagation du feu par convection ou par pyrolyse (inflammation brutale 
+de " bulles de gaz ") et ignore également les phénomènes complexes provoqués par 
+certains régimes de vents violents.</TEXT>
+<TEXT>
+  " Ce n'est pas vraiment de l'alchimie, souligne en souriant Jean-Claude Malet, de l'IPSN. 
+La physique est vraiment le moteur de notre modèle. Mais, pour l'instant, il n'a rien d'une 
+Ferrari. " Afin de l'améliorer, l'IPSN et la CISI effectuent, avec l'aide des sapeurs-
+pompiers, des mesures et des analyses précises en " instrumentant " les feux volontaires 
+de défrichement (écobuages). Ils recueillent aussi des informations sur certains incendies 
+de forêt, grâce à deux camions-laboratoires mis au point par les pompiers-chercheurs du 
+Centre d'essais et de recherche de l'entente (Ceren) financé par quinze départements du 
+sud de la France.</TEXT>
+<TEXT>
+  Les moyens d'essais uniques en Europe dont dispose l'IPSN sur le site de Cadarache 
+(Bouches-du-Rhône) sont également mis à contribution, ainsi que l'expérience accumulée 
+par ces spécialistes de l'étude et de la modélisation des incendies industriels (dans le 
+nucléaire ou ailleurs). Mais, prévient Jean-Claude Malet, il ne sera jamais possible de 
+tenir compte de l'ensemble des paramètres physiques mis en jeu, même lorsqu'ils seront 
+tous connus. Le système serait alors très précis, mais malheureusement beaucoup trop lent 
+pour être utilisé de façon opérationnelle dans la gestion des secours.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ PAPIER ET CRAYON</TEXT>
+<TEXT>
+  En attendant que les chercheurs peaufinent ce nouvel outil, les officiers de la direction 
+départementale des services d'incendie et de secours (DDSIS) vont tester, dès cet été, un 
+autre logiciel mis au point avec leurs conseils éclairés par l'IPSN et la CISI. Il s'agit d'un 
+système expert d'aide à la décision, qui couche sur informatique le plan d'organisation 
+interne (POI) pour les feux de forêt déjà utilisé par les sapeurs-pompiers.</TEXT>
+<TEXT>
+  Calqué sur les méthodes de raisonnement tactique des états-majors des armées, le POI 
+permet aux pompiers de déployer au mieux leurs moyens de lutte, en intégrant toutes les 
+données du problème. Il leur faut, bien sûr, évaluer le développement prévisible des 
+flammes (avec l'aide des services de Météo-France et des spécialistes forestiers). Mais ils 
+doivent aussi tenir compte des spécificités du terrain (étudié sur ordinateur avec des cartes 
+numérisées), des objectifs prioritaires à préserver, des disponibilités et des possibilités 
+techniques du matériel de secours, etc.</TEXT>
+<TEXT>
+  Depuis des années, les responsables de la lutte contre les incendies se contentaient de 
+papier et d'un stylo pour manier le POI avec maestria. " Mais, dans les cas extrêmes, 
+quand les foyers se multiplient, il nous arrive d'être débordés, reconnaît le colonel Jackie 
+Cavallin, directeur du DDSIS des Bouches-du-Rhône. L'aide à la décision est donc un 
+instrument que nous ne pouvons négliger. Cela dit, nous n'avons pas besoin de systèmes de 
+contrôle comparables à ceux de l'Airbus ou de métros automatiques comme le VAL. Chez 
+nous, l'homme doit garder la maîtrise totale des opérations. "</TEXT>
+</DOC>

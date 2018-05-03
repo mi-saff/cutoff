@@ -1,0 +1,56 @@
+<DOC>
+<DOCID>ATS.940125.0157</DOCID>
+<DOCNO>ATS.940125.0157</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940125
+</DT>
+<PT>
+090100
+</PT>
+<SC>
+sim002 sim
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+ecps comm for
+</DE>
+<AU>
+gc
+</AU>
+<KW>
+suisse multimedia fiche separee
+</KW>
+<TI>
+Proche parenté entre télécom et informatique fiche séparée.
+</TI>
+<LD>
+Berne, 25 jan (sim) Les réseaux numériques fonctionnent de la même manière
+que les disques compacts (CD): ils mesurent les caractéristiques du son ou de
+la voix 8000 fois par seconde. Le résultat de chaque mesure étant relevé sous
+la forme d'un chiffre codé, les réseaux transportent donc 8000 chiffres par
+seconde, d'où leur qualificatif de numérique.
+</LD>
+<TX>
+A l'autre bout de la ligne, un appareil utilise les valeurs reçues pour
+reconstituer le son original avant de l'envoyer dans l'écouteur.  C'est
+exactement ce que fait un lecteur de CD à partir de "chiffres" mémorisés sur
+une rondelle de plastique.
+</TX>
+<TX>
+Les circuits qui réalisent cette prouesse sont des puces électroniques, des
+cousines spécialisées de celles qui pullulent dans les ordinateurs. Et dans
+les téléviseurs. Et dans les téléfax. Etc.  Il y a donc une parenté étroite
+entre tous ces appareils et l'informatique.
+</TX>
+</DOC>

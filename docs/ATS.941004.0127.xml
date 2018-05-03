@@ -1,0 +1,126 @@
+<DOC>
+<DOCID>ATS.941004.0127</DOCID>
+<DOCNO>ATS.941004.0127</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+941004
+</DT>
+<PT>
+085400
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+c1 ecps ecpi for
+</DE>
+<AU>
+jn al
+</AU>
+<KW>
+sim informatique guerre processeurs
+</KW>
+<TI>
+Power-RISC contre CISC: la guerre des micro-processeurs par Alain R. Walon
+(SIM).
+</TI>
+<LD>
+Berne, 4 oct (sim) Nos ordinateurs personnels vont-ils bientôt devoir subir
+une greffe du coeur et troquer leur processeur «80x86» contre un nouveau
+module "Power PC" de type "RISC"? Les avis sont partagés, mais la guerre est
+déjà déclarée entre Intel, créateur des processeurs CISC classiques et
+l'alliance IBM-Apple-Motorola.
+</LD>
+<TX>
+L'enjeu de cette guerre est de battre en brèche la domination qu'exerce Intel
+depuis des années sur le marché des processeurs pour micro-ordinateurs. Pour
+ce faire, IBM, Apple et Motorola se sont unis pour faire descendre dans la
+rue un processeur «Power PC» RISC, technologie jusqu'alors réservée à l'élite
+informatique.
+</TX>
+<ST>
+Toujours plus vite
+</ST>
+<TX>
+Sur le plan technique, les processeurs Intel 80X86 (comme le 80486 ou le
+dernier Pentium) sont de type CISC ("Complex Instruction Set Chip" ou jeu
+d'instructions complexe). Autrement dit, ils exécutent des instructions non
+standard sur plusieurs cycles d'horloge. Par exemple: un tel processeur va
+calculer (1+1) x 10 en une seule instruction complexe.
+</TX>
+<TX>
+Les nouveaux processeurs RISC ("Reduced Instruction Set Chip" tels que les
+Power PC 601, 603, Dec Alpha ou MIPS R4200) travaillent, comme leur nom
+l'indique, avec un jeu d'instructions réduit. Pour reprendre le même exemple,
+ils répètent 10 fois l'opération (1+1) sur un seul cycle d'horloge. L'intérêt
+de cette architecture est d'augmenter la vitesse de calcul.
+</TX>
+<ST>
+Toujours moins cher
+</ST>
+<TX>
+Outre la vitesse, la simplification est un autre attrait majeur de la
+technologie RISC. Les 2,8 millions de transistors d'un Power PC tiennent sur
+une puce de 11 mm de côté, alors que les 3,1 millions d'un Pentium CISC
+nécessitent une surface de 16,6 x 17,6 mm.
+</TX>
+<TX>
+Ceci n'est négligeable qu'en apparence. Car les processeurs RISC consomment,
+de ce fait, beaucoup moins de courant (6 à 9 Watts contre 13 à 16 pour un
+Pentium) et chauffent moins. Or, un processeur dégageant peu de chaleur peut
+se passer d'un support en céramique coûteux pour se contenter de plastique.
+</TX>
+<TX>
+Pour ces diverses raisons, un processeur RISC est beaucoup moins cher à
+fabriquer qu'un CISC perfectionné. Plus concrètement, pour le consommateur,
+le prix de vente est réduit de moitié. Il est de 450 dollars (576 francs)
+pour un Power PC, contre 800 dollars (1024 francs) pour un Pentium. Sachant
+qu'il se vend, bon an mal an, 40 millions de PCs, l'enjeu économique est
+évident.
+</TX>
+<ST>
+Le marché décide
+</ST>
+<TX>
+Vitesse et coût ne sont pas tout. La capacité de faire tourner les systèmes
+d'exploitation 32-bit modernes tels que UNIX, Windows NT, OS /2 confère aux
+processeurs RISC un avantage précieux sur les CISC qui opèrent sous MS-DOS,
+système maintenant en bout de course.
+</TX>
+<TX>
+MS-DOS se révèle moins à l'aise dans certaines applications vitales pour les
+entreprises comme les bases de données client /serveur, les applications de
+production, les programmes de recherche et de développement, les applications
+financières ou multimédia.  L'avantage du MS-DOS - et donc du processeur CISC
+- réside par contre dans la multitude d'applications personnelles
+disponibles.
+</TX>
+<ST>
+"Chicago" des années 90
+</ST>
+<TX>
+En définitive, le marché décidera. D'abord celui des éditeurs de logiciels,
+qui fera pencher la balance en se prononçant en faveur d'une architecture ou
+de l'autre. Celui des utilisateurs professionnels ensuite, en analysant le
+type d'architecture le plus apte à faire tourner les systèmes d'exploitation
+et les programmes de la dernière génération.
+</TX>
+<TX>
+On sait ces derniers particulièrement gourmands en puissance de calcul. Tel
+est le cas notamment des applications multimédias, du graphisme en trois
+dimensions et des grandes bases de données.  L'arrivée de "Chicago" de
+Microsoft, successeur du DOS, est un nouvel élément dans une bataille qui
+s'annonce décisive pour l'avenir de la micro-informatique.
+</TX>
+</DOC>

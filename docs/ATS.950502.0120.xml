@@ -1,0 +1,135 @@
+<DOC>
+<DOCID>ATS.950502.0120</DOCID>
+<DOCNO>ATS.950502.0120</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+950502
+</DT>
+<PT>
+053000
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+int comm comt ecps prod
+</DE>
+<AU>
+agr jn ct
+</AU>
+<KW>
+internet sim-informatique
+</KW>
+<TI>
+Internet: plus on circule vite et moins la facture est lourde Attention aux
+bouchons et risques d'accidents éclairage par Alain Graber, SIM-Informatique.
+</TI>
+<LD>
+Berne, 2 mai (sim) Depuis une année, on décrit Internet comme l'autoroute de
+l'information de l'an 2000. Ce réseau d'information, qui nous vient en droite
+ligne des Etats-Unis, fait rêver. Mais comme n'importe quelle autre
+autoroute, celle de l'information a ses heures de pointe, ses bouchons et
+aussi ses accidents.
+</LD>
+<TX>
+Internet fascine. Tout le monde parle de ce système, qui à ce jour représente
+le plus grand réseau de communication du monde. Son attrait réside dans ses
+possibilités très étendues et sa facilité d'utilisation. Car quiconque, s'il
+est équipé d'un ordinateur et d'un modem, est en mesure d'accéder à n'importe
+quel serveur Internet sur la planète.
+</TX>
+<ST>
+Boîte aux lettres et bibliothèque
+</ST>
+<TX>
+L'une des applications les plus appréciées d'Internet est le courrier
+électronique. On le relève chaque matin, comme une simple boîte aux lettres.
+A la différence près qu'on n'imprime que ce dont on a besoin. En s'abonnant à
+ce type de service, l'utilisateur reçoit un mot de passe, un numéro
+d'identification et un logiciel qui lui permettront de travailler dans de
+bonnes conditions.
+</TX>
+<TX>
+Les serveurs FTP (File Transfer Protocol) disséminés un peu partout sur la
+planète forment en outre une véritable bibliothèque mondiale de répertoires
+et de fichiers sur tous les sujets possibles et imaginables. Les archives de
+la NASA, les articles de Time Magazine ou des informations sur le CERN sont,
+par exemple, disponibles sur des serveurs reliés entre eux via Internet.
+</TX>
+<TX>
+Une fois branché, l'opérateur se "ballade" sur le disque dur du serveur en
+question comme il le fait sur le disque qui équipe son propre appareil. Il
+peut télécharger sans difficulté les fichiers qui l'intéressent. Ceux-ci
+peuvent contenir du texte, des graphiques, des images numérisées ou des
+applications multimédia.
+</TX>
+<ST>
+Information gratuite
+</ST>
+<TX>
+Internet est d'autant plus attractif que l'information y est gratuite. Mais
+attention: l'accès et la communication, eux, sont payants.
+</TX>
+<TX>
+La durée (et le prix) de la communication téléphonique nécessaire au
+téléchargement des fichiers surtout peut réserver des surprises.  Celle-ci
+est tributaire des performances de l'ordinateur et de la vitesse du modem.
+Pour réduire la durée de la communication, certains fichiers disponibles sur
+Internet ont été préalablement compressés.
+</TX>
+<ST>
+Le bon modem
+</ST>
+<TX>
+En principe, un modem travaillant à 14 400 Bauds (bits par seconde) permet
+des consultations à un coût acceptable. Ceux qui en ont les moyens
+s'offriront toutefois un modem fonctionnant à 28 800 Bauds. En outre,
+l'utilisateur se simplifiera la vie en choisissant un modem compatible Hayes
+pour configurer le logiciel de connexion à Internet.
+</TX>
+<TX>
+La vitesse de transmission a d'autant plus d'importance que l'application la
+plus spectaculaire de l'autoroute Internet est liée aux serveurs de type WEB.
+A la différence des autres, le serveur WEB, s'il ne possède pas l'information
+recherchée, effectue de lui-même la connexion avec un autre site WEB
+possédant les renseignements souhaités.
+</TX>
+<TX>
+Ces systèmes très élaborés souffrent toutefois encore d'une certaine lenteur.
+Selon le nombre d'utilisateurs sur le réseau, l'autoroute peut avoir en outre
+le goût de bouchon.
+</TX>
+<ST>
+Attention aux pirates
+</ST>
+<TX>
+Les bouchons sont désagréables, mais peu dommageables. Il n'en va pas de même
+des tentatives de piratage ou "d'infection" par un virus.  Aussi, les
+sociétés équipées de réseaux locaux sous OS/2 ou Novell ont un réel intérêt à
+ne pas effectuer de liens physiques directs entre Internet et leur réseau. Le
+recours à un ordinateur autonome est nettement préférable.
+</TX>
+<TX>
+Même dans cette configuration toutefois, les utilisateurs d'Internet doivent
+rester vigilants et effectuer impérativement un contrôle antivirus à chaque
+téléchargement. Ces précautions prises, ils peuvent parcourir le monde à
+grande vitesse, sans risque d'accident majeur.
+</TX>
+<TX>
+Note aux rédactions: Ce texte a été produit avec le soutien d'IBM (Suisse).
+L'indépendance rédactionnelle de l'ATS dans le choix et le traitement des
+sujets est garantie. Merci, en cas de publication, d'utiliser la signature
+(sim) ou (sim/ats), et non (ats).
+</TX>
+</DOC>

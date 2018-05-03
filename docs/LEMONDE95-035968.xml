@@ -1,0 +1,115 @@
+<DOC>
+<DOCNO>LEMONDE95-035968</DOCNO>
+<DOCID>LEMONDE95-035968</DOCID>
+<ACCOUNT>415069</ACCOUNT>
+<DATE>19950930</DATE>
+<LMDOC>MHC</LMDOC>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>MED/39951031</FAB>
+<NOM1>INTERNET</NOM1>
+<NUM1>950930-2-R03-01</NUM1>
+<NAMES>ZIMMERMANN PHILIPP,VINCENT CARREFOUR JACQUES,NETSCAPE</NAMES>
+<PUM1>QUO</PUM1>
+<SEC1>EX1</SEC1>
+<AUTHOR>MORIN HERVE</AUTHOR>
+<SIP1> HERVE MORIN</SIP1>
+<SOT1>L'utilisation professionnelle des réseaux nécessite une réglementation des moyens de cryptage&gt;</SOT1>
+<SU11>MULTIMEDIAS - INTERNATIONAL</SU11>
+<SYE1>NOUVEAU MEDIA,RESEAU INTERACTIF</SYE1>
+<PAGE>1</PAGE>
+<LEAD1>LA LIBERALISATION DES MOYENS DE CRYPTAGE - SUPPLEMENT DE 12 PAGES</LEAD1>
+<TITLE>L'essor des services en ligne dépend de leur sûreté&gt;</TITLE>
+<TEXT> LES AUTOROUTES de l'information seront-elles le boulevard du crime du XXIe siècle ? Depuis une dizaine d'années, de nouvelles formes de 
+délinquance ont défrayé la chronique judiciaire : piraterie et sabotages, détournements 
+financiers et vols de données confidentielles n'ont cessé de se développer. Dès o1986, la 
+DST a créé un service spécialisé dans l'informatique. Mais la police judiciaire ne s'est 
+dotée d'un service d'enquête sur la fraude aux technologies de l'information (Sefti) et d'une 
+brigade centrale de répression de la criminalité informatique (BCRCI) qu'en 1994 (Le 
+Monde du 10 janvier 1995).</TEXT>
+<TEXT>
+ Depuis que les opérateurs envisagent de faire des autoroutes de l'information un vecteur 
+commercial, la sûreté est devenue un enjeu considérable dans la mesure où le préjudice 
+pourrait atteindre 14 milliards de francs à l'horizon 2005 : comment utiliser sa carte 
+bancaire sans que le code secret en soit dévoilé, passer un ordre à une société de courtage 
+sans craindre les indiscrétions ou échanger des informations sur un procédé industriel sans 
+qu'un concurrent en découvre la teneur ?</TEXT>
+<TEXT>
+  Techniquement, la réponse est fournie par une arme à double tranchant, la cryptographie, 
+qui désigne tout procédé de codage et de décodage de données. Ces algorithmes, 
+extrêmement efficaces, sont longtemps restés confidentiels, le FBI ayant saisi toute 
+documentation les concernant et la National Security Agency (NSA) craignant qu'ils ne 
+compliquent, voire n'interdisent, toute possibilité d'écoute des communications par les 
+services de police et de renseignement.</TEXT>
+<TEXT>
+  Aussi l'initiative de Philipp Zimmermann a-t-elle constitué une véritable bombe dans la 
+logique de secret entretenue par les autorités fédérales. Cet informaticien de l'université 
+de Boulder (Colorado) a en effet décidé, en 1991, de distribuer gratuitement sur le réseau 
+une version de son logiciel de cryptage baptisé PGP (pour Pretty Good Privacy, " assez 
+bonne intimité "). Doux euphémisme pour désigner un système de codage toujours réputé 
+indéchiffrable.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ Les policiers ne peuvent pas contrôler l'utilisation des systèmes de codage</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+  La boîte de Pandore était ouverte. PGP a aussitôt été adopté par un grand nombre de net-
+surfers, trop heureux de pouvoir communiquer en toute confidentialité. Mais aussi sans 
+doute par les trafiquants et terroristes de tous poils. Ne pouvant attaquer directement 
+Zimmermann, les autorités fédérales l'ont poursuivi pour violation des règles d'exportation, 
+qui assimilent les moyens de cryptage à des armements. L'affaire est encore pendante, 
+mais elle a eu pour effet d'engendrer, aux Etats-Unis, une véritable croisade en faveur de 
+la libéralisation des moyens de cryptage.</TEXT>
+<TEXT>
+  En France, le débat sur la libéralisation du cryptage n'a pas atteint une telle ampleur. La 
+loi de 1990 soumet son utilisation à un double régime de déclaration préalable pour les 
+services courants (signature, intégrité du message) et d'autorisation lorsqu'il s'agit de 
+brouiller l'ensemble de la communication. Cette législation est censée donner les moyens à 
+la police et à la justice d'effectuer toutes sortes d'écoutes légales. L'apparition de PGP fait 
+voler en éclats ce bel édifice : les policiers reconnaissent volontiers qu'ils n'ont pas les 
+moyens d'en contrôler l'utilisation. Certains informaticiens n'hésitent d'ailleurs pas à 
+dénoncer l'hypocrisie de la législation actuelle.</TEXT>
+<TEXT>
+  La disparité des législations nationales risque de rendre ardue la question posée par 
+l'harmonisation des moyens de cryptage. " Lors de la définition de normes internationales, 
+nous allons assister à un choc des Constitutions ", prédit Jacques Vincent-Carrefour, 
+délégué interministériel pour la sécurité des systèmes d'information, qui refuse de " se 
+faire avaler tout cru par le droit américain ". Celui-ci, explique-t-il, est censé protéger le 
+citoyen, y compris contre l'État, quand la Constitution française confie à celui-ci la sécurité 
+desdits citoyens. Seule certitude : " La France ne peut travailler seule. "</TEXT>
+<TEXT>
+  Les industriels ont en tout cas entamé les grandes manoeuvres. La société américaine 
+Netscape appelle les utilisateurs de son logiciel Navigator à appuyer son action de 
+lobbying auprès des pouvoirs publics américains, afin que ceux-ci renoncent à brider les 
+moyens cryptologiques à l'exportation. Les distributeurs de logiciels américains craignent 
+de perdre des marchés à l'exportation en ne pouvant s'aligner sur le niveau de sécurité 
+autorisé dans d'autres pays anglo-saxons.</TEXT>
+<TEXT>
+  Les banques ne sont pas en reste. " Elles veulent mettre leurs activités traditionnelles sur 
+le réseau avant que les opérateurs multimédias ne les prennent de vitesse ", analyse Marc 
+Lassus, président fondateur de Gemplus. Le spécialiste français de la carte à puce vient de 
+s'associer à un consortium d'une dizaine d'organismes financiers américains afin de mettre 
+au point et de commercialiser un système de porte-monnaie électronique, Smartcash, qui 
+devra permettre d'effectuer tous types de paiement, de façon anonyme, sur le réseau.</TEXT>
+<TEXT>
+  La carte à puce, jusqu'alors boudée outre-Atlantique car étiquetée " NIH " (not invented 
+here), pourrait ainsi faire une entrée en force sur un marché de 150 millions d'utilisateurs 
+potentiels. D'autant qu'on projette également d'en faire l'élément de base d'une " 
+architecture cryptographique internationale " susceptible de réconcilier les législations 
+disparates : la carte ferait office de " drapeau national ", et donnerait accès à un niveau de 
+cryptographie agréé par le pays d'origine de son possesseur. Cette architecture pourrait 
+aussi comprendre des " tiers de confiance ", sorte de banques de clés cryptographiques 
+chargées de mettre en relation, en toute sûreté, deux utilisateurs du réseau. L'avantage, 
+pour les gouvernements, serait de pouvoir accéder, en cas de besoin, aux communications 
+transitant par ce noeud sensible.</TEXT>
+<TEXT>
+  L'échec de " Clipper Chip ", ce système de codage des conversations téléphoniques 
+proposé par le gouvernement américain, qui était le seul à disposer des clés de décryptage, 
+montre cependant que les " tiers de confiance " auront du mal à entrer dans les moeurs. 
+Les utilisateurs de PGP et de ses clones criminels, trafiquants et terroristes compris ont 
+sans doute encore de beaux jours devant eux. Du reste, le flot des données transitant sur 
+les réseaux devient tellement dense, assurent les policiers, qu'il n'est même pas besoin de 
+crypter les messages pour échapper à leur surveillance.</TEXT>
+</DOC>

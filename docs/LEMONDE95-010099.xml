@@ -1,0 +1,135 @@
+<DOC>
+<DOCNO>LEMONDE95-010099</DOCNO>
+<DOCID>LEMONDE95-010099</DOCID>
+<ACCOUNT>380430</ACCOUNT>
+<GENRE>OPINION</GENRE>
+<DATE>19950314</DATE>
+<LMDOC>MID</LMDOC>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q130395/1150</FAB>
+<LIE1>950228-2-017-03,950301-2-017-03</LIE1>
+<NOTE> Jean-Philippe Bouchaud est ingénieur au Commissariat à l'énergie atomique (CEA).</NOTE>
+<NUM1>950314-16</NUM1>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-016-31</REFERENCE1>
+<SEC1>HOR</SEC1>
+<AUTHOR>BOUCHAUD JEAN PHILIPPE</AUTHOR>
+<SIP1>PAR JEAN-PHILIPPE BOUCHAUD</SIP1>
+<SU11>HORIZONS-DEBATS</SU11>
+<PAGE>1</PAGE>
+<TITLE>Marchés dérivés : pour  une pédagogie du risque</TITLE>
+<TEXT> "LES marchés dérivés sur la sellette ", pouvait-on lire dans les colonnes du Monde du 28 février après la défaillance de la banque Barings. Des marchés 
+considérés comme des gadgets pour matheux, qu'" aucun grand banquier ne serait capable 
+de vous expliquer " (Le Monde du 1 mars), tant ils seraient complexes. Au vu des sommes 
+mises en jeu et de l'ampleur des catastrophes possibles, quelques commentaires de 
+clarification nous semblent souhaitables, voire utiles.</TEXT>
+<TEXT>
+  De quoi s'agit-il ? Si tout le monde sait ce qu'est une action, négociable sur le marché " 
+direct ", l'option qui est le produit " dérivé " type est encore peu connue du grand public. 
+Une option d'achat est un contrat qui permet de se prémunir contre une hausse brutale d'un 
+cours (par exemple du pétrole) : l'acheteur de l'option fixe ainsi le prix maximum qu'il aura 
+à payer dans le futur, au moment où il aura besoin du produit en question.</TEXT>
+<TEXT>
+  La différence éventuelle entre ce prix maximum et le cours observé est prise en charge 
+par l'émetteur de l'option, qui se comporte donc, en l'occurrence, en " assureur ". Les 
+questions qui se posent alors concernent à la fois le montant de la " prime d'assurance " (le 
+prix de l'option) et la stratégie que doit suivre l'" assureur ", dont on sent bien qu'il a 
+intérêt à provisionner suffisamment tôt ses pertes potentielles.</TEXT>
+<TEXT>
+  Le marché des options a explosé depuis 1973, date à laquelle deux événements 
+déterminants se sont produits : l'ouverture à Chicago d'un marché organisé d'options " 
+négociables " (c'est-à-dire que le contrat d'assurance peut lui-même être revendu à un 
+tiers), et la publication par Fischer Black et Myron Scholes de la première théorie 
+mathématique complète de ces options (dans le Journal of Political Economy).</TEXT>
+<TEXT>
+ Cette théorie s'est immédiatement imposée (ce qui est assez rare dans l'histoire des 
+sciences) grâce à son élégance mathématique, mais surtout en raison du besoin pressant 
+d'un cadre bien défini d'une communauté de langage créé par le marché de Chicago. 
+Exactement comme une langue façonne et délimite la pensée, les livres de comptes (books) 
+se sont constitués en référence ancillaire à la théorie de Black-Scholes, en archivant les 
+caractéristiques dont la théorie fait état.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ Comment le marché</TEXT>
+<TEXT>
+ des options</TEXT>
+<TEXT>
+ ne serait-il pas</TEXT>
+<TEXT>
+ explosif ? Il repose</TEXT>
+<TEXT>
+ sur une théorie</TEXT>
+<TEXT>
+ mathématique</TEXT>
+<TEXT>
+ séduisante</TEXT>
+<TEXT>
+ mais fausse</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+  La qualité d'une théorie se juge autant par la vraisemblance des hypothèses que par la 
+logique des déductions successives qui conduisent de ces hypothèses aux résultats. Or les 
+hypothèses de Black et Scholes sont très irréalistes : ce sont celles d'un monde où 
+l'incertitude est en quelque sorte maîtrisable, les risques tempérés un monde sans " krachs 
+", où une chute de 5 % des cours ne devrait apparaître qu'une fois tous les mille ans !</TEXT>
+<TEXT>
+  En contrepartie, ces hypothèses permettent d'utiliser, pour résoudre le problème posé, un 
+arsenal mathématique à la fois élégant et efficace, mais aussi difficile d'accès, puisqu'il faut 
+au moins atteindre un troisième cycle scientifique pour l'avoir pratiqué ! La théorie n'est 
+donc accessible qu'à un tout petit nombre : même si elle figure au programme des grandes 
+écoles d'ingénieurs et de commerce, il n'est pas exagéré de penser que 95 % des étudiants 
+n'ont pas les moyens de la comprendre en profondeur, et donc de la " critiquer " étape 
+intellectuelle pourtant essentielle pour celui dont le rôle sera d'estimer et de maîtriser les 
+risques financiers liés à ces produits.</TEXT>
+<TEXT>
+  Mais il y a, à notre avis, plus grave encore que cet aspect initiatique, limitant le savoir à 
+un petit nombre. Les hypothèses de Black-Scholes, irréalistes mais " commodes ", 
+conduisent à un résultat qui heurte le sens commun : malgré l'incertitude inhérente aux 
+fluctuations aléatoires des cours, l'émetteur de l'option peut suivre une stratégie qui lui 
+permet d'" annuler complètement son risque ", utopie de tous les assureurs !</TEXT>
+<TEXT>
+  Cette possibilité, qui reflète en fait la nature particulière et restrictive des hypothèses, 
+frappe en tout cas les esprits : même sans en comprendre les détails, on retient forcément 
+de la théorie qu'il est possible d'annuler le risque message euphorisant qui n'encourage pas 
+à la prudence.</TEXT>
+<TEXT>
+  En réalité, tout le monde sait que les hypothèses de Black-Scholes sont fausses, mais on 
+se convainc que si le risque est nul en théorie, c'est donc qu'il doit être " petit " en 
+pratique... " Aucun banquier ne connaît exactement l'engagement de son établissement sur 
+ces risques " (Le Monde du 1 mars), et pour cause : la théorie de Black-Scholes est muette 
+sur cette question cruciale, puisque, nous l'avons vu, les hypothèses de base et l'arsenal 
+mathématique mis en oeuvre ne peuvent conduire qu'à un risque nul.</TEXT>
+<TEXT>
+  Corrélativement, puisque tous les logiciels de support offerts aux " traders " utilisent la 
+théorie de Black-Scholes agrémentée de quelques améliorations, aucun d'entre eux ne 
+propose une estimation du risque associé à une position un peu comme s'il manquait un 
+altimètre au tableau de bord d'un avion de ligne !</TEXT>
+<TEXT>
+  En fait, toute cette complexité est dans une bonne mesure superflue. En adoptant un point 
+de vue issu de la physique " statistique " (dont le champ d'investigation s'étend du 
+magnétisme aux tremblements de terre), il est possible de formuler la théorie des options 
+de façon à la fois plus transparente, en utilisant un formalisme mathématique relativement 
+élémentaire, et plus réaliste, en prenant en compte en particulier les risques de krachs.</TEXT>
+<TEXT>
+  L'intérêt de cette nouvelle approche est double : d'un abord moins difficile, elle devrait 
+permettre aux responsables des établissements financiers de percevoir plus clairement la 
+nature des problèmes associés aux marchés dérivés. Plus important, le risque associé à ces 
+instruments financiers peut être estimé quantitativement et il est en réalité, et comme on 
+pouvait s'y attendre, loin d'être négligeable.</TEXT>
+<TEXT>
+  Si les autorités financières internationales sont opposées à toute régulation, il nous 
+semble cependant que la régulation se fera spontanément lorsque des estimations fiables 
+des risques financiers seront intégrées de façon systématique aux livres de comptes.</TEXT>
+<TEXT>
+ Un grand travail reste à faire, du point de vue tant théorique que méthodologique, pour 
+mettre au point de tels estimateurs, dont l'intérêt ne se limite pas aux seuls marchés 
+dérivés, mais concerne tous les instruments financiers.</TEXT>
+<TEXT>
+  Il est frappant de constater que les milieux financiers ont pu échapper à la mise en place 
+d'une réelle pédagogie du risque, imposée depuis longtemps à l'industrie nucléaire pour 
+prévenir des catastrophes dont les conséquences sont, quant à certains aspects, assez 
+comparables.</TEXT>
+</DOC>

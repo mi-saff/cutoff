@@ -1,0 +1,157 @@
+<DOC>
+<DOCID>ATS.940823.0075</DOCID>
+<DOCNO>ATS.940823.0075</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940823
+</DT>
+<PT>
+090100
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+c1 c9jpn ecps for
+</DE>
+<AU>
+jn rp
+</AU>
+<KW>
+usa japon informatique ecran plat éclairage
+</KW>
+<TI>
+Informatique: les écrans plats chassent les mastodontes Avec la couleur, les
+écrans plats vont s'adjuger un énorme marché éclairage par Alain R. Walon,
+SIM.
+</TI>
+<LD>
+Berne, 23 août (sim) Chacun aura bientôt le loisir d'agrandir sa place de
+travail sans déplacer les murs. La technologie des écrans plats à cristaux
+liquides devrait en effet envoyer progressivement au musée les mastodontes à
+tube cathodique. Muni d'un écran plat couleur, l'ordinateur offre les mêmes
+services pour un volume 50 fois inférieur.
+</LD>
+<TX>
+Cette technologie, dont les progrès sont considérables, pénétrera dans un
+premier temps l'environnement de la bureautique professionnelle. Elle ne
+tardera pas toutefois à s'imposer aussi à l'informatique domestique.
+L'électronique de divertissement ne sera pas en reste, pour le meilleur
+profit des nombreux téléspectateurs jugeant leur "petit écran" excessivement
+encombrant.
+</TX>
+<TX>
+Par la même occasion, les utilisateurs d'écrans plats économiseront leurs
+yeux: les cristaux liquides suppriment en effet le scintillement et ses
+pénibles effets sur la vue. En outre, ils sont nettement moins gourmands en
+électricité.
+</TX>
+<ST>
+Economiser l'espace
+</ST>
+<TX>
+Lors de l'avènement de l'informatique personnelle, les constructeurs ont
+adopté la technologie de visualisation la plus répandue et la moins onéreuse:
+les tubes cathodiques dérivés des postes de télévision. Le revers de cette
+solution a été l'envahissement des bureaux par des boîtiers aussi volumineux
+qu'inesthétiques, en contradiction avec la nécessité d'économiser l'espace.
+</TX>
+<TX>
+Remplacer un cube de 64 dm3 par un simple tableau de 30 centimètres sur 20
+dont l'épaisseur ne dépasse pas 2 centimètre était une idée séduisante, en
+particulier pour les professions consultant simultanément plusieurs écrans,
+comme les agents de change. D'autant plus séduisante que cette solution était
+déjà en usage sur les ordinateurs portables.
+</TX>
+<ST>
+Plat et en couleur
+</ST>
+<TX>
+Jusqu'à récemment, le bon vieux tube cathodique conservait un avantage de
+taille: la couleur. Les écrans à cristaux liquides des portables devaient se
+contenter du noir % blanc, moins onéreux. De plus, la qualifié d'image des
+écrans plats couleur n'a longtemps pas répondu aux exigences des
+utilisateurs.
+</TX>
+<TX>
+Le handicap du coût de production a aujourd'hui disparu avec la
+commercialisation à grande échelle des écrans couleur sur les ordinateurs
+bloc-notes. Désormais, la technologie couleur tend à devenir la norme, non
+seulement pour l'informatique mobile, mais également pour les systèmes de
+bureau.
+</TX>
+<ST>
+Un processus complexe
+</ST>
+<TX>
+Pour être acceptés par les utilisateurs, les écrans couleur à cristaux
+liquides se devaient toutefois d'offrir une image aussi piquée et nette que
+celle d'un tube cathodique. Les premiers développements, à base de filtres ou
+de matrices dites passives (DSTN, TSTN,) se révélèrent modérément
+satisfaisants en raison du manque de contraste, des ombres, du temps de
+réponse et de l'angle de vision limité.
+</TX>
+<TX>
+La solution se fit jour récemment, avec les écrans couleurs à matrice active
+basés sur la technologie des transistors à film mince.  Chaque point de
+l'écran ou «pixel» est composé de 3 transistors à effet de champ (FET)
+reproduisant les 3 couleurs fondamentales, à savoir le rouge, le vert, le
+bleu dont le mélange compose les nuances.
+</TX>
+<TX>
+La possibilité de contrôler individuellement chacun d'eux multiplie par 7 le
+contraste et réduit de 10 fois le temps de réponse pour créer une image
+lumineuse de la meilleure qualité.
+</TX>
+<ST>
+Fabrication délicate
+</ST>
+<TX>
+Les modèles les plus évolués sont capables d'afficher simultanément 256
+couleurs d'une palette de 262 en mode VGA. Ceci au prix d'une grande
+complexité technique. Pour obtenir la résolution d'un écran VGA (640 x 480
+pixels) 921 600 transistors FET sont nécessaires sur une surface réduite de
+300 cm2. Avec les résolutions plus fines des modes super-VGA, les besoins
+atteignent 2 359 296 transistors FET.
+</TX>
+<TX>
+De ce fait, le procédé de fabrication est particulièrement très délicat. La
+moindre défaillance d'un transistor provoque une ombre gênante pour le
+regard. Encore élevé, le taux de rebut à la fabrication limite la production
+et maintient coûts et prix à niveaux élevés.
+</TX>
+<ST>
+Potentiel exceptionnel
+</ST>
+<TX>
+Vu les avantages de ce type d'écrans, la demande est toujours plus forte.
+Estimé à 4 milliards de dollars cette année, le marché mondial va croître de
+25 % en 1995 et suivre une courbe exponentielle par la suite. Certains
+experts estiment le marché mondial à 15 milliards de dollars pour la fin de
+la décennie, d'autres articulent le chiffre de 50 milliards.
+</TX>
+<TX>
+La demande est telle que l'on est arrivé à une situation de pénurie. Afin de
+résorber celle-ci, Toshiba et IBM viennent de s'associer pour créer une
+nouvelle unité de production d'écrans couleur qui produira 200 000 écrans par
+mois fin 1995. Les Japonais toutefois dominent ce marché à 95 %.
+</TX>
+<TX>
+Selon le schéma classique, l'industrialisation et le production en grande
+série vont abaisser sensiblement le prix des écrans plats couleur et les
+établir en tant que nouvelle norme de marché. Après avoir pris possession des
+bureaux, ils pénétreront dans un avenir rapproché dans les foyers, où ils
+remplaceront aussi les volumineux postes de télévision.
+</TX>
+</DOC>

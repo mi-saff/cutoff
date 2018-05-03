@@ -1,0 +1,145 @@
+<DOC>
+<DOCID>ATS.940125.0158</DOCID>
+<DOCNO>ATS.940125.0158</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940125
+</DT>
+<PT>
+090000
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+for ecps comm
+</DE>
+<AU>
+gc
+</AU>
+<KW>
+suisse reseaux multimedias eclairage sim
+</KW>
+<TI>
+Le réseau téléphonique dans dix ans: parole, image et texte par Jacques
+Bettex/SIM Informatique.
+</TI>
+<LD>
+Berne, 25 jan (sim) Un seul type de prise murale animera un jour les
+appareils communiquants de toute la maisonnée: télévision et magnétoscope
+numériques, ordinateur multimédia, videotex et télécopieur en couleurs,
+téléphone, vidéo-téléphone, etc. Et cela exactement comme une prise
+électrique de 220 volts alimente indifféremment un mixer ou un lampadaire
+halogène à basse tension.
+</LD>
+<TX>
+Ces télé-prises seront les points d'entrées des autoroutes optiques de
+l'avenir. Leur construction représentera le "chantier du siècle". Un essai
+pilote international est en cours. Y participent les Télécom PTT suisses, le
+Cern et l'Ecole polytechnique fédérale de Lausanne (EPFL).
+</TX>
+<TX>
+Le principe des réseaux ultra-rapides a été imaginé par les opérateurs des
+réseaux téléphoniques publics pour leurs besoins de transmission de la voix.
+C'est la deuxième génération des réseaux RNIS (réseaux numériques à
+intégration de services) actuels.
+</TX>
+<TX>
+Conçus en hâte, ces réseaux de la première génération sont malheureusement
+incompatibles entre eux. Pour y remédier, les PTT européens ont choisi la
+fuite en avant en développant de nouveaux réseaux internationaux, les RNIS à
+large bande ou B-ISDN (Broad-Band Integrated Services Digital Network).
+</TX>
+<TX>
+Ces réseaux communiquent dans un nouveau langage appellé ATM (Asynchronous
+Transfer Mode). Son utilisation sur des câbles en fibres optiques multiplie
+le débit et la rapidité des lignes. La capacité de transport du réseau
+explose.
+</TX>
+<ST>
+Trois utilisateurs en piste
+</ST>
+<TX>
+Raymond Papaux, consultant en réseaux chez Hewlett-Packard, s'enflamme: avec
+ces caractéristiques, les réseaux ATM deviennent d'un intérêt précieux pour
+les informaticiens. Ils ont toujours voulu faire circuler des chiffres,
+matière première des ordinateurs, pour échanger des données entre des sites
+éloignés de centaines ou milliers de kilomètres.
+</TX>
+<TX>
+Les PCs reliés à longue distance à un ordinateur central peuvent effectuer
+sur place une partie du travail informatique. Ils doivent pouvoir entrer
+souvent et vite en communication avec lui pour "faire le point de la
+situation", explique M. Papaux. D'où l'utilité d'un réseau extrêmement
+rapide.
+</TX>
+<ST>
+Exploiter les silences
+</ST>
+<TX>
+Les messages échangés sont composés de chiffres. On peut facilement profiter
+de la ligne pour en intercaler à la place des silences ponctuant les
+conversations. Il faut auparavant découper les messages des ordinateurs en
+tronçons très courts.
+</TX>
+<TX>
+Ainsi, les bavards, prioritaires sur le réseau, reprennent leur conversation
+instantanément et ne s'aperçoivent de rien. Et les communications entre
+ordinateurs ne sont pas ralenties parce que, statistiquement, les silences
+sont beaucoup plus fréquents sur la ligne que les échanges effectifs de
+parole ou de données.
+</TX>
+<TX>
+Il reste même de la capacité libre pour transporter une troisième catégorie
+de chiffres: ceux véhiculant des images vidéo. Les ordinateurs savent depuis
+longtemps transformer des images en valeurs numériques pour les afficher sur
+un écran. Les images se prêtent donc volontiers au tronçonnage et aux voyages
+à longue distance sur ATM.
+</TX>
+<ST>
+Réseau multimédia en marche
+</ST>
+<TX>
+Le réseau téléphonique de l'avenir - d'ici 10 à 15 ans, estime Raymond Papaux
+- sera multimédia. Il véhiculera indifféremment sons, images et données. Ces
+communications pourront aboutir à des destinations distinctes, par exemple
+téléphone, application de gestion informatique ou vidéo de surveillance.
+</TX>
+<TX>
+Elles pourront aussi se combiner dans un téléviseur numérique (son et image),
+un vidéotexte (texte et image) ou le tout à la fois dans un ordinateur
+multimédia. Le câble à brancher au mur devra seulement être standardisé.
+</TX>
+<ST>
+Essai pilote
+</ST>
+<TX>
+Les choses avancent vite. L'EPFL, le Cern et les Télécom PTT suisses
+participent à un essai pilote ATM organisé dans le cadre des programmes de
+recherche de l'Union Européenne.
+</TX>
+<TX>
+Baptisée Betel, l'opération déroule ses fibres optiques entre Grenoble,
+Sophia-Antipolis (près de Nice), Meyrin et Lausanne. Le centre de pilotage se
+trouve à Lyon, chez France Télécom. D'autres essais ont lieu, notamment à
+Berne, pour relier différents offices fédéraux.
+</TX>
+<TX>
+Note aux rédactions: Ce texte a été produit avec le soutien financier d'IBM
+(Suisse).  L'indépendance rédactionnelle de l'ATS dans le choix et le
+traitement des sujets est garantie. Vous recevez un texte SIM/Informatique
+tous les quinze jours, le mardi à 09h00. Merci, en cas de publication,
+d'utiliser la signature (sim) ou (sim/ats), et non (ats).
+</TX>
+</DOC>

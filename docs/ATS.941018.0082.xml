@@ -1,0 +1,132 @@
+<DOC>
+<DOCID>ATS.941018.0082</DOCID>
+<DOCNO>ATS.941018.0082</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+941018
+</DT>
+<PT>
+142100
+</PT>
+<SC>
+bsf074 bsf
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+ecps ecpi comm prod
+</DE>
+<AU>
+al rp
+</AU>
+<KW>
+informatique memoire pc sauvegarde eclairage
+</KW>
+<TI>
+L'explosion de la mémoire de masse des PC: De la disquette au disque laser
+éclairage par Alain Graber, SIM-Informatique.
+</TI>
+<LD>
+Berne, 18 oct (sim) Le succès croissant des ordinateurs personnels (PC) est
+dû en grande partie au développement des systèmes de mémoire de masse.
+L'unité de disquette est certainement le système le plus connu. Mais le
+disque dur a pris le relais, en offrant d'énormes capacités et des
+performances exceptionnelles.
+</LD>
+<TX>
+Que de chemin parcouru depuis le début des années 80, lorsque sont apparus
+les premiers PC dotés d'un lecteur de disquettes souples, délicates à manier,
+aux performances limitées. L'arrivée de programmes performants et
+interactifs, comme ceux tournant sous Windows, par exemple, ont décuplé les
+besoins en mémoire, même à la maison.
+</TX>
+<ST>
+Course aux mégoctets
+</ST>
+<TX>
+Des PC équipés de disques durs de grande capacité, allant de 200 à 500
+mégaoctets, sont devenus monnaie courante. Au-delà de ces capacités, les
+disques sont équipés d'un contrôleur de type SCSI, plus performant et mieux
+adapté à la gestion de telles unités de mémoire. La plupart des grands
+fabricants livrent leurs disques en format 3,5 pouces et demi-hauteur, qui
+peuvent être installés facilement dans les châssis d'ordinateur.
+</TX>
+<TX>
+Avec la chute continuelle des prix enregistrée sur le marché de
+l'informatique, il vaut la peine de choisir un disque dur de grande capacité,
+350 ou 400 méga. La vitesse moyenne d'accès constitue un autre critère de
+choix important. Actuellement, elle se situe entre 10 et 15 millisecondes.
+Plus le disque est rapide, plus le chargement d'un programme ou d'un gros
+fichier s'effectue rapidement. Bien entendu, ce critère est secondaire pour
+l'utilisateur qui ne fait que du traitement de textes ou utilise peu de
+fichiers.
+</TX>
+<ST>
+Disque amovible pour utilisateur ordré
+</ST>
+<TX>
+Outre les disquettes et disques durs, il existe d'autre systèmes de mémoire
+de masse, comme par exemple les disques amovibles Syquest.  Ces cartouches
+contenant un disque dur sont utilisées dans un lecteur spécial. L'utilisateur
+qui recourt à de nombreuses applications peut ainsi les classer dans des
+cartouches différentes.
+</TX>
+<TX>
+Chaque Syquest contient tous les fichiers indispensables au démarrage de
+l'ordinateur et fonctionne de manière autonome. Ces disques amovibles offrent
+des performances pratiquement identiques à celles d'un disque dur classique.
+</TX>
+<ST>
+CD-Rom et mémoire d'éléphant
+</ST>
+<TX>
+Il existe aussi des unités de disque dur portables que l'utilisateur branche
+sur la sortie parallèle de son imprimante.  Autre système en plein essor, le
+CD-Rom permet de disposer de plus de 600 méga-octets de programmes et de
+fichiers. Contrairement au disque dur, on peut seulement le consulter ou le
+copier.
+</TX>
+<TX>
+Les éditeurs de logiciels l'utilisent de plus en plus pour commercialiser
+leurs programmes. L'utilisateur n'a plus besoin de jouer au disc-jockey pour
+charger ses nouveaux programmes, à condition d'être équipé d'un lecteur
+CD-Rom.
+</TX>
+<TX>
+Pour stocker des informations et des programmes sur un tel support, il faut
+choisir un système à disque laser réinscriptible, qui se comportera comme un
+disque dur supplémentaire. Cet équipement est sensiblement plus onéreux qu'un
+disque dur.
+</TX>
+<ST>
+Les systèmes de sauvegarde
+</ST>
+<TX>
+Quelles que soient ses performances et sa durée de vie, le disque dur,
+amovible ou non, ne constitue pas une sauvegarde suffisamment fiable pour les
+programmes et les fichiers. Pour éviter les désagréments d'une défaillance du
+disque, l'utilisateur professionnel a tout intérêt à sauvegarder ses données
+sur un dispositif à bande, appelé aussi "streamer".
+</TX>
+<TX>
+Généralement, on choisit une capacité équivalente à celle du disque, afin
+d'effectuer une sauvegarde complète sur une cassette très similaire aux
+cassettes audio. Les cassettes numériques DAT font aussi une entrée remarquée
+pour la sauvegarde des disques de grande capacité, 1 gigaoctet et plus.
+</TX>
+<TX>
+La plupart des streamers sont lents et compliqués à mettre en oeuvre. La
+meilleure solution consiste à choisir un logiciel de gestion du système de
+sauvegarde simple. Un mauvais logiciel de streamer risque de provoquer des
+opérations fatales à la sauvegarde des données.
+</TX>
+</DOC>

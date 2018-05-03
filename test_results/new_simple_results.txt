@@ -1,0 +1,1 @@
+Hidden Layer Size: 20, Learning Rate: 0.002, Loss: 0.79013299942, Acc: 0.7208122015

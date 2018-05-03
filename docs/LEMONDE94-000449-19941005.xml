@@ -1,0 +1,188 @@
+<DOC>
+<DOCNO>LEMONDE94-000449-19941005</DOCNO>
+<DOCID>LEMONDE94-000449-19941005</DOCID>
+<ACCOUNT>353898</ACCOUNT>
+<CHA1>Les ordinateurs personnels peuvent désormais écrire sous la dictée. Mais le succès de ce système commercialisé par IBM exige encore quelques progrès techniques et psychologiques</CHA1>
+<DATE>19941005</DATE>
+<LMDOC>JGB</LMDOC>
+<FAB>10041002</FAB>
+<SUBJECTS>MICRO ORDINATEUR,ORTHOGRAPHE,INNOVATION,GRAMMAIRE,LANGUE FRANCAISE</SUBJECTS>
+<NOTE>(1) Un micro-ordinateur équipé d'un microprocesseur 486 SX cadencé à 25 MHz suffit. Un minimum de 8 Mo de mémoire vive est nécessaire (mais 16 Mo sont conseillés). L'installation du logiciel mobilise 37 Mo, sur disque dur, pour la version de base destinée à la saisie de lettres commerciales (18 Mo supplémentaires seront utilisés temporairement durant la phase d'apprentissage du système). L'extension du vocabulaire pour la dictée de rapports techniques ou médicaux (coût supplémentaire 1 000 à 3 000 francs) peut exiger jusqu'à 60 Mo et l'adjonction d'un CD-Rom. Ce système de dictée personnelle est aussi disponible en anglais, anglo-américain, allemand, italien et espagnol.(2) Les " maîtres " peuvent, cependant, être multiples. Il suffit de répéter ce fastidieux exercice : leur nombre dépend alors de la capacité de la mémoire-disque du PC.</NOTE>
+<NAMES>IBM</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-015-31</REFERENCE1>
+<SEC1>MCI</SEC1>
+<AUTHOR>DUFOUR JEAN PAUL</AUTHOR>
+<PAGE>319</PAGE>
+<TITLE>Quand les puces ont des problèmes de syntaxe...</TITLE>
+<TEXT>Installé devant l'écran, l'homme parle en détachant soigneusement chaque mot, comme s'il s'adressait à un cancre. Des phrases tout 
+droit issues d'un rapport technique sur le système. " Le taux 
+d'erreur, dicte-t-il, se situe aujourd'hui aux alentours de 5 %, mais 
+il devrait avoisiner 2 % bientôt. " Imperturbable, la machine écrit : 
+" Le taux d'erreur se situe aujourd'hui au parcours de 5 % , mais il 
+devrait apprécier 2 % bientôt. " Avant chaque erreur, le clignotement 
+du mot litigieux traduit la profonde perplexité du cerveau de 
+silicium.</TEXT>
+<TEXT>
+  Supposé emporter l'adhésion de l'assistance, l'exercice de 
+présentation du nouveau système de dictée personnelle d'IBM en révèle 
+malheureusement aussi les limites. Personne n'est parfait. Programmé 
+pour rédiger des lettres commerciales, l'appareil ignore les termes " 
+avoisiner ", " alentours " et comble ses lacunes comme il le peut. Sa 
+grammaire est encore hésitante. Pourtant, malgré ces petits défauts, 
+le système de dictée personnelle est un événement.</TEXT>
+<TEXT>
+  Si des prototypes similaires, souvent plus performants, 
+fonctionnent depuis plusieurs années en laboratoire, celui-ci est le 
+premier système de dictée en français mis dans le commerce. Depuis le 
+26 septembre, il est disponible au prix de 8 500 francs. Un prix 
+relativement modeste pour transformer en secrétaire (presque) modèle 
+un ordinateur personnel (PC) (1), grâce à une carte informatique, un 
+logiciel et un casque-microphone.</TEXT>
+<TEXT>
+  Cette petite révolution dans le monde de l'informatique grand 
+public correspond, de la part d'IBM, à un choix stratégique 
+audacieux. En effet, pour la plupart des informaticiens travaillant 
+sur la " reconnaissance de la parole ", le système qui permettrait à 
+un ordinateur de transcrire sans fautes un texte pris sous la dictée 
+n'est pas encore au point. Dans leurs laboratoires, tous peinent 
+depuis une vingtaine d'années pour permettre à leurs machines de " 
+comprendre " un discours prononcé normalement (avec les liaisons 
+entre les mots) par un interlocuteur qu'ils n'avaient jamais " 
+entendu " auparavant. Les progrès sont significatifs, mais l'objectif 
+est encore loin d'être atteint.</TEXT>
+<TEXT>
+ La voix de son maître</TEXT>
+<TEXT>
+ " Notre meilleur système, reconnaît Jean-Luc Gauvain, du LIMSI 
+(Laboratoire d'informatique pour la mécanique et les sciences de 
+l'ingénieur, CNRS, université d'Orsay), commet encore 16 % d'erreurs 
+dans la transcription d'un texte généraliste, comme un article du 
+Monde. Ce taux, inacceptable pour une utilisation courante, 
+correspond à la lecture d'un texte déjà rédigé. Mais si " 
+l'interlocuteur " improvise, avec toutes les hésitations et les " heu 
+" que cela implique, l'exercice devient impossible, sauf pour 
+quelques rares surdoués ", ajoute-t-il.</TEXT>
+<TEXT>
+  Au Centre national d'études des télécommunications (CNET), André 
+Soubigou, qui met au point des serveurs téléphoniques à 
+reconnaissance et synthèse vocales, va dans le même sens : " Le bon 
+fonctionnement de nos appareils implique, explique-t-il, qu'ils 
+soient capables de reconnaître un mot prononcé avec des timbres, des 
+intonations, voire des accents différents, au milieu d'un bruit de 
+fond souvent important d'une ligne téléphonique. Or les plus 
+performants ont actuellement un lexique réduit à 21 mots. "</TEXT>
+<TEXT>
+ Ces difficultés n'ont pas découragé les chercheurs d'IBM. Alors que 
+leurs collègues du secteur public s'échinent (c'est leur rôle) à 
+tenter de mettre au point le système parfait " à qui l'on pourra 
+dicter du Proust ". Ils ont opté pour le pragmatisme commercial. A 
+partir de ce qui se fait de mieux dans le domaine, ils ont préféré 
+porter leurs efforts sur l'ergonomie plutôt que sur le 
+perfectionnement du dispositif. Ainsi devient-il possible de mettre 
+un outil, certes imparfait, mais opérationnel et utilisable pour des 
+usages bien ciblés, à disposition du public.</TEXT>
+<TEXT>
+ Le système de dictée personnelle d'IBM est " monolocuteur ". Il ne 
+reconnaît que la voix de son maître, c'est-à-dire celle de celui qui 
+a pris, pendant une heure, la peine de lire à la machine un texte de 
+160 phrases que l'ordinateur " mouline " ensuite pendant trois heures 
+(2). Il est nécessaire de s'adresser au système en détachant très 
+clairement chaque mot. Car, s'il est capable de distinguer entre les 
+homophonies comme leur, leurre ou l'heure, il confond, en revanche, 
+journée faste et jour néfaste.</TEXT>
+<TEXT>
+  Un ordinateur ne réagit pas comme le cerveau humain. L'assimilation 
+de la grammaire et de la syntaxe reste largement hors de sa portée, 
+et il ne " comprend " évidemment pas le sens de ce qu'il imprime. 
+Tout est fondé sur les associations de mots. L'ordinateur est 
+incapable de conjuguer le verbe prier. En revanche, il sait 
+parfaitement qu'entre les locutions je vous et d'agréer, il faut 
+écrire prie plutôt que prit ou prix. On imagine le volume de mémoire 
+qu'un tel mode de fonctionnement exige. " Le français, langue dont 84 
+% des mots sont homophoniques, pose à cet égard plus de problèmes que 
+l'anglais où ils sont très rares ", précise Jean-Christophe Marcadet, 
+l'un des " pères " du système.</TEXT>
+<TEXT>
+ Les radiologues, premiers cobayes</TEXT>
+<TEXT>
+ D'autres firmes ont précédé IBM dans cette course à l'application 
+immédiate et astucieuse. Des systèmes commercialisés depuis déjà 
+plusieurs années, et que l'on pourrait qualifier de " fausse dictée 
+", permettent, par exemple, de rédiger rapidement des actes notariés 
+en ne dictant à l'appareil que les quelques mots (noms des 
+contractants, caractéristiques du bien vendu) qui changent dans des 
+textes par ailleurs immuables dans leur forme.</TEXT>
+<TEXT>
+  Récemment, certaines sociétés américaines sont allées plus loin. De 
+vrais systèmes de dictée personnelle ont été commercialisés (en 
+anglo-américain seulement) dès 1988 par Dragon System, et, l'an 
+dernier, par Kurzweil. Mais, bien qu'IBM soit le dernier arrivé sur 
+ce marché (en janvier 1994 aux Etats-Unis), les chercheurs américains 
+de la firme travaillaient sur le sujet depuis vingt ans. Leurs 
+collègues d'IBM-France n'ont démarré qu'il y a dix ans.</TEXT>
+<TEXT>
+  " Nous avons d'abord tenté de développer un système spécifiquement 
+français, fondé sur la reconnaissance des syllabes, et non pas des 
+mots, se souvient Jean-Christophe Marcadet. Mais nous avons reculé 
+devant l'ampleur de la tâche. Même IBM-France n'avait pas la carrure 
+nécessaire. Vers 1989, le groupe " parole " d'IBM comptait une 
+quarantaine de chercheurs aux Etats-Unis. Ici, à Paris, nous n'avons 
+jamais été plus de cinq ou six. Nous avons donc décidé de nous 
+appuyer sur la recherche menée par nos collègues américains. "</TEXT>
+<TEXT>
+  En 1992, l'équipe d'IBM-France propose Tangora, le premier système 
+de dictée en français. Commercialisé de manière presque 
+confidentielle, ce quasi-prototype est expérimenté par quelques 
+radiologues, qui présentaient le double avantage d'être intéressés 
+et, surtout, de posséder le puissant ordinateur RS 6000 (valeur 300 
+000 à 400 000 francs) capable de le faire fonctionner.</TEXT>
+<TEXT>
+  Le système de dictée personnelle proposé aujourd'hui n'est rien 
+d'autre qu'un Tangora tournant sur un PC trente fois moins coûteux. 
+Pour arriver à ce résultat, " deux ans d'efforts acharnés sur les 
+algorithmes ont été nécessaires, explique Hubert Crepy, chef de 
+projet. Nous avons taillé, coupé les branches inutiles, repris les 
+programmes... "</TEXT>
+<TEXT>
+ L'équipe va aujourd'hui poursuivre ce travail d'" arboriculteur 
+informatique " afin d'améliorer son produit, " étoffer l'offre, 
+augmenter le vocabulaire et réduire les erreurs ", tout en restant 
+dans les limites de la puissance offerte par un PC. Impossible de 
+baisser la garde : la concurrence ne reste pas inactive. Philips 
+devrait sortir prochainement son propre système de dictée. Capable de 
+reconnaître la parole continue, il serait donc plus perfectionné que 
+celui d'IBM, mais tournerait sur des ordinateurs plus puissants, avec 
+un taux d'erreurs un peu supérieur.</TEXT>
+<TEXT>
+  Où s'arrêtera-ton ? " Pour l'instant, reconnaît Jean-Christophe 
+Marcadet, les contraintes de ce genre de produit limitent son usage à 
+un type de " client " bien précis. " En gros, les " réfractaires au 
+clavier " qui peuvent se contenter d'un vocabulaire spécialisé 
+limité. C'est, typiquement, le cas des radiologues. Ils enregistrent 
+généralement leur rapport au dictaphone à l'intention de leur 
+secrétaire, tout en étudiant la radio du patient. Sans changer leurs 
+habitudes, ils peuvent désormais remettre immédiatement à leur client 
+ce document, après quelques corrections rapides, effectuées 
+d'ailleurs sans clavier (il suffit de " cliquer " avec la " souris " 
+le mot correct parmi une liste de cinq ou six proposés par 
+l'ordinateur).</TEXT>
+<TEXT>
+ "On dirait qu'ils ont peur"</TEXT>
+<TEXT>
+ Mais l'éventail des utilisateurs s'étendra forcément avec le 
+perfectionnement des algorithmes. La plupart des experts ne croient 
+guère à la mise au point d'un système capable de comprendre " la 
+parole spontanée " comme une secrétaire modèle. " Il y faudrait 
+pratiquement l'intelligence humaine ", admet Jean-Christophe 
+Marcadet. Pourtant, estime-t-il, même les virtuoses du clavier se 
+mettront un jour à la dictée, fût-elle mot par mot. " La parole est 
+l'expression la plus directe de la pensée. Cela peut changer notre 
+rapport à la machine ", ajoute-t-il. Hélas, craint André Soubigou, du 
+CNET, ce changement risque de prendre un certain temps : " Depuis 
+1986, nous disposons de systèmes très performants. Quelques-uns 
+trouvent déjà des applications, mais il pourrait y en avoir beaucoup 
+plus. Je sens une certaine réticence de la part des utilisateurs 
+potentiels. On dirait qu'ils ont peur... "    
+</TEXT>
+</DOC>

@@ -1,0 +1,97 @@
+<DOC>
+<DOCNO>LEMONDE95-047594</DOCNO>
+<DOCID>LEMONDE95-047594</DOCID>
+<ACCOUNT>429496</ACCOUNT>
+<CHA1>1</CHA1>
+<DATE>19951230</DATE>
+<LMDOC>EVB</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q291295/1650</FAB>
+<SUBJECTS>RESEAU INTERACTIF,NOUVEAU MEDIA,MUSIQUE,CREATION,LOGICIEL,MUTATION,DATE</SUBJECTS>
+<NOM1>JARRE JEAN MICHEL,INTERNET</NOM1>
+<NOTE>DOC : texte avec un encadré et un commentaire.</NOTE>
+<NUM1>951230-13</NUM1>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-013-31</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>ALBERGANTI MICHEL</AUTHOR>
+<SIP1>MICHEL ALBERGANTI</SIP1>
+<SOT1>En dépit de progrès notables, la transmission du son en direct sur le réseau reste de piètre qualité. Le site, consacré à Jean-Michel Jarre,  ouvert par le serveur du ministère de la culture, n'échappe pas à cette faiblesse</SOT1>
+<SU11>AUJOURD'HUI - TECHNOLOGIE</SU11>
+<PAGE>1</PAGE>
+<LEAD1>SITE INAUGURE LE MARDI 20 DECEMBRE 1995.</LEAD1>
+<TITLE>Internet apprend laborieusement la musique</TITLE>
+<TEXT> SUR LE RÉSEAU des réseaux règne encore un grand silence. Netscape et les autres " logiciels de navigation " sur le Web, la " toile " d'Internet, 
+affichent sans problèmes majeurs les textes et les images. Mais ils restent quasiment 
+muets.</TEXT>
+<TEXT>
+  D'où la fierté non dissimulée de Philippe Douste-Blazy, le ministre de la culture, lorsqu'il 
+a inauguré, mardi 20 décembre, le site dédié à la musique de Jean-Michel Jarre sur le 
+serveur de son ministère. " C'est la première fois qu'un créateur conçoit une oeuvre pour 
+Internet ", s'est-il exclamé. De fait, " Un espace pour la tolérance " associe une musique 
+de fond à une série de photos, dessins, graphiques et textes évoquant le Concert pour la 
+tolérance, donné le 14 juillet dernier par le compositeur devant la tour Eiffel. Pour autant, 
+associer une musique à des images ne constitue pas une première. Les outils informatiques 
+permettant de concevoir un tel accompagnement sonore existent depuis avril 1995, date du 
+lancement du logiciel RealAudio Player, conçu par une entreprise américaine de Seattle, 
+Progressive Networks. Mais l'équipe informatique du ministère de la culture a le mérite 
+d'avoir associé étroitement le son et les images, issues du même auteur, ce qui reste, 
+semble-t-il, très rare sur la " toile ".</TEXT>
+<TEXT>
+  Jusqu'en avril dernier, le netsurfer en mal de musique devait s'armer de patience. Avant 
+d'écouter le morceau choisi sur l'un des nombreux sites musicaux d'Internet, il devait 
+l'enregistrer sur son ordinateur comme n'importe quel autre fichier. Or la musique est très 
+gourmande en bits, ces unités d'information numérique. D'où " des délais de 25 minutes de 
+chargement pour pouvoir écouter 5 minutes de musique ", selon Progressive Networks.</TEXT>
+<TEXT>
+  Dans les faits, aux heures de pointe d'utilisation du réseau, l'attente peut se révéler 
+beaucoup plus longue. Après cette épreuve, un logiciel déchiffre le fichier et diffuse le son 
+sur les haut-parleurs de l'ordinateur avec une qualité variable mais souvent acceptable. 
+Pour réduire la durée de l'attente, les serveurs limitent souvent leur offre à des extraits 
+musicaux de quelques minutes, voire de quelques dizaines de secondes.</TEXT>
+<TEXT>
+  Le logiciel RealAudio supprime l'étape de " chargement " en diffusant le son en direct. La 
+musique est alors accessible aussi&gt; facilement qu'avec un magnétophone. A la qualité 
+près.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ PERDUS EN ROUTE</TEXT>
+<TEXT>
+En effet, l'entreprise a choisi de privilégier la rapidité d'accès et la diffusion en continu du 
+son. Le résultat dépend entièrement du débit disponible sur le réseau. Le logiciel lit à la 
+volée les bits transmis avec le protocole UDP, distinct du protocole TCP couramment 
+utilisé sur la " toile ".</TEXT>
+<TEXT>
+  UDP a la caractéristique de " livrer " ses paquets de données pratiquement sans délai 
+mais également sans assurance de livraison. Cela signifie que certains paquets de bits 
+peuvent se perdre en cours de route. Ainsi, RealAudio affiche sa performance en taux de 
+perte. Au-delà de 5 %, le son se dégrade. A partir de 10 %, il devient quasiment inaudible. 
+Cette solution semble plus adaptée à la diffusion de communiqués parlés qu'à celle 
+d'oeuvres musicales. Il est très utilisé par les chaînes de radio présentes sur Internet. 
+Progressive Networks déclare que 910 000 logiciels RealAudio ont été téléchargés par des 
+utilisateurs depuis avril 1995. Et plus de 230 sites de la " toile " offrent du son que l'on 
+peut déchiffrer avec ce logiciel.</TEXT>
+<TEXT>
+  Pour éviter à Jean-Michel Jarre une fâcheuse dégradation de son oeuvre, le ministère de 
+la culture s'est tourné vers un autre logiciel, Internet Wave ou IWave, conçu par VocalTec. 
+Cette entreprise américaine, fondée en 1991 à Northvale, dans le New Jersey, s'est 
+distinguée, dès 1993, avec un logiciel de conversation vocale sur Internet. En septembre 
+1995, elle lançait son concurrent de RealAudio.</TEXT>
+<TEXT>
+ Encore peu répandu sur la " toile ", IWave garantit une restitution tout à fait correcte de 
+la musique. La technique utilisée évite de perdre des bits en route. En revanche, elle 
+impose le remplissage d'un réservoir tampon. Lorsque ce dernier est plein, la musique est 
+automatiquement restituée. Mais s'il vient à se vider faute d'être suffisamment alimenté, le 
+son s'interrompt le temps d'un nouveau remplissage. D'où une écoute d'autant plus hachée 
+que le débit du réseau est faible. Aux heures de pointe, le résultat n'est guère concluant.</TEXT>
+<TEXT>
+  Le netsurfer mélomane risque donc de rester sur sa faim. Pour améliorer son confort 
+d'écoute, le recours à un modem de 28 800 bits par seconde (bps) semble inévitable. Le 
+ministère de la culture recommande cet outil, même s'il ne résout pas tous les problèmes 
+d'encombrement du réseau. Progressive Networks vient d'ailleurs de lancer la version 
+numéro deux de RealAudio qui ne fonctionne qu'avec un tel modem, deux fois plus puissant 
+que les modèles classiques à 14 400 bps, encore suffisants il y a un an. La démonstration 
+que le matériel pas plus que les logiciels nécessaires pour accéder à Internet ne sont pas 
+encore stabilisés.</TEXT>
+</DOC>

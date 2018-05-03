@@ -1,0 +1,90 @@
+<DOC>
+<DOCNO>LEMONDE95-011467</DOCNO>
+<DOCID>LEMONDE95-011467</DOCID>
+<ACCOUNT>382311</ACCOUNT>
+<GENRE>ILLUSTRATION</GENRE>
+<DATE>19950323</DATE>
+<LMDOC>MID</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q220395/1651</FAB>
+<SUBJECTS>ENERGIE NUCLEAIRE,RECHERCHE SCIENTIFIQUE,ROBOTIQUE,ORDINATEUR,TECHNOLOGIE,DESCRIPTION</SUBJECTS>
+<NOTE>DOC: avec une illustration</NOTE>
+<NUM1>950323-23</NUM1>
+<NAMES>CEA</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-023-32</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>ALBERGANTI MICHEL</AUTHOR>
+<SIP1>MICHEL ALBERGANTI	
+</SIP1>
+<PAGE>1</PAGE>
+<LEAD1>ILLUSTRATION:LA TELEOPERATION DE L'AN 2000</LEAD1>
+<TITLE>Le CEA partage le travail " délicat " entre l'homme et la machine</TITLE>
+<TEXT> EN CAS DE PANNE dans une centrale nucléaire, il faut agir vite. Pas question pour autant de dépêcher une équipe de techniciens dans les zones 
+fortement irradiées. Pour répondre à ces besoins extrêmes, le service de téléopération et 
+de robotique du CEA à Fontenay-aux-Roses développe des robots commandés à distance. 
+Mais les amateurs de robots qui se déplacent et travaillent tout seuls seront déçus. La 
+tendance actuelle, qui favorise la téléopération, est moins portée sur la science-fiction.</TEXT>
+<TEXT>
+  La première génération de robots actionnés à distance par un opérateur utilisait un 
+couplage mécanique entre un bras " maître " et un bras " esclave ". Mais cette liaison 
+impose une distance de téléopération très faible. Pour éloigner l'opérateur, le CEA a fait 
+appel aux moteurs électriques. Pour que l'opérateur ressente l'effet de chacune de ses 
+actions, les bras esclaves ont été équipés de systèmes de " retour d'effort ". Mais la 
+complexité des tâches à accomplir a conduit, dès 1987, à introduire une assistance par 
+ordinateur.</TEXT>
+<TEXT>
+  Aujourd'hui, le CEA travaille sur le projet TAO 2000 qui fait appel à toute la panoplie des 
+techniques informatiques : images virtuelles, simulation, vision en relief... Fort des 
+expériences passées, le CEA a conçu une programmation qui répartit astucieusement le 
+travail entre l'homme et la machine.</TEXT>
+<TEXT>
+  Le TAO 2000 joue ainsi la carte du travail manuel assisté par ordinateur. " Il y a deux 
+façons d'utiliser une perceuse : soit on la tient à la main, ce qui impose une grande habileté 
+; soit on la fixe sur un bâti ", explique Philippe Gravez, ingénieur en charge du projet TAO 
+2000. " Nous utilisons l'ordinateur pour assister l'opérateur de la même façon que le bâti 
+qui facilite le perçage ", précise-t-il.</TEXT>
+<TEXT>
+  Pour réaliser une opération de réparation (sciage, soudage...) ou de maintenance, deux 
+images vidéo de la zone d'intervention suffisent. Ensuite, le décor est numérisé. Grâce à la 
+double prise de vue, l'ordinateur reconstitue une scène en trois dimensions à l'aide du 
+logiciel Pyramide, développé par le CEA. Afin de réduire le temps de calcul, la 
+#modélisation reste schématique. " Nous tenons compte du fait que l'opérateur " sait " qu'il 
+travaille sur un tuyau, par exemple, d'où la possibilité de simplifier la représentation 
+virtuelle ", indique Philippe Gravez.</TEXT>
+<TEXT>
+  Mais pourquoi passer par cet intermédiaire au lieu de travailler directement avec l'image 
+de caméras vidéo ? " L'ordinateur impose des contraintes au bras du robot ", répond 
+l'ingénieur. Lorsque le robot mesure l'épaisseur d'un tube, l'ordinateur maintient en 
+permanence la sonde en position perpendiculaire à la surface du tuyau. L'opérateur ne se 
+préoccupe plus que du déplacement du robot. De même, chaque élément du décor est 
+identifié comme un obstacle que le robot doit éviter. Sur l'écran, la zone de contact apparaît 
+en rouge dès que le bras s'en approche de trop près et le bras maître est automatiquement 
+stoppé.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ APPLICATIONS HORS NUCLÉAIRE</TEXT>
+<TEXT>
+ Ainsi, l'ordinateur évite les collisions et pilote les mouvements standards de la réparation 
+tandis que l'opérateur se concentre sur la partie la plus délicate de l'opération. " Nous 
+facilitons l'utilisation afin qu'un non-spécialiste en robotique puisse se servir du système ", 
+précise Philippe Gravez, qui justifie cette vulgarisation par la recherche d'applications hors 
+nucléaire. " Au lieu de chercher à obtenir les meilleures performances possibles, nous 
+garantissons certaines performances dans le plus grand nombre possible de domaines 
+d'applications ", ajoute-t-il.</TEXT>
+<TEXT>
+ Grâce à cette philosophie, le CEA espère diversifier les applications des robots issus du 
+programme TAO 2000. Dans le nucléaire, bien sûr, le démantèlement et la maintenance 
+sont concernés. Mais le sous-marin est également plein de promesses. Des interventions 
+par 5 000 mètres de fond pour l'inspection et l'entretien des structures de plates-formes de 
+forage sont expérimentées avec Elf Norvège en mer du Nord.</TEXT>
+<TEXT>
+ Le CEA envisage également des marchés plus ponctuels tels que celui des " salles 
+blanches ". La traque de chaque grain de poussière pour protéger les machines de 
+fabrication des composants électroniques s'accommode mal de la présence humaine.</TEXT>
+<TEXT>
+  De même, EDF serait très intéressé par plusieurs centaines de robots pour assurer la 
+maintenance de ses lignes à haute tension sans couper le courant électrique. Un travail 
+particulièrement délicat pour l'homme seul.</TEXT>
+</DOC>

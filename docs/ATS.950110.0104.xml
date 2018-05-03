@@ -1,0 +1,122 @@
+<DOC>
+<DOCID>ATS.950110.0104</DOCID>
+<DOCNO>ATS.950110.0104</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+950110
+</DT>
+<PT>
+114500
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+c5swi ecps comt prod
+</DE>
+<AU>
+jn al
+</AU>
+<KW>
+suisse informatique infographie eclairage
+</KW>
+<TI>
+Infographie: le PC transforme l'image éclairage par Alain Graber,
+SIM-Informatique.
+</TI>
+<LD>
+Berne, 10 jan (sim) Désormais, le micro-ordinateur permet non seulement de
+réaliser efficacement des images et illustrations, mais aussi de les
+transformer et de les combiner à souhait. Avec la "vectorisation" des images,
+les arts graphiques n'ont aujourd'hui pour limites que la créativité des
+utilisateurs de ces programmes.
+</LD>
+<TX>
+Qu'il s'agisse d'illustrer un sondage d'opinions, de présenter graphiquement
+les résultats d'une société, de mettre en page une publication ou de proposer
+des projets d'architecture dans leur contexte, rien ne vaut le concours de
+l'ordinateur. Il est vrai que le traitement de texte et le tableur (logiciel
+de calcul pour les tableaux chiffrés), qui ont présidé au développement de
+toute la micro-informatique, ont très vite débouché sur des applications
+graphiques.
+</TX>
+<ST>
+Des bâtons et gâteaux à l'infographie
+</ST>
+<TX>
+Le chemin parcouru est impressionnant depuis les premiers histogrammes et
+graphiques en gâteau. Aujourd'hui, les "mêmes" tableurs proposent des
+dizaines de possibilités pour représenter graphiquement des résultats
+chiffrés. Que ce soit en deux dimensions, en perspective ou en trois
+dimensions, les logiciels graphiques se ont rapidement dotés de bibliothèques
+de symboles graphiques et ont donné naissance à l'infographie.
+</TX>
+<TX>
+En informatique, il existe deux types d'images: les images points et les
+images vecteurs. Les images points sont formées d'une multitude de points
+(appelés aussi pixels) rangés les uns à côté des autres. Elles sont réalisées
+à l'aide de logiciels dits de peinture ou par des systèmes de numérisation
+d'images (tablette à numériser, scanner ou appareil de photo électronique).
+</TX>
+<TX>
+Sur un écran à haute définition, l'utilisateur apercevra les points d'une
+telle image en zoomant son dessin. Il pourra très facilement retoucher
+l'image en ajoutant ou en effaçant des points avec la souris. Par rapport à
+l'image point, l'image vecteur est, elle, parfaitement lisse et se laisse
+facilement déformer dans tous les sens. Dans ce domaine surtout, les progrès
+récents sont considérables.
+</TX>
+<TX>
+Ainsi, les problèmes de compatibilité rencontrés pour faire apparaître
+simultanément - sur un même écran et en surimpression - des images points et
+des images vecteurs sont désormais résolus.  Dorénavant, l'utilisateur peut
+charger une image points et importer un dessin vectorisé par-dessus, sans que
+l'ordinateur ne rechigne.
+</TX>
+<ST>
+Projets virtuellement plus réels
+</ST>
+<TX>
+Certains logiciels de dessin technique ou de dessin assisté par ordinateur
+(DAO) basés sur les images vecteurs acceptent des images points en "toile de
+fond". Avec eux, un architecte, par exemple, peut présenter ses projets de
+villas ou d'immeubles dans un contexte réel, en surimpression d'une photo -
+préalablement numérisée - du site de construction.
+</TX>
+<TX>
+Quelques éditeurs proposent depuis cette année de nouveaux logiciels qui
+permettent à l'utilisateur de vectoriser une image points. Les premiers
+logiciels de ce type transformaient l'image points en une surdose de vecteurs
+inutilisables. Ce défaut est éliminé: l'utilisateur décide désormais du
+nombre de vecteurs qu'il veut donner à telle ou telle image. En outre, le
+procédé est rapide et très convivial.
+</TX>
+<ST>
+Les plates-formes professionnelles
+</ST>
+<TX>
+Pour les applications professionnelles, les logiciels de mise en page
+célèbres comme PageMaker ou Ventura récupèrent aujourd'hui sans problème les
+fichiers des images préalablement travaillées à l'aide de logiciels
+graphiques spécialisés. La plupart des logiciels graphiques proposent aussi
+l'édition de films pour des publications en quadrichromie: magenta, cyan,
+jaune et noir.
+</TX>
+<TX>
+L'utilisateur qui ne possède pas d'imprimante couleur peut envoyer une copie
+de disquette à son imprimeur pour des tirages couleurs de qualité
+professionnelle. Les plus fortunés pourront acquérir l'une des imprimantes
+laser couleur de format A3/A4 désormais disponibles sur le marché suisse.
+</TX>
+</DOC>

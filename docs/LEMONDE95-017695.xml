@@ -1,0 +1,106 @@
+<DOC>
+<DOCNO>LEMONDE95-017695</DOCNO>
+<DOCID>LEMONDE95-017695</DOCID>
+<ACCOUNT>390851</ACCOUNT>
+<GENRE>ILLUSTRATION</GENRE>
+<CHA1>1</CHA1>
+<DATE>19950506</DATE>
+<LMDOC>EVB</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q050595/1661</FAB>
+<SUBJECTS>AUTOBUS,CIRCULATION,SATELLITE</SUBJECTS>
+<NOTE>DOC : avec un schéma.</NOTE>
+<NUM1>950506-22</NUM1>
+<NAMES>RATP</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-022-31</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>ALBERGANTI MICHEL</AUTHOR>
+<SIP1>MICHEL ALBERGANTI</SIP1>
+<SOT1>Pour régulariser le trafic de ses véhicules et offrir un meilleur service à ses usagers,  la RATP fait appel à un système de localisation par satellite</SOT1>
+<SU11>AUJOURD'HUI - SCIENCES</SU11>
+<PAGE>1</PAGE>
+<LEAD1>TITRE : DES BUS SUIVIS A LA TRACE.</LEAD1>
+<TITLE>Gare du Nord - Villejuif , une ligne de bus suivie par les étoiles</TITLE>
+<TEXT> LA " TÊTE DE VACHE " de l'arrêt Kremlin-Bicêtre affiche : " 3 min " d'attente pour le prochain bus. Au dessous de cette indication, la seconde ligne de 
+cristaux liquides mentionne : " Deuxième bus retardé ". Vous voilà prévenu. Mieux vaut 
+prendre la première voiture, même si elle est un peu surchargée. A l'intérieur du bus, au-
+dessus du plan de la ligne 47 (Gare du Nord-Villejuif), les indications lumineuses défilent : 
+" Destination : Gare du Nord ; Arrivée dans 25 min. Prochain arrêt : Monge. Arrivée dans 
+3 min ". Nous sommes dans l'un des 20 véhicules de cette ligne sur laquelle la RATP 
+expérimente depuis quinze jours son nouveau système Altaïr (Le Monde du 16 novembre 
+1994).</TEXT>
+<TEXT>
+ Pour fournir ces précieuses informations aux voyageurs, la Régie fait appel aux vingt-
+quatre satellites américains du système GPS (Global Positioning System) qui gravitent à 20 
+000 kilomètres d'altitude. Dès que trois d'entre eux sont captés par l'antenne du bus, un 
+micro-calculateur mesure par triangulation la position du véhicule à 10 mètres près, grâce à 
+une mesure différentielle.</TEXT>
+<TEXT>
+ " Ce principe était réputé inexploitable dans les villes ", indique André Ampelas, directeur 
+du département Systèmes d'information et de télécommunications de la RATP.</TEXT>
+<TEXT>
+ 
+ Pour la sécurité,</TEXT>
+<TEXT>
+ l'objectif est</TEXT>
+<TEXT>
+ de diviser par deux</TEXT>
+<TEXT>
+ le temps moyen</TEXT>
+<TEXT>
+ d'intervention, qui</TEXT>
+<TEXT>
+ est de dix minutes</TEXT>
+<TEXT>
+ 
+  " En effet, en dehors des croisements qui sont dégagés, la hauteur des immeubles masque 
+l'antenne qui ne peut donc recevoir les trois signaux nécessaires aux calculs ", ajoute-t-il. 
+Pour supprimer cette contrainte, baptisée " effet canyon ", la Régie a mis au point un 
+système de localication à l'estime utilisant pour la mesure de direction un gyromètre 
+embarqué et pour la mesure de distance un odomètre. Lorsque le bus arrive au croisement 
+suivant, ou dans toute autre partie dégagée de son trajet, le système se recale précisément 
+sur les satellites. Un logiciel de map matching se charge alors de corriger l'erreur de 
+position pour localiser le bus dans la rue et non au milieu d'un immeuble, ce qui peut arriver 
+avec l'écart d'incertitude de dix mètres du système.</TEXT>
+<TEXT>
+ Sur l'écran de l'ordinateur du Poste de commandes local (PCL) de la ligne 47, à la Porte 
+d'Italie, l'ensemble des bus s'affiche en correspondance parfaite avec la carte de Paris. 
+C'est là que le régulateur de trafic entre en action. Auparavant, il devait contacter chaque 
+bus par radio pour faire connaître sa position. Un système lourd qui perturbait la conduite 
+des machinistes et encombrait les lignes du radio-téléphone.</TEXT>
+<TEXT>
+  Avec Altaïr, toutes ces informations parviennent automatiquement au régulateur du PLC 
+qui, en retour, envoie des indications aux machinistes. " Nous cherchons à améliorer la 
+régularité de passage de nos bus ", déclare Robert Jung, directeur du réseau bus de la 
+RATP. " Les irrégularités sont liées, explique-t-il, pour moitié, aux pertubations du trafic 
+et, pour moitié aux faiblesses de l'exploitant ". D'où l'objectif de supprimer ces " convois 
+de bus à la queue leu leu qui se forment sans qu'on l'ait voulu et qui peuvent comprendre 
+jusqu'à cinq véhicules ". Pour remédier à cette situation, le système Altaïr envoie donc un 
+message au conducteur de bus pour qu'il retarde ou non son véhicule. Ce dernier dispose 
+d'ailleurs, dans sa cabine, de l'indication de la distance qui le sépare du véhicule qui le suit 
+et de celle de celui qui le précède.</TEXT>
+<TEXT>
+  Mais la localisation, outre son rôle en matière d'information du public et d'amélioration de 
+la régularité du trafic des bus, est également exploitée par le service sécurité de la RATP. 
+Un autre système, Aigle, la reprend à son compte en la couplant au signal d'alarme dont 
+sont déjà équipés les 4 000 bus parisiens. Jusqu'à présent, il était possible de savoir si un 
+bus était en difficulté, mais sans connaître sa position précise. Aigle localise non seulement 
+le véhicule qui lance l'alarme mais aussi les cinquantes équipes d'intervention dont dispose 
+la RATP. Depuis le PC Sécurité de Denfert-Rochereau, l'équipe la plus proche du bus qui a 
+donné l'alarme est dépêchée sur les lieux. " Notre objectif est de diviser par deux notre 
+délai d'intervention moyen qui est aujourd'hui d'environ 10 minutes ", affirme Robert 
+Jung.</TEXT>
+<TEXT>
+  A la suite de l'expérience de la ligne 47, la RATP prévoit une généralisation de la 
+localisation de ses véhicules. " Notre objectif est d'équiper quarante lignes d'ici à 1997, 
+soit 1 000 bus et environ 1 000 stations ", déclare Jean-Paul Bailly, PDG de la RATP.</TEXT>
+<TEXT>
+ En termes de coût, André Ampelas se félicite des économies réalisées. " Nous avons 
+réduit le prix d'une borne de 100 000 francs à seulement 15 000 francs grâce à l'utilisation 
+du système de radio-messagerie existant pour communiquer nos informations ", explique-t-
+il. De même, l'équipement de chaque bus revient à 70 000 francs au lieu des 250 000 francs 
+estimés initialement. Et, en prime, la RATP teste un serveur vocal qu'il suffira demain 
+d'appeler par téléphone pour connaître l'heure de passage du prochain bus. Sans même 
+descendre de chez soi.</TEXT>
+</DOC>

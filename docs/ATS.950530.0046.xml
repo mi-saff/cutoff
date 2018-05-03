@@ -1,0 +1,127 @@
+<DOC>
+<DOCID>ATS.950530.0046</DOCID>
+<DOCNO>ATS.950530.0046</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+950530
+</DT>
+<PT>
+123700
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+c5swi ecpi ecps for
+</DE>
+<AU>
+agr jn
+</AU>
+<KW>
+suisse informatique image numerique
+</KW>
+<TI>
+Images numériques et manipulations vidéo Un marché en pleine expansion
+éclairage par Alain Graber, SIM-Informatique.
+</TI>
+<LD>
+Berne, 30 mai (sim) La numérisation d'images se démocratise.  Autrefois
+compliqué et cher, le scanner (ou numériseur) affiche enfin des performances
+dignes d'intérêt. Le marché de ce type d'appareil a d'ailleurs littéralement
+explosé depuis l'année dernière.
+</LD>
+<TX>
+Plus que jamais, le paradoxe informatique qui consiste à obtenir des
+appareils de plus en plus performants à des prix de plus en plus bas se
+vérifie. A titre d'exemple, un scanner pouvant numériser des documents
+noir/blanc à plat, au format A4, avec une résolution de 300 points par pouce,
+coûtait souvent plusieurs milliers de francs il y a quelques temps.
+</TX>
+<TX>
+Aujourd'hui, pour moins de mille francs, l'utilisateur peut acquérir un
+numériseur couleur, dont la définition standard peut monter jusqu'à 1200
+points par pouce et par interpolation. De telles performances étaient
+jusqu'ici réservées au domaine semi- professionnel. Bien entendu, pour
+bénéficier de telles performances, il est nécessaire de disposer d'un
+ordinateur à la hauteur.
+</TX>
+<ST>
+Matériel performant impératif
+</ST>
+<TX>
+L'idéal est de pouvoir disposer d'un ordinateur à processeur Pentium, cadencé
+à 60, 90 ou 100 Mhz, avec 16 Mégaoctets (Mo) de mémoire vive au moins et si
+possible équipé d'une carte graphique accélérée, munie de 2 Mo de mémoire
+vidéo. Pour sauvegarder une image à 1200 points par pouce, il faudra aussi
+pouvoir compter sur un disque dur rapide de 500, voire 800 Mo, de 10
+millisecondes de temps d'accès moyen.
+</TX>
+<TX>
+Actuellement, la différence de prix pour un disque dur de 800 Mo de capacité
+par rapport à un 500-Mo n'excède pas cent francs. Ainsi équipé, l'utilisateur
+pourra numériser ses photographies avec une qualité parfaite. Il faudra si
+possible travailler avec un écran d'une résolution minimale de 800 x 600
+points et 256 couleurs. Un affichage à 16 couleurs ne donnera que de piètres
+résultats. Pour un travail fréquent sur des images, un moniteur de 17 pouces
+de diagonale est recommandé.
+</TX>
+<ST>
+Travail de l'image
+</ST>
+<TX>
+L'utilisateur professionnel investira quelques milliers de francs de plus
+pour obtenir une résolution optique encore plus élevée.  Certains modèles
+sont vendus avec un adaptateur pour diapositives.  Avec un logiciel de
+retouches d'images comme Image-In ou Photoshop, l'utilisateur pourra
+retoucher les couleurs de son document à l'écran, ajouter un logo ou un
+graphique élaboré avec un autre programme.
+</TX>
+<TX>
+Ces logiciels permettent aussi de surexposer des images "vecteurs" - en
+provenance de logiciels de dessin développés avec des outils CAD (Computer
+Aided Design) - sur des images "points" développées grâce à un scanner ou un
+logiciel dit de "peinture". Comme toujours, le résultat final sur papier
+dépendra fortement de la qualité de l'imprimante.
+</TX>
+<ST>
+Possibilités innombrables
+</ST>
+<TX>
+Certaines imprimantes à jet d'encre, notamment celles capables d'imprimer des
+documents avec une résolution de 720 points par pouce, donnent d'excellents
+résultats. Les plus exigeants utiliseront la qualité laser couleur ou les
+systèmes à transfert thermique.
+</TX>
+<TX>
+Il existe, comme pour le son, des cartes (interfaces) spécialisées pour la
+saisie d'images vidéo sur ordinateur. Pour peu que l'on ne soit pas rebuté
+par les notices d'emploi compliquées, l'installation d'une telle interface
+est à la portée de n'importe quel utilisateur "éclairé". Bien entendu, la
+carte seule ne pourra pas faire de saisie sans caméra vidéo.
+</TX>
+<TX>
+La plupart des caméras du marché fonctionnent avec de telles cartes. Il
+existe plusieurs logiciels d'exploitation d'images vidéo sur le marché. La
+plupart fonctionnent sous Windows et permettent, outre la saisie d'images en
+temps réel, d'effectuer des montages simples. L'ordinateur fait alors office
+de mini-régie vidéo et met au service de l'utilisateur toute la magie du
+"couper-coller" que connaissent bien les graphistes.
+</TX>
+<TX>
+Note aux rédactions: Ce texte a été produit avec le soutien d'IBM (Suisse).
+L'indépendance rédactionnelle de l'ATS dans le choix et le traitement des
+sujets est garantie. Merci, en cas de publication, d'utiliser la signature
+(sim) ou (sim/ats), et non (ats).
+</TX>
+</DOC>

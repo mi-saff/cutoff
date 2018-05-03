@@ -1,0 +1,150 @@
+<DOC>
+<DOCID>ATS.950711.0111</DOCID>
+<DOCNO>ATS.950711.0111</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+950711
+</DT>
+<PT>
+101800
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<RC>
+iq
+</RC>
+<OC>
+ecf
+</OC>
+<DE>
+come comt ecps prod c5swi
+</DE>
+<AU>
+mwz cd lp
+</AU>
+<KW>
+informatique cartes horaires électroniques
+</KW>
+<TI>
+Saison des vacances - saison des voyages L'ordinateur remplace les cartes et
+les horaires éclairage par Matthias W. Zehnder, SIM-Informatique
+</TI>
+<LD>
+Berne, 11 juil (sim) Toute une gamme de programmes, d'outils et moyens
+électroniques permettent aujourd'hui de planifier efficacement un voyage avec
+un PC. Combinées avec un système de repérage, les cartes électroniques dans
+les voitures se transformeront dans un proche avenir en système de guidage.
+</LD>
+<TX>
+Le plus fatiguant dans le voyage, c'est la préparation: les horaires
+changeants, les détours compliqués en raison de cols fermés peuvent
+constituer de véritables casse-têtes. Toute une série de programmes
+informatiques apportent une assistance étudiée avec subtilité, qui facilite
+la préparation de voyages.
+</TX>
+<ST>
+Horaires électroniques
+</ST>
+<TX>
+Ainsi, certains programmes informatiques peuvent remplacer la consultation
+d'horaire. Depuis quelques années, il existe deux horaires électroniques: les
+CFF eux-mêmes vendent un horaire électronique, le "Hafas". La nouvelle
+édition du Hafas fonctionne sous Windows et permet d'obtenir toutes les
+correspondances de trains, de bus et de bateaux en Suisse. Avec
+l'"international Update", on peut également appeler les principales
+correspondances internationales de chemins de fer.
+</TX>
+<TX>
+Outre l'horaire électronique des CFF, il y a un deuxième horaire
+électronique: "Finajour" de la société du même nom à Therwil, près de Bâle.
+"Finajour" existe depuis sensiblement plus longtemps que l'horaire des CFF,
+le programme n'exige qu'une disquette, au lieu de deux, et occupe
+passablement moins de place sur le disque dur.  Au niveau de l'utilisation,
+les programmes sont comparables.
+</TX>
+<ST>
+Supplément compris
+</ST>
+<TX>
+Les deux horaires comprennent la liste des gares et des arrêts de cars
+postaux. L'utilisateur n'a pas besoin de savoir exactement comment s'écrit le
+nom d'un endroit, il clique simplement sur le lieu de départ, de destination
+ou de passage sur la liste. Les programmes calculent alors les
+correspondances. Une série de services peuvent être demandés. On peut obtenir
+le temps minimal pour changer en train ou le plus long parcours à pied, ainsi
+qu'un supplément à payer.
+</TX>
+<TX>
+Il existe aussi des horaires dans l'espace cybernétique: l'horaire des CFF
+peut être appelé par Vidéotex sous *CFF . Cet horaire online ne dispose
+cependant pas de toutes les fonctions de l'horaire sur disquettes. Les
+membres du service "Compuserve" peuvent appeler les horaires des trains
+européens proposés par les chemins de fer allemands (GO BAHN) avec les
+indications de tarifs.  Les horaires d'avions de différentes compagnies
+peuvent aussi être appelés online.
+</TX>
+<ST>
+Itinéraire automatique
+</ST>
+<TX>
+La carte géographique est au conducteur ce que l'horaire est au train. Des
+cartes électroniques avec définition automatique d'itinéraire facilite la
+préparation d'un voyage. Pour la Suisse, il faut recommander "Finaroute", un
+atlas routier électronique du même fabricant que "Finajour". Le programme
+connaît toutes les routes de Suisse et calcule, au choix, la liaison la plus
+rapide ou la plus courte entre deux points.
+</TX>
+<TX>
+Il existe toute une série d'atlas électroniques sur CD-ROM pour les autres
+pays. Le plus grand atlas automobile est paru chez Comcart. On trouve sur
+CD-ROM des cartes d'Allemagne aux échelles 1:200 000, 1:1 000 000 et et 1:8
+400 000, avec registre des localités, carte récapitulative avec les
+autoroutes et les voies rapides, les cartes pour traverser des agglomérations
+à l'échelle 1:100 000, ainsi que 75 plans de villes avec registres des rues.
+On peut calculer et imprimer le chemin optimal entre deux localités avec
+différents lieux de passage.
+</TX>
+<TX>
+On trouve des cartes semblables pour les USA, le Mexique, les Caraïbes et le
+Canada chez DeLorme: "Map'n'Go" est l'un des atlas électroniques les plus
+fiables, à la fois calculateur d'itinéraires et guide de voyage. Les
+localités peuvent être cherchées par le code postal et l'indicatif
+téléphonique. Le début et la fin du voyage est donné, le programme calcul le
+chemin. "Map'n'Go" contient aussi un guide de voyage, qui mentionne les
+particularités touristiques d'un itinéraire. DeLorme veut mettre
+prochainement sur le marché un guide semblable pour l'Europe.
+</TX>
+<ST>
+Guide de voyage sur CD-ROM
+</ST>
+<TX>
+En fait, il existe déjà toute une série de guides de voyage électroniques. Du
+"guide Baedeker USA" jusqu'à "Exotic Japan" de Voyager en passant par
+"Venise", le premier guide de ville de la maison Dumont, il y a une large
+palette de "livres" sur CD-ROM.  Encore que les produits ne sont souvent rien
+d'autre que des livres sur un support multi-médias.
+</TX>
+<TX>
+Mais, si les guides de voyage sont couplés avec des cartes électroniques,
+avec des informations sur les hôtels et un outil de planification, ils se
+transforment rapidement en instrument de travail efficace. Les agences
+s'intéressent fortement à cette forme de préparation de voyage. D'ici peu, on
+pourra organiser un voyage avec le guide électronique et réserver
+immédiatement auprès d'un tour-opérateur en appuyant sur un bouton.
+</TX>
+<TX>
+Note aux rédactions: Ce texte a été produit avec le soutien d'IBM (Suisse).
+L'indépendance rédactionnelle de l'ATS dans le choix et le traitement des
+sujets est garantie. Merci, en cas de publication, d'utiliser la signature
+(sim) ou (sim/ats), et non (ats).
+</TX>
+</DOC>

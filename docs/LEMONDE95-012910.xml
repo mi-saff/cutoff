@@ -1,0 +1,113 @@
+<DOC>
+<DOCNO>LEMONDE95-012910</DOCNO>
+<DOCID>LEMONDE95-012910</DOCID>
+<ACCOUNT>384200</ACCOUNT>
+<CHA1>1 </CHA1>
+<DATE>19950401</DATE>
+<LMDOC>MID</LMDOC>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q310395/1901</FAB>
+<NOTE>Doc: avec un dessin de Nicolas Vial</NOTE>
+<NUM1>950401-23</NUM1>
+<NAMES>TRIANTAFILLOU GEORGE,TRIANTAFYLLOU MICHAEL</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-023-31</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>MORIN HERVE</AUTHOR>
+<SIP1>HERVE MORIN</SIP1>
+<SOT1>Une mécanique des fluides particulière explique leur propulsion rapide dans l'eau</SOT1>
+<SU11>HORIZONS SCIENCES&gt;</SU11>
+<SYE1>POISSON,ROBOTIQUE</SYE1>
+<PAGE>1</PAGE>
+<TITLE>Un robot censé imiter la nage du thon  doit permettre de comprendre les mouvements des poissons</TITLE>
+<TEXT> MOBILIS IN MOBILE. En imaginant son sous-marin Nautilus, Jules Verne s'était sans doute inspiré des poissons, perpétuellement mobiles dans le 
+mouvant. Des chercheurs du Massachusetts Institute of Technology (MIT) ont fait de 
+même, pour mettre au point un robot qui, en imitant les mouvements natatoires du thon, 
+leur a permis de mieux comprendre la façon dont les animaux marins profitent des 
+tourbillons (vortex) qui agitent le milieu aquatique pour se propulser efficacement.</TEXT>
+<TEXT>
+  Dans un article publié dans le numéro de mars de la revue Scientific American, Michael 
+et George Triantafyllou décrivent leur Robo Tuna, et évoquent les perspectives offertes 
+par un tel automate, qui, perfectionné, pourrait explorer les fonds marins, aider à la 
+maintenance des installations pétrolières offshore... ou remplir des missions militaires. 
+Leur copie de thon en bois, aluminium et Lycra est encore bien loin de concurrencer son 
+modèle de chair et d'arêtes. Les performances animales sont en effet remarquables, même 
+s'il convient de se méfier des " records " enregistrés par des pêcheurs parfois mâtinés de 
+Tartarin.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ LE PARADOXE DE GRAY</TEXT>
+<TEXT>
+  Les dauphins vogueraient aisément à 60 km/h, en vitesse de croisière. Certains thons 
+seraient capables d'approcher les 80 km/h en vitesse de pointe. D'autres poissons peuvent 
+faire volte-face quasiment sans ralentir, avec un rayon de braquage représentant 10 % à 
+30 % de leur longueur totale. A titre de comparaison, les bateaux doivent réduire leur 
+vitesse de moitié, pour un rayon de braquage dix fois plus important... Quant à 
+#l'accélération, elle peut atteindre 20 G, chez certaines espèces carnivores, lors de brusques 
+" coups de reins " pour happer une proie. Depuis longtemps, le mode de propulsion des 
+animaux marins (poissons ou mammifères comme les cétacés) intrigue les scientifiques.</TEXT>
+<TEXT>
+ Comment, se demandent-ils, les poissons trouvent-ils, pour se mouvoir, des points d'appui 
+dans un milieu qui se dérobe constamment ? En 1936, le zoologiste britannique James Gray 
+avait ainsi remorqué un modèle rigide de dauphin dans un bassin, et comparé l'effort de 
+résistance obtenu à l'avancement dans l'eau à la force potentielle l'animal, compte tenu de 
+sa masse musculaire. Surprise : la force du mammifère marin était sept fois trop faible pour 
+atteindre les vitesses qu'on lui prêtait. Une mécanique des fluides particulière devait donc 
+permettre au dauphin de réduire par sept sa traînée.</TEXT>
+<TEXT>
+  Il a fallu près de soixante ans pour résoudre ce " paradoxe de Gray ". Les frères 
+Triantafyllou se disent persuadés que les mouvements natatoires de poissons produisent 
+des vortex qu'ils utilisent comme point d'appui pour se propulser plus efficacement. 
+Certains nageurs, qui utilisent des monopalmes et profitent du " reflet " de l'onde qu'ils 
+produisent sur le fond de la piscine pour se propulser à grande vitesse, affirment qu'ils ont 
+déjà ressenti ce phénomène.</TEXT>
+<TEXT>
+ Mais l'adaptation des poissons va bien évidemment plus loin : ils " surfent " sur les 
+tourbillons, s'en servant comme des sortes de ressorts. Ce phénomène permet aux 
+#saumons de remonter plusieurs centaines de kilomètres de rivière et de torrents sans 
+même s'alimenter, jouant des tourbillons créés par les galets comme d'autant de 
+#propulseurs et ascenseurs liquides, un peu comme les oiseaux se laissent porter par les 
+courants ascendants.</TEXT>
+<TEXT>
+  Les chercheurs américains ont pu vérifier ces hypothèses grâce à leur poisson mécanique 
+qui, placé dans un courant d'eau colorée, crée en effet des vortex avec sa nageoire 
+caudale. Ils reconnaissent que la construction d'un engin autonome, reproduisant 
+fidèlement les flexions harmonieuses et continuelles des poissons, reste hors de portée de 
+la robotique actuelle, mais font miroiter, au fond de leur bassin de carène, de futures 
+applications du biomimétisme, notamment militaires.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ " CARÈNE POILUE "</TEXT>
+<TEXT>
+  En France, la propulsion aquatique animale intéresse très peu les laboratoires, y compris 
+militaires. Seule l'étude des écoulements de la couche limite (qui sépare le mobile de 
+l'élément dans lequel il se meut) et les problèmes relatifs aux traitements de surface ont pu 
+mobiliser les chercheurs. On a ainsi cherché à reproduire la structure fine de la peau des 
+requins, dont on estimait qu'elle permettait de réduire la traînée. Les résultats n'ont 
+semble-t-il pas été à la hauteur des espérances.</TEXT>
+<TEXT>
+  L'initiative américaine laisse d'ailleurs sceptiques les bureaux d'études navales de la 
+direction de la recherche et de la technologie de la direction générale à l'armement. " Trop 
+exotique ", commente un ingénieur, qui a récemment rejeté un brevet de " carène poilue ". 
+Le biomimétisme a ses limites. " Si les avions battaient des ailes, il y aurait peu de chance 
+qu'ils volent à Mach 2 ", note un autre chercheur, plus confiant dans la puissance des 
+moteurs et des réacteurs.</TEXT>
+<TEXT>
+  De plus, l'intérêt militaire du Robo Tuna paraît limité, affirment certains experts, dans la 
+mesure où les poissons sont relativement " bruyants " dans leurs mouvements. Or ce que 
+les militaires recherchent avant tout, c'est le silence ou, à défaut, la discrétion. Et, en 
+termes d'acoustique sonar, un robot susceptible d'imiter les poissons manquerait 
+singulièrement de furtivité. Quant à imaginer un moyen de transport, il faudrait sans doute 
+avoir l'estomac bien accroché pour jouer les Jonas dans un " bâtiment " agité de spasmes 
+continuels...</TEXT>
+<TEXT>
+  Reste que les observations des chercheurs américains passionnent les naturalistes, qui 
+devront encore découvrir comment les poissons repèrent les tourbillons et les vortex sur 
+lesquels ils s'appuient. On peut supposer qu'ils utilisent un système de mesure de pression 
+disposé en ligne le long de leurs flancs, à moins qu'il ne coure sur toute la surface de la 
+peau, comme chez le dauphin, preuve que les roboticiens ne sont pas au bout de leur peine 
+pour imiter dame Nature.</TEXT>
+</DOC>

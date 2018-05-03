@@ -1,0 +1,69 @@
+<DOC>
+<DOCNO>LEMONDE95-034589</DOCNO>
+<DOCID>LEMONDE95-034589</DOCID>
+<ACCOUNT>413066</ACCOUNT>
+<CHA1>1</CHA1>
+<DATE>19950921</DATE>
+<LMDOC>BHL</LMDOC>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q200995/0993</FAB>
+<NUM1>950921-2-020-04</NUM1>
+<NAMES>DOLIGEZ DAMIEN</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-020-04</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>MORIN HERVE</AUTHOR>
+<SIP1> HERVE MORIN</SIP1>
+<SU11>AUJOURD ' HUI - SCIENCES</SU11>
+<PAGE>1</PAGE>
+<TITLE>La sécurité des réseaux informatiques mise à mal par un " hacker "</TITLE>
+<TEXT> DAMIEN DOLIGEZ a le triomphe modeste. Ce jeune hacker, informaticien de l'Institut national de recherche en informatique et automatisme (Inria), 
+vient pourtant de se tailler un franc succès au sein de la communauté cyberspatiale en " 
+cassant ", le 15 août, un code secret tiré d'une version internationale du logiciel Netscape 
+Navigator, qui équipe plusieurs millions des ordinateurs reliés au réseau. Ce logiciel, 
+généralement utilisé pour " surfer " d'un serveur à l'autre, doit en principe garantir la 
+confidentialité des communications à qui souhaiterait également utiliser le réseau pour 
+effectuer des achats. En donnant, par exemple, le numéro de leur carte bancaire.</TEXT>
+<TEXT>
+   Le " craquage " d'un tel code, qui n'avait rien de criminel, n'a pas manqué de relancer le 
+débat sur le chiffrement et la sécurité des réseaux informatiques. Damien Doligez n'y a vu 
+qu'un " hobby ". Ce normalien ironique " On a écrit que j'étais polytechnicien, c'est de la 
+diffamation ", lance-t-il sur le réseau relativise lui-même son exploit. Le logiciel auquel il 
+s'est attaqué, en réponse à un défi lancé sur le réseau le 14 juillet par un jeune Américain, 
+Hal Finney, n'était qu'une version bridée de Netscape. Elle a d'ailleurs été simultanément 
+" craquée " par trois autres amateurs de challenge informatique.</TEXT>
+<TEXT>
+   " Le code à décrypter ne comportait que 40 chiffres, alors que la version sûre, réservée 
+au marché américain et payante, compte 128 bits ", précise Damien Doligez. L'astuce a 
+consisté à profiter des congés pour faire travailler en parallèle cent douze ordinateurs de 
+l'Inria, de l'Ecole normale et de Polytechnique et trouver, après huit jours de calculs, le 
+code secret. " Le programme de décodage n'est pas très compliqué, assure-t-il. La partie la 
+plus rusée n'a d'ailleurs rien à voir avec la cryptographie, mais a consisté à faire marcher 
+les ordinateurs ensemble. " Un problème de " maspar " pour " massivement parallèle " 
+dont il a fait sa spécialité. Théoriquement, il existe 2³ combinaisons possibles d'un nombre 
+de quarante chiffres. Il a " suffi " aux ordinateurs de tester ces combinaisons une à une 
+pour dénicher la bonne. Simple question de " force bruten ", de puissance de calcul.</TEXT>
+<TEXT>
+   Netscape Communication Corp., récemment coté en Bourse, s'est empressé de souligner 
+que ce " craquage " avait demandé huit jours et représentait un coût de plus de 10 000 
+dollars, ajoutant qu'il suffisait de changer ce code pour anéantir les efforts du hacker. 
+Damien Doligez reconnaît volontiers l'efficacité de cette parade. Cependant, fin août, une 
+autre équipe a pu trouver la clé en trente-deux heures seulement, et il estime qu'un pirate 
+déterminé pourrait très facilement utiliser le réseau pour " enrôler " plusieurs milliers 
+d'ordinateurs à l'insu de leurs propriétaires et réduire le temps de calcul au demeurant 
+gratuit à moins d'une journée.</TEXT>
+<TEXT>
+   Mais sans doute ces considérations masquent-elles le fond du débat : si la version 
+internationale de Netscape Navigator n'a offert qu'une médiocre résistance, c'est parce 
+qu'elle avait été volontairement affaiblie à l'exportation à la demande des autorités 
+américaines, en vertu de la réglementation sur le commerce international des armes 
+(International Traffic in Arms Regulation, Itar), qui assimile les moyens cryptographiques 
+à des armements lourds.</TEXT>
+<TEXT>
+   " Si l'on voulait s'attaquer au code de 128 bits disponible aux Etats-Unis par la méthode 
+de la force brute, évalue Damien Doligez, il faudrait laisser tourner pendant six milliards 
+d'années un milliard d'ordinateurs un milliard de fois plus puissants que ceux dont je 
+dispose. " Preuve a contrario que le problème du chiffrement et de sa démocratisation est 
+astronomiquement plus politique que technique.</TEXT>
+</DOC>

@@ -1,0 +1,78 @@
+<DOC>
+<DOCID>ATS.950707.0108</DOCID>
+<DOCNO>ATS.950707.0108</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+950707
+</DT>
+<PT>
+114200
+</PT>
+<SC>
+bsf051 bsf
+</SC>
+<PC>
+3
+</PC>
+<IC>
+4
+</IC>
+<RC>
+ec
+</RC>
+<OC>
+ecf
+</OC>
+<DE>
+c5swi ecpt ecpc sta
+</DE>
+<AU>
+cz jn
+</AU>
+<KW>
+suisse chômage juin tableau cantons encadré
+</KW>
+<TI>
+
+Le chômage par canton au mois de juin encadré
+
+
+</TI>
+<LD>
+Canton Nombre de Variation Taux de Taux de chômeurs sur un mois
+chômage chômage en juin en juin en mai (en %) (en %)
+
+
+</LD>
+<TB>
+Suisse            146 342       - 5617            4,0     4,2
+Vaud               21 969       -  695            6,9     7,1
+Valais               8551       -  463            7,0     7,4
+Neuchâtel            4583       -  303            5,4     5,8
+Genève             13 218       - 1286            6,4     7,0
+Jura                 1636       -    3            5,0     5,0
+Tessin               8290       -  202            5,9     6,1
+Zurich             25 975       -  575            3,9     4,0
+Berne              15 825       -  493            3,2     3,3
+Lucerne              5001       -  106            2,9     3,0
+Uri                   211       -   40            1,3     1,5
+Schwytz              1070       -   17            1,8     1,8
+Obwald                239       -                 1,7     1,7
+Nidwald               330       -   25            1,9     2,0
+Glaris                379       +   17            1,9     1,8
+Zoug                 1276       -   48            2,7     2,8
+Fribourg             5778       -  124            5,4     5,5
+Soleure              4105       -  160            3,4     3,5
+Bâle-Ville           5000       -  212            4,9     5,1
+Bâle-Campagne        3843       -  168            2,9     3,0
+Schaffhouse          1317       -   93            3,5     3,8
+Appenzell RE          465       -   17            1,8     1,9
+Appenzell RI           37       -    9            0,5     0,7
+St-Gall              5711       -  113            2,6     2,7
+Grisons              1596       -  125            1,8     1,9
+Argovie              7456       -  293            2,7     2,8
+Thurgovie            2481       -   64            2,3     2,4
+</TB>
+</DOC>

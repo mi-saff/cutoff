@@ -1,0 +1,92 @@
+<DOC>
+<DOCNO>LEMONDE95-042090</DOCNO>
+<DOCID>LEMONDE95-042090</DOCID>
+<ACCOUNT>422653</ACCOUNT>
+<CHA1>1</CHA1>
+<DATE>19951116</DATE>
+<LMDOC>BHL</LMDOC>
+<ETA1>BASE</ETA1>
+<FAB>Q151195/1960</FAB>
+<SUBJECTS>LOGICIEL,PANNE,AUTOMOBILE,STATIONNEMENT,SON,BANQUE DE DONNEES</SUBJECTS>
+<NUM1>951116-2-022-31</NUM1>
+<NAMES>INSTITUT CITROEN,CITROEN,CLAIRIS TECHNOLOGIE,BLAGNAC</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-022-31</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>ALBERGANTI MICHEL</AUTHOR>
+<SIP1> MICHEL ALBERGANTI</SIP1>
+<SOT1>L'Institut Citroën utilise une sonothèque pour la formation de techniciens</SOT1>
+<SU11>AUJOURD ' HUI - SCIENCES</SU11>
+<PAGE>1</PAGE>
+<LEAD1>SONOTHEQUE DE BLAGNAC</LEAD1>
+<TITLE>Un logiciel aide à détecter  les pannes automobiles à l'oreille</TITLE>
+<TEXT> SIFFLEMENT de la distribution, claquement de poussoirs de soupapes, bruit de crécelle de la boîte de vitesses, ronflement d'un roulement de roue... 
+Devant son micro-ordinateur, le futur " technicien expert " mène l'enquête. En comparant 
+le bruit normal d'un modèle donné de voiture à celui du même véhicule présentant un 
+défaut, il cherche à identifier la nature de la panne.</TEXT>
+<TEXT>
+ Dans sa première version, la sonothèque ne comprenait que six bruits. C'est à ce stade 
+qu'elle a été testée auprès de mécaniciens chevronnés. Mais " nous disposons aujourd'hui 
+d'une banque de quarante et un bruits ", indique Bernard Crochet, responsable de la 
+formation technique automobile de l'Institut Citroën. " Tous ont été enregistrés avec un 
+microphone placé au niveau de la tête du conducteur sur des voitures Citroën qui 
+présentaient réellement le défaut correspondant ", ajoute-t-il.</TEXT>
+<TEXT>
+  </TEXT>
+<TEXT>
+ ENQUÊTE PAS À PAS </TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+  Cette exigence de réalisme a compliqué la tâche des concepteurs du logiciel qui ont défini 
+vingt-quatre familles de bruits pour couvrir ceux que l'on rencontre sur une automobile.</TEXT>
+<TEXT>
+  Dans la famille " ronflement ", ils ont, par exemple, enregistré le son correspondant à 
+différentes pannes émettant un bruit de ce type. Mais, précise Bernard Crochet, " il nous 
+manque encore certains sons comme le ``sirénage`` de la boîte de vitesses ", aucune 
+voiture Citroën présentant ce défaut n'ayant été trouvée jusqu'à présent !</TEXT>
+<TEXT>
+ Réalisé pour le compte de Citroën par Clairis Technologie, une PME de Blagnac (Haute-
+Garonne), le logiciel final contient cette base de données, ainsi qu'une " méthodologie de 
+recherche des incidents " et un module " d'entraînement à l'identification des bruits ".</TEXT>
+<TEXT>
+  Le technicien apprend à caractériser la famille à laquelle appartient chaque bruit 
+(crissement, craquement, couinement...). Les définitions, censées l'aider, restent assez 
+vagues. Ainsi, celle du " bruit d'air " indique qu'il s'agit " d'une perception similaire à un 
+bruit de soufflerie ". L'exercice de l'oreille est donc incontournable.</TEXT>
+<TEXT>
+ Pour trouver la panne, le stagiaire dispose également des éléments d'enquête qu'il peut 
+glaner dans un véritable garage : déclarations du client sur les circonstances dans 
+lesquelles la panne s'est produite, bruit perceptible à l'intérieur ou à l'extérieur de la 
+voiture, influence de la température moteur...</TEXT>
+<TEXT>
+  L'enquête est ainsi dirigée, pas à pas, par le logiciel. Ce qui permet au stagiaire de se 
+familiariser avec une méthode rationnelle d'analyse du problème.</TEXT>
+<TEXT>
+  Le logiciel qui dispense cette formation fonctionne sur un ordinateur multimédia de 
+configuration classique (type 486, 8Mo de Ram, carte son et haut-parleur). Conçu par 
+Citroën, ce matériel est, depuis deux mois,&gt; utilisé à Saint-Ouen (Seine-Saint-Denis), sur le 
+site de l'Institut de formation du constructeur automobile.</TEXT>
+<TEXT>
+  Dans le cadre d'un stage de six semaines, les techniciens des succursales et des 
+concessions consacrent environ huit heures à cet apprentissage original, le plan de Citroën 
+visant à former 462 techniciens experts en 1995. A terme, fin 1997, ils devraient être 1 600, 
+répartis sur tout le réseau.</TEXT>
+<TEXT>
+ </TEXT>
+<TEXT>
+ AIDE À LA RÉPARATION</TEXT>
+<TEXT>
+ Le logiciel, dont le développement a coûté 320 000 F et une bonne année-homme de travail 
+pour le personnel de l'Institut, n'a pas encore trouvé d'autres applications. Mais Bernard 
+Crochet cite le cas d'un directeur d'usine Citroën qui pense à l'utiliser pour former les " 
+essayeurs " qui testent les voitures en sortie de chaîne de montage. Nul doute que ce type 
+d'outil pourrait se développer dans d'autres secteurs industriels comme l'aéronautique ou 
+la mécanique.</TEXT>
+<TEXT>
+  A terme, on peut même imaginer que l'analyse du bruit devienne une aide à la réparation 
+et non plus, simplement, à la formation. Il suffirait d'intégrer un microphone dans la voiture 
+où il rejoindrait d'autres capteurs (température, pression...). L'ordinateur de bord, en 
+analysant le bruit, détecterait les pannes lorsqu'elles sont encore en gestation, ce qui 
+faciliterait le travail des garagistes et limiterait les factures de réparation.</TEXT>
+</DOC>

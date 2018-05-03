@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO>LEMONDE95-038223</DOCNO>
+<DOCID>LEMONDE95-038223</DOCID>
+<ACCOUNT>417774</ACCOUNT>
+<DATE>19951018</DATE>
+<LMDOC>BHL</LMDOC>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q171095/1166</FAB>
+<NUM1>951018-2-020-03</NUM1>
+<NAMES>GASSEE JEAN LOUIS,RIGEWALD ERICH</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-020-03</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>KAHN ANNIE</AUTHOR>
+<SIP1> ANNIE KAHN</SIP1>
+<SOT1>Ancien vice-président de Apple, Jean-Louis Gassée propose une machine équipée de deux multiprocesseurs, mais incompatible avec les autres micros</SOT1>
+<SU11>AUJOURD ' HUI - SCIENCES</SU11>
+<PAGE>1</PAGE>
+<LEAD1>LANCEMENT DE LA BEBOX, ET SON BIPROCESSEUR</LEAD1>
+<TITLE>Un Français lance un ordinateur original aux Etats-Unis</TITLE>
+<TEXT> JEAN-LOUIS GASSÉE revient sur le devant de la scène informatique. Ce Français de cinquante et un ans avait déjà défrayé la chronique en 1985 
+lorsqu'il fut nommé vice-président d'Apple aux Etats-Unis. Suite à un différend avec son 
+employeur, il décide, en 1990, de créer sa propre société, Be Inc. Des sociétés de capital-
+risque américaines et françaises (Innolion), des entreprises comme ATT et Zenith, mais 
+aussi des personnalités comme Seymour Cray participent à son capital.</TEXT>
+<TEXT>
+  Dans ses bagages, il emmène Erich Ringewald, ex-directeur du groupe MacOs, le 
+#système d'exploitation du Macintosh. Après cinq ans de travaux et un investissement de 9 
+millions de dollars (40 millions de francs), il a annoncé, au début du mois aux Etats-Unis et 
+mardi 17 octobre en France, la naissance d'un ordinateur doté d'une architecture originale 
+et d'un système d'exploitation spécialement conçu pour elle. Les adeptes de compatibilité 
+devront donc s'abstenir : la BeBox n'est compatible avec aucun ordinateur ni système 
+d'exploitation du commerce, et en particulier pas Windows 95.</TEXT>
+<TEXT>
+  La raison en est simple : le coeur de la machine est " biprocesseur ", c'est-à-dire 
+constitué de deux microprocesseurs Power PC. Cette puce, issue de l'association d'IBM, 
+de Motorola et d'Apple, est actuellement utilisée dans des ordinateurs du commerce, les 
+Power Mac en particulier. Mais elle n'est alors présente qu'à un seul exemplaire dans 
+chaque machine. Le fait d'en mettre deux rend l'ordinateur non seulement plus puissant, 
+plus rapide, mais aussi réellement capable d'effectuer deux tâches simultanément : se 
+connecter à un réseau comme Internet, par exemple, tout en concevant un jeu vidéo ou en 
+travaillant sur un autre programme. Le constructeur américain Dell a déjà lancé il y a 
+quelques mois une autre machine biprocesseur, l'Optiplex DGX 5100. Elle utilise deux 
+microprocesseurs Pentium, et le logiciel d'exploitation Windows NT de Microsoft. Mais les 
+tests effectués par l'hebdomadaire spécialisé 01-Informatique tendent à prouver que ce 
+système ne tire pas parti de la configuration biprocesseur.</TEXT>
+<TEXT>
+  Faute de système d'exploitation pour machine multiprocesseurs performant sur le marché, 
+Jean-Louis Gassée et son équipe ont donc décidé d'en écrire un ad hoc. Leur pari est 
+double. Ils doivent non seulement attirer une clientèle prête à s'équiper d'une machine hors 
+norme. Mais aussi convaincre les développeurs de logiciels de créer des programmes 
+spécifiques pour la BeBox. Dans un premier temps, la BeBox visera essentiellement le 
+marché des concepteurs d'applications dans les domaines du multimédia, de l'audiovisuel et 
+des télécommunications. Pour les séduire, elle dispose d'un atout de poids : son prix est de 
+10 000 francs pour une machine " nue ", c'est-à-dire sans clavier ni écran, soit entre 15 000 
+et 20 000 francs pour un ordinateur complet. Un prix nettement inférieur à celui d'une 
+station graphique, comme les consoles Sun ou Silicon Graphics, actuellement utilisées par 
+les ingénieurs concepteurs et plus généralement par tous les professionnels de l'image.</TEXT>
+</DOC>

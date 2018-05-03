@@ -1,0 +1,136 @@
+<DOC>
+<DOCID>ATS.940726.0084</DOCID>
+<DOCNO>ATS.940726.0084</DOCNO>
+<LC>
+F
+</LC>
+<DT>
+940726
+</DT>
+<PT>
+121500
+</PT>
+<SC>
+sim001 sim
+</SC>
+<PC>
+4
+</PC>
+<IC>
+4
+</IC>
+<OC>
+ecf
+</OC>
+<DE>
+ecps
+</DE>
+<AU>
+ee rp
+</AU>
+<KW>
+suisse informatique communications sans fil
+</KW>
+<TI>
+Les communications et l'informatique L'ordinateur sans fil à la patte
+éclairage par Alain R. Walon, SIM informatique.
+</TI>
+<LD>
+Berne, 26 juil (sim) Après avoir coupé le cordon ombilical électrique avec
+l'ordinateur portable, l'informatique s'emploie aujourd'hui à conquérir une
+nouvelle liberté. Elle s'affranchit des fils et prises de toutes sortes et de
+tous calibres qui relient les machines entre elles.
+</LD>
+<TX>
+Dans un monde réclamant sans cesse plus de flexibilité, de mobilité et de
+rapidité, les "communications sans fil" deviennent une nécessité impérieuse.
+Elles vont radicalement transformer le paysage informatique et, à travers
+lui, les méthodes de travail.
+</TX>
+<ST>
+Communication incontournable
+</ST>
+<TX>
+Voici dix ans déjà, les penseurs de l'informatique avaient conclu que
+l'ordinateur serait communicant ou ne serait pas. Des simples systèmes de 3
+ou 4 PCs d'une petite entreprise aux mailles tentaculaires couvrant toute la
+planète, les réseaux ont fleuri un peu partout et pris une expansion
+vertigieuse, créant un "village mondial de la communication" où l'on échange
+des données 24 heures sur 24, 7 jours sur 7, sur les 5 continents.
+</TX>
+<TX>
+Cette année, les Européens vont dépenser plus de 400 milliards de francs pour
+les services de télécommunications, dont une bonne partie pour la
+transmission de données, le courrier électronique, le multimédia, notamment.
+L'apparition d'une nouvelle génération d'ordinateurs de poche sans clavier
+appelés "Assistants Personnels Numériques" (PDA) et du téléphone cellulaire
+ne fait qu'amplifier le mouvement.
+</TX>
+<ST>
+Le "sans fil" commence au bureau
+</ST>
+<TX>
+Transférer les informations d'un portable sur un ordinateur de bureau
+constitue souvent un casse-tête de fils ou de logiciels.  Couramment
+utilisées dans les télécommandes de toutes sortes (TV, magnétoscope, portes
+de garage), les ondes infrarouge ont permis de s'en affranchir en créant des
+liaisons "à vue" de quelques mètres.
+</TX>
+<TX>
+De 115kbit/sec. actuellement, elles autoriseront bientôt 10 fois plus, voire
+100 fois plus. L'Association de l'informatique et des communications
+portables (PCCA) a adopté la norme sérielle infrarouge développée par
+Hewlett-Packard. Les principaux fabricants de semi- conducteurs intègrent
+maintenant cette technologie dans de minusculees puces bon marché qui vont
+effacer le cauchemar des écheveaux de fils.
+</TX>
+<ST>
+Mariage des ondes et de l'ordinateur
+</ST>
+<TX>
+Sur le terrain, la communication informatique repose classiquement sur la
+transmission par ligne téléphonique au moyen d'un "modem"
+(modulateur-démodulateur). Or, les besoins croissants de transferts de
+données ont fini par saturer les réseaux.
+</TX>
+<TX>
+Le téléphone cellulaire portable (Natel C et D) apporte une solution en
+augmentant sensiblement la mobilité. Il en va de même des communications
+radio par paquet, plus fiables encore et économiques.  Il manque toutefois
+une norme pour les nouveaux modems "sans fil" qui sera adoptée d'ici la fin
+1994 par la PCCA.
+</TX>
+<TX>
+Cette norme permettra la création de minuscules modems du format d'une carte
+de crédit (PCMCIA) qui donneront leur pleine efficacité aux ordinateurs de
+poche appelés "Assistants personnels." Ils permettront d'envoyer et de
+recevoir des informations de n'importe où ou presque.
+</TX>
+<ST>
+Enorme marché
+</ST>
+<TX>
+Dans un avenir proche, il sera également possible d'interconnecter bureaux,
+hôtels et foyers du monde entier dans la gigantesque toile d'araignée d'une
+multitude de réseaux en fibre optique, par radio, par satellite, etc. Ce
+projet passe par la création d'un langage commun pour se comprendre et éviter
+le chaos: des normes communes.
+</TX>
+<TX>
+C'est à ceci que s'emploie l'Institut of Electrical and Electronic Engineers
+(IEEE) en créant la norme DFWMAC (contrôle de l'accès aux média sans fil) et
+l'Institut Européen des Normes de Télécommunications (ETSI) en mettant au
+point des normes pour des réseaux sans fil à hautes performances. L'exercice
+ne se borne pas aux concepts avancés de quelques ingénieurs visionnaires. Les
+opérateurs de réseaux de télécommunications ont identifié là un immense
+marché de services qui ne fait que s'ouvrir et générera des centaines de
+milliards de revenus dans quelques années.
+</TX>
+<TX>
+Note aux rédactions: Ce texte a été produit avec le soutien d'IBM (Suisse).
+L'indépendance rédactionnelle de l'ATS dans le choix et le traitement des
+sujets est garantie. Vous recevez un texte SIM/Informatique tous les quinze
+jours. Merci, en cas de publication, d'utiliser la signature (sim) ou
+(sim/ats), et non (ats).
+</TX>
+</DOC>

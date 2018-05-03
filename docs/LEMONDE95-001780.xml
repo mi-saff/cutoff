@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO>LEMONDE95-001780</DOCNO>
+<DOCID>LEMONDE95-001780</DOCID>
+<ACCOUNT>368554</ACCOUNT>
+<DATE>19950117</DATE>
+<LMDOC>MID</LMDOC>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q160195/1751</FAB>
+<NUM1>950117-25</NUM1>
+<NAMES>LETI</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-025-33</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>KAHN ANNIE</AUTHOR>
+<SIP1> ANNIE KAHN</SIP1>
+<SU11>AUJOURD'HUI - SCIENCES</SU11>
+<PAGE>1</PAGE>
+<TITLE>La communication, nouvelle application pour les infrarouges</TITLE>
+<TEXT> EN AIDANT les adolescents à communiquer, les infrarouges trouvent là un nouveau champ d'application. Mais la technologie est éprouvée depuis 
+longtemps. C'est grâce aux infrarouges que l'on peut zapper d'une chaîne de télévision à 
+une autre, utiliser un clavier ou une souris sans fil pour actionner son micro-ordinateur, 
+porter un casque, sans fil également, pour écouter un disque sans gêner son entourage, par 
+exemple.</TEXT>
+<TEXT>
+ Invisible et insonore, la communication par infarouge présente en outre l'avantage d'être 
+extrêmement bon marché à mettre en oeuvre. Elle ne nécessite en effet que des 
+composants, très peu chers " d'un prix de revient de l'ordre de quelques francs ", explique 
+Daniel Amingual, chef du département optronique du LETI (Laboratoire d'électronique, de 
+technologie et d'instrumentation du Commissariat à l'énergie atomique).</TEXT>
+<TEXT>
+  Le rayonnement infrarouge, comme son nom l'indique, se caractérise par sa longueur 
+d'onde, supérieure à celle du rouge (0,8 micron), lui-même limite supérieure du spectre 
+visible par l'oeil. Les infrarouges peuvent être utilisés pour des applications très diverses 
+en fonction de leur longueur d'onde. Les télécommandes de télévision ou des 
+communicateurs personnels fonctionne avec un rayon de 0,9 micron de longueur d'onde. 
+Rien à voir donc avec les infrarouges utilisés par les militaires pour des systèmes de vision 
+nocturne et qui décèlent des infrarouges de 5 à 10 microns, longueur d'onde du 
+rayonnement émis par le corps humain.</TEXT>
+<TEXT>
+  Pour obtenir un rayonnement de 0,9 micron, les fabricants utilisent des diodes 
+électroluminescentes en arseniure de gallium (AsGa). Ce matériau a en effet la 
+particularité d'émettre une lumière de 0,9 micron de longueur d'onde lorsqu'on l'excite 
+avec un courant électrique. Si ce courant est modulé, par la parole par exemple, la lumière 
+émise varie comme la parole.</TEXT>
+<TEXT>
+  Pour recevoir et interpréter le message transmis, on utilise une photodiode en silicium, 
+capable de détecter des longueurs d'onde comprises entre 0,3 et 1 micron. S'il ne s'agit pas 
+d'échanger des messages oraux mais des informations codées (un texte frappé au clavier 
+par exemple, ou des ordres donnés sur une télécommande), le principe est le même. Il 
+suffit de coder chaque caractère : le " A " correspondra à un nombre donné d'impulsions, le 
+" B " à un autre, etc.</TEXT>
+<TEXT>
+  En fait, pour éviter que le message transmis ne soit brouillé par un autre émetteur de 
+lumière (comme un tube néon), on utilise une porteuse haute fréquence de quelques 
+centaines de kilohertz. Les informations pertinentes modulent cette porteuse dont la 
+fréquence est plusieurs fois supérieure à celle d'une lampe, ce qui met le message à l'abri 
+de toute confusion.</TEXT>
+<TEXT>
+  A la différence des liaisons radio (utilisées pour les téléphones portables par exemple), la 
+communication par infrarouge présente aussi la caractéristique de ne pouvoir franchir les 
+obstacles. Ce qui peut être un inconvénient lorsqu'il s'agit de téléphoner sur de longues 
+distances, mais présente en revanche un avantage pour les applications citées 
+précédemment. L'onde émise se réfléchit sur les murs de la pièce et atteint donc sans 
+problème son objectif même si on ne lui fait pas face. Dans uneclasse, un adolescent pourra 
+ainsi communiquer par infrarouge avec son voisin situé deux rangs derrière sans avoir à se 
+retourner !</TEXT>
+<TEXT>
+  En revanche, s'il ne trouve pas d'obstacle sur sa route, le rayonnement infrarouge peut 
+parcourir de longue distance sans déperdition d'information. Des études seraient 
+actuellement menées pour l'utiliser dans l'espace, entre deux satellites. Un faisceau laser 
+infrarouge serait utilisé pour émettre le rayonnement, ce qui permet d'établir une 
+communication très directive (à la différence des ondes radio) et préserve donc mieux le 
+secret de la communication.</TEXT>
+<TEXT>
+  Ce qui est loin d'être le cas dans une salle de classe, où tout possesseur d'un 
+communicateur pourra intercepter les messages. Attention aux médisances !</TEXT>
+</DOC>

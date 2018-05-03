@@ -1,0 +1,152 @@
+<DOC>
+<DOCNO>LEMONDE95-036354</DOCNO>
+<DOCID>LEMONDE95-036354</DOCID>
+<ACCOUNT>415281</ACCOUNT>
+<GENRE>DOSSIER</GENRE>
+<CHA1>1</CHA1>
+<DATE>19951004</DATE>
+<LMDOC>BHL</LMDOC>
+<DOS>GEN</DOS>
+<SUBJECTS>2</SUBJECTS>
+<ETA1>BASE</ETA1>
+<FAB>Q031095/1361</FAB>
+<NOTE>doc avec un schema</NOTE>
+<NUM1>951004-2-021-02</NUM1>
+<NAMES>ADLEMAN LEONARD</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-021-02</REFERENCE1>
+<SEC1>SCI</SEC1>
+<AUTHOR>MORIN HERVE</AUTHOR>
+<SIP1>HERVE MORIN</SIP1>
+<SOT1>Les propriétés de l'ADN pourraient  faciliter la résolution de problèmes mathématiques  complexes</SOT1>
+<SU11>AUJOURD ' HUI - SCIENCES</SU11>
+<PAGE>1</PAGE>
+<LEAD1>DOSSIER 3/4 DE PAGE : LE SCHEMA EST INTITULE : UN "JEU DE DOMINOS" GENETIQUE, PRESENTATION DU PROBLEME DU "CHEMIN HAMILTONIEN'</LEAD1>
+<TITLE>Un chercheur américain jette les bases de l'ordinateur moléculaire</TITLE>
+<TEXT>LA MOLÉCULE contre le processeur.  Le biologique contre l'électronique. Une nouvelle révolution industrielle se profile -t-elle derrière la trouvaille 
+d'un  touche-à-tout chercheur à l'université de Californie du Sud ? Il est encore trop tôt 
+pour l'affirmer. Mais il est  certain que les travaux de Leonard Adleman ont jeté les bases 
+d'un nouveau champ de recherche, à la front ière de  la biologie, des mathématiques et de 
+l'informatique.</TEXT>
+<TEXT>
+  Leonard Adleman n'en est pas à son coup d'essai. Dans  les années 70, il avait bouleversé 
+la cryptographie,  science du codage des données, en contribuant à la mise  au point des 
+premiers système s d'échange de données à  clef publique. Il se propose cette fois d'utiliser 
+des séquences d'acide désoxyribonucléique (ADN), qui constituent le support de l'hérédité, 
+pour résoudre d'épineux problèmes  de mathématique combinatoire.</TEXT>
+<TEXT>
+ L'un des plus célèbres  d'entre eux est celui dit du " voyageur de commerce " :  comment 
+un VRP doit-il s'organiser pour visiter un nombre  de villes donné sans repasser par le 
+même point et en faisant le moins de route possible ? Au-delà de quelques  milliers de 
+points, les ordin ateurs les plus puissants  finissent par s'égarer.</TEXT>
+<TEXT>
+ Le problème auquel Adleman s'est  attaqué est assez proche de celui-ci. Il consiste à 
+vérifier  l'existence d'un " chemin hamiltonien " dans un graphe  orienté, pour reprendre le 
+jargon des mathématiciens.  Plus clairement, il s'agit de déterminer s'il existe un moyen de 
+relier un nombre de points donné en empruntant des chemins à sens unique. L'astuce 
+d'Adleman a consisté  à figurer chacun des points (ville) et des lignes (routes)  les reliant 
+par une séquenc e de vingt nucléotides, ces  molécules qui s'enchaînent pour former les 
+brins d'ADN.</TEXT>
+<TEXT>
+  </TEXT>
+<TEXT>
+Une fois mélangées,</TEXT>
+<TEXT>
+ les molécules</TEXT>
+<TEXT>
+ se combinent</TEXT>
+<TEXT>
+  les unes aux autres</TEXT>
+<TEXT>
+ pour former une</TEXT>
+<TEXT>
+ variété de chaînes </TEXT>
+<TEXT>
+ quasi infinie</TEXT>
+<TEXT>
+</TEXT>
+<TEXT>
+</TEXT>
+<TEXT>
+ Or, il est possible de fabriquer  de  telles séquences qui soient complémentaires les unes 
+des  autres et capables de s'associer deux à deux, comme les jetons d'un jeu de dominos. 
+Par exemple, les dix derniers nucléotides d'une séquence s'accolent aux dix premiers de  la 
+suivante, et ainsi  de suite, jusqu'à former l'ensemble  des maillons d'un graphe.</TEXT>
+<TEXT>
+ Le génie de la méthode Adleman,  c'est de laisser mère Nature faire le principal : une fois 
+mélangées, les molécules se combinent les unes aux autres pour  former une variété de 
+chaînes quasi i nfinie. L'hypothèse  est que, parmi tous ces ensembles moléculaires, il y en  
+aura bien un qui correspondra au " bon " circuit. C'est  là que la " cuisine de laboratoire " 
+intervient, afin de  sélectionner les combinaisons qui reprennent le graphe  recherché.  
+Celui d'Adleman comptait sept " villes " et  six " routes ". Il a donc fallu éliminer toutes les 
+molécules qui comportaient plus ou moins de treize séquences de nucléotides, puis 
+sélectionner celles qui rassemblaient chacun des sommets dans l'ordre voulu.</TEXT>
+<TEXT>
+ Sans cette expérience,  qui a tout de même nécessité sept jours de manipulations et  
+d'analyses biochimiques et qui a tout de " l'usine à gaz ",  pour reprendre l'expression d'un 
+chercheur, il aurait été très facile de montrer, y compris manuellement, qu' un tel graphe 
+existait. L'intérêt réside donc non pas dans le résultat obtenu, mais dans la méthode 
+employée, qui ouvre  de nouvelles perspectives au parallélisme massif,  c'est-à-dire la 
+capacité d'effectuer simultanément  un très grand nombre d'opérations. </TEXT>
+<TEXT>
+ " Les ordinateurs les plus rapides peuvent actuellement exécuter environ mille milliards 
+d'opérations par seconde, estime Adleman.  Si l'on considère qu'une liaison entre deux 
+nucléotides  constitue une opération élémentaire, on peut considérer  que cent  mille 
+milliards d'entre elles ont été réalisées,  presque instantanément, au cours de la première 
+phase de  l'expérience. " L'énergie dépensée serait infiniment moindre  et le stockage 
+d'informations sous forme d'ADN plus dense qu'avec des moyens courants .</TEXT>
+<TEXT>
+ Mais cet enthousiasme est loin d'être partagé par l'ensemble de la communauté 
+scientifique. Début avril, suite au premier article d'Adleman, paru en novembre 1994, 
+l'hebdomadaire américain  Science a publié plusieurs lettres très critiques. Dans sa démo 
+nstration, le chercheur a en effet omis un détail  : le nombre de molécules à utiliser croît de 
+façon  exponentielle en fonction du nombre de points du  graphe. " Pour relier de façon 
+optimale 70 points, soulignent ainsi Michal et Nathan Linial, de l'Hebrew   University de 
+Jérusalem, il faudrait 10 000 milliards de milliards de tonnes de nucléotides... " Un peu  
+dispendieux, lorsqu'on sait que les ordinateurs classiques ont déjà permis de résoudre des 
+graphes  comportant jusqu'à 7 397 points. C'est que, dans ces  machines, l'intelligence s'est 
+alliée à la puissance,  pour forger des algorithmes qui réduisent sensiblement le nombre 
+des opérations.</TEXT>
+<TEXT>
+ L'" ordinateur moléculaire " ne serait-il donc qu'une curiosité de laboratoire de plus ? " 
+Dans ces domaines, il faut  raisonner à très long terme.  Même si le dispositif d'Adleman 
+s'apparente au  marteau-pilon écrasant une mouche, il a le mérite de  mettre en lumière les 
+potentialités de l'électronique  moléculaire ", affirme André Barraud, qui en a fait sa 
+spécialité au Co mmissariat à l'énergie atomique (CEA). Lui-même a fait fonctionner des 
+transistors à base de  molécules  " avec des performances un million de fois  moins bonnes 
+que celles des transistors classiques ",  précise-t-il. En avril dernier, un modèle de diode  
+moléculaire a été mis au point par une équipe allemande,  et un autre chercheur d'outre-
+Rhin, Hans Kuhn, a fabriqué un fil électrique moléculaire (Le Monde du 21 avril 1995).  
+Cette panoplie est encore sans véritable objet. Mais André Barraud estime que l'élec 
+tronique moléculaire a besoin de ces " démonstrateurs " pour progresser, pas à pas. Il ne s 
+'agirait là que des premières briques au service d'une  architecture qui reste encore à 
+édifier.</TEXT>
+<TEXT>
+</TEXT>
+<TEXT>
+" Dans ces  domaines,</TEXT>
+<TEXT>
+ il faut raisonner</TEXT>
+<TEXT>
+ à très long terme "</TEXT>
+<TEXT>
+</TEXT>
+<TEXT>
+</TEXT>
+<TEXT>
+ Les molécules ont en effet cet avantage, par rapport aux 0 et 1 du langage binaire utilisé 
+en informatique, de véhiculer  en grande quantité des informations extrêmement riches. 
+Envers de la médaille : ces composants biologiques sont  relativement frag iles  sans parler 
+de leur coût. Rien ne garantit, en outre, qu'ils ne commettent aucune " erreur " lors de 
+leurs recombinaisons multiples, comme le souligne Adleman lui-même.</TEXT>
+<TEXT>
+ Est-ce une raison pour renoncer ? Certes  non, répondent ses émules. De fait, u n autre 
+chercheur américain, Richard Lipton, de l'université Princeton, a montré, en avril, que 
+l'ADN pouvait s'attaquer à une autre  forme de problème mathématique, toujours grâce à 
+son " immense parallélisme ". " Même s'il ne s'agit là que de balbutiemen ts, il pourrait y 
+avoir quelque raison de s'inspirer de la chimie  combinatoire, souligne pour sa part Thomas 
+Simonson, du laboratoire de biologie structurale d'Hillkirsch-Graffenstadten  (Bas-Rhin). 
+Elle est à l'origine d'un certains nombre de systèmes qui , dans la nature, ont fait leurs 
+preuves. "  L'ordinateur moléculaire ultime, encore inimitable, n'est-il pas le cerveau 
+humain ?</TEXT>
+</DOC>

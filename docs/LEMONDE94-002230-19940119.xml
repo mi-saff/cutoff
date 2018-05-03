@@ -1,0 +1,120 @@
+<DOC>
+<DOCNO>LEMONDE94-002230-19940119</DOCNO>
+<DOCID>LEMONDE94-002230-19940119</DOCID>
+<ACCOUNT>320991</ACCOUNT>
+<CHA1>Indispensable au cryptage des messages informatiques, la primalité des grands nombres est désormais accessible aux ordinateurs</CHA1>
+<DATE>19940119</DATE>
+<LMDOC>JGB</LMDOC>
+<DOS>GEN</DOS>
+<SUBJECTS>CHIFFRE,MATHEMATIQUES,ETATS UNIS</SUBJECTS>
+<FAB>03</FAB>
+<NOTE>(1) Théorème selon lequel b_b est un multiple de m lorsque m est un nombre premier.</NOTE>
+<NAMES>SCIENCE,CRAY RESEARCH,SLOWINSKI DAVID,GAGE PAUL</NAMES>
+<PUM1>QUO</PUM1>
+<REFERENCE1>2-012-32</REFERENCE1>
+<SEC1>MCI</SEC1>
+<AUTHOR>VINCENT CATHERINE</AUTHOR>
+<PAGE>186</PAGE>
+<TITLE>258 716 chiffres pour un nombre premier</TITLE>
+<TEXT>LES nombres premiers, qui sont à la multiplication ce que sont les atomes à la matière, font partie de ces évidences mathématiques que 
+les mathématiques ne parviennent pas à dompter. Les Grecs, déjà, 
+connaissaient leur existence, et le théorème fondamental de 
+l'arithmétique enseigne que " tout nombre entier supérieur à 1 est 
+soit premier, soit décomposable de façon unique en un produit de 
+nombres premiers " (ainsi le nombre composé 18, égal à 2 3 3). Mais 
+aucun test, aucune équation simple ne permettent depuis lors de 
+vérifier instantanément si un nombre est premier ou non.</TEXT>
+<TEXT>
+  C'est dire la prouesse que représente la découverte de deux 
+chercheurs de la société Cray Research, qui viennent de publier leurs 
+travaux dans la revue américaine Science. En faisant tourner sept 
+heures durant l'un des superordinateurs les plus puissants au monde, 
+David Slowinski et Paul Gage ont déniché un nombre premier constitué 
+de... 258 716 chiffres. Un nombre dont l'écriture intégrale 
+remplirait une dizaine de pages du Monde, et qui, comme tous les 
+représentants de cette famille mathématique, ne peut être divisé que 
+par lui-même ou par le chiffre 1, mais ne peut être le produit de 
+deux entiers plus petits que lui.</TEXT>
+<TEXT>
+  Longtemps, le seul moyen de parvenir à déterminer la primalité d'un 
+nombre fut de diviser celui-ci par la suite des entiers (2, 3, 4, 
+etc.) et de voir si la division tombait " juste " ou pas. Une méthode 
+fiable, mais bien peu utile dès lors qu'il s'agit de tester un nombre 
+premier de grande taille. Pour vérifier de cette manière si un nombre 
+de cent chiffres est premier ou non, il faudrait, en effet, en 
+utilisant un gros ordinateur, mettre celui-ci à contribution pendant 
+des dizaines d'années.</TEXT>
+<TEXT>
+  Or, la recherche des nombres premiers, et surtout des plus grands 
+d'entre eux, n'a pas pour seul objet l'amour des mathématiques. En 
+cette fin de siècle informatisée, elle répond surtout à la nécessité 
+de protéger du piratage les réseaux d'ordinateurs les plus " 
+sensibles " _ ceux des armées, des banques, des gouvernements _, en 
+cryptant les messages véhiculés par ces réseaux, de manière à ce que 
+seuls leurs destinataires soient à même de les recevoir _ technique 
+qui, précisément, repose sur l'utilisation des nombres premiers.</TEXT>
+<TEXT>
+  Prenons en effet deux d'entre eux, 43 et 61. Leur produit, égal à 2 
+623, constitue un nombre " factorisable ". Partant de ce nombre, 
+comment trouver les facteurs dont il est le produit ? C'est sur cette 
+difficulté que s'appuie la technique du cryptage des messages 
+informatiques. Si la multiplication de 43 par 61 est aisée, il est en 
+effet nettement plus fastidieux, partant du nombre 2 623, de 
+retrouver les deux nombres premiers qui lui ont donné naissance. Et 
+la recherche de ces facteurs devient quasiment hors de portée du 
+meilleur ordinateur, dès lors que l'on a recours à des nombres 
+premiers de plusieurs centaines de chiffres.</TEXT>
+<TEXT>
+ Une batterie de mille ordinateurs</TEXT>
+<TEXT>
+  Que le destinataire d'un message confidentiel choisisse deux ou 
+trois grands nombres premiers, qu'il diffuse à ses correspondants le 
+résultat de leur produit, et celui-ci constituera ainsi une véritable 
+" clé ". A la réception, seul le dépositaire de ce code sera capable 
+de lire les messages qui lui sont destinés, puisque lui seul connaît 
+la porte _ les fameux nombres premiers _ qu'ouvre cette clé. Elaboré 
+en 1977 par les chercheurs Ronald Rivest, Adi Shamir et Leonard 
+Adleman, ce système de codage, dit " à clé révélée ", est considéré 
+comme le plus fiable de tous ceux dont disposent à ce jour les 
+experts en cryptographie. A une condition, toutefois : que les 
+nombres premiers utilisés pour former cette clé soient vraiment très, 
+très grands.</TEXT>
+<TEXT>
+  A preuve : il y a quelques années, une équipe de mathématiciens du 
+département de recherche de la société Bell réussissait à briser 
+l'inviolabilité supposée d'un nombre de cent cinquante-cinq chiffres, 
+en découvrant les deux nombres premiers dont il était le produit. 
+Cette factorisation, il est vrai, avait demandé la mobilisation, 
+plusieurs heures durant, d'une batterie de mille ordinateurs (le 
+Monde du 27 juin 1990). Mais la démonstration était faite : les 
+réseaux d'ordinateurs se multipliant, les pirates informatiques se 
+perfectionnant, il fallait, pour garantir le secret des messages les 
+plus sensibles, trouver de nouveaux nombres premiers, toujours plus 
+grands et plus inviolables.</TEXT>
+<TEXT>
+  La méthode des diviseurs, seule capable il y a encore quinze ans de 
+déterminer la nature première ou non d'un nombre, n'était pas de 
+taille face à de tels impératifs. Il fallut donc, une fois encore, 
+que les mathématiciens se mettent au travail. En 1980, le même 
+Leonard Adleman, accompagné du mathématicien Robert Rumely, mit ainsi 
+au point un test de primalité qui bouleversa littéralement les 
+perspectives offertes par les nombres premiers. Grâce à ce test, 
+fondé tout à la fois sur la théorie algébrique des nombres et sur le 
+petit théorème de Fermat (1), il devenait soudain possible à un gros 
+ordinateur de déterminer si un nombre de cent chiffres était premier 
+ou non en moins de douze heures.</TEXT>
+<TEXT>
+  Amélioré depuis lors par d'autres chercheurs, le test 
+d'Adleman-Rumely est devenu plus rapide encore, et permet désormais 
+d'étudier un nombre de cent chiffres en moins d'une minute. C'est à 
+cette même méthode que l'on doit aujourd'hui le nombre premier que 
+David Slowinski et Paul Gage viennent d'offrir aux mathématiques. 
+Découvert dans le cadre d'un programme antivirus mené par la société 
+Cray Research pour protéger ses superordinateurs, ce nombre est le 
+plus grand de son espèce connu à ce jour, puisque le précédent record 
+était détenu par un nombre composé de " seulement " 227 832 chiffres. 
+Et encore ne s'agit-il que d'une étape parmi d'autres. Euclide, en 
+effet, l'avait déjà démontré : aussi mal connu soit-il, l'ensemble 
+des nombres entiers est à coup sûr infini.&lt;
+</TEXT>
+</DOC>
